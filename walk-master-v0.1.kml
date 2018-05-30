@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Walk Your Bike</name>
+    <Style id="line-20F46B-3000-nodesc-normal">
+      <LineStyle>
+        <color>ff6bf420</color>
+        <width>3</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-20F46B-3000-nodesc-highlight">
+      <LineStyle>
+        <color>ff6bf420</color>
+        <width>4.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-20F46B-3000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-20F46B-3000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-20F46B-3000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-4294-nodesc-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>4.294</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-C2185B-4294-nodesc-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-C2185B-4294-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-4294-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-4294-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Placemark>
+      <name>Bonus at Colfax</name>
+      <description>Cross Colfax at the crosswalk. Walk on the sidewalk along Colfax to St. Paul. Street View: https://goo.gl/maps/iPBBgG4WF5n</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.95022535324097,39.74029542688458 -104.95021730661392,39.74006442818156 -104.95059013366699,39.74006649067341
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Bonus at 6th</name>
+      <description>Cross 6th. Ride on. Street View: https://goo.gl/maps/hVC9JhA1ntt</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.95104342699051,39.725685297566116 -104.95110780000687,39.7255182006694
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Bonus at 1st</name>
+      <description>Walk in the series of crosswalks to cross 1st. Street View: https://goo.gl/maps/YdXs376kxpH2. <br/> Ride on sidewalk to Cherry Creek Trail.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.9499262869358,39.71794065291955 -104.94998529553413,39.71791589506898 -104.95005771517754,39.717922084532454 -104.95012745261192,39.717918989800786 -104.95013818144798,39.717899389830315 -104.95013684034348,39.71787360038701 -104.95008185505867,39.71779313726192 -104.95020255446434,39.71770751614112 -104.9502481520176,39.717606421186936 -104.9503567814827,39.71752286300069
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Canvas at Madame CJ Walker Park</name>
+      <description>Dismount. Walk across the park. Ride on.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.96472805738449,39.759541910594244 -104.96472537517548,39.7591831375226
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Country at University</name>
+      <description>(1) Walk eastbound on the sidewalk along Ohio and cross University at the light. Street view: https://goo.gl/maps/vYLwQnM8T3J2. (2) Walk southbound on the sidewalk along University to Kentucky. Street view: https://goo.gl/maps/DmP8g4DG5EL2.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.96050827205181,39.701980311712056 -104.9602997303009,39.70197824808083 -104.95944947004318,39.701980311712056 -104.95935425162315,39.701983407158814 -104.95919197797775,39.701991661682754 -104.95919600129126,39.70151908859659 -104.95919466018675,39.70093094726629 -104.95919600129126,39.700315973076094
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Country at Bonnie Brae Park</name>
+      <description>Walk on the sidewalk through Bonnie Brae Park. Street view: https://goo.gl/maps/Z7Hr3BQcq632</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.95507478713989,39.700193183948876 -104.95499700307846,39.700139528127224 -104.95492458343504,39.70012920969522 -104.95459198951721,39.700137464440964 -104.9544095993042,39.700139528127224 -104.95430767536163,39.70016222867227
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Entrance along 28th</name>
+      <description>28th is one-way southbound between Welton and Clarkson. When northbound, walk on the sidewalk along 28th to Welton and cross. North of Welton 28th is two-way. Street view: https://goo.gl/maps/DcwefZDZm2C2.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.97698575258255,39.755747893836954 -104.97677654027939,39.75560973819604 -104.97678726911545,39.755566435624665 -104.97673898935317,39.75552931911327 -104.97651100158691,39.7553622945644 -104.9764895439148,39.75534579829069 -104.97636616230011,39.755281875192736
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Entrance at Park/19th/Emerson</name>
+      <description>(1) Walk on the sidewalk along 19th and cross Park at the crosswalk. Then cross 19th at the crosswalk. Street view: https://goo.gl/maps/2aKCo21hSqL2. <br/>(2) Walk on the sidewalk along Park and cross Emerson. Walk on the sidewalk along Emerson and cross 18th. Street view: https://goo.gl/maps/FCDHyQTvQjn.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.97622936964035,39.74627637371421 -104.97688114643096,39.7462825606318 -104.97658878564835,39.746066018185914 -104.97651636600494,39.74600002416235 -104.97622936964035,39.74577729386609 -104.97600942850113,39.745612307997284 -104.97600942850113,39.74492142538068 -104.97600674629211,39.74475849981387
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Entrance at Colfax</name>
+      <description>Walk on the sidewalk along Colfax and cross at the light at Clarkson. Walk back to Emerson. Street view: https://goo.gl/maps/cj6XWtVnjt32.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.97625350952148,39.74012217792992 -104.97747659683228,39.740126302910085 -104.97757315635681,39.73991799110277 -104.97657269239426,39.7399303660792
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Entrance at 3rd/Speer</name>
+      <description>(1) When headed west, walk on the sidewalk along 3rd to Speer. Street view: https://goo.gl/maps/epGBG1Cfx892. <br/>(2) Cross Speer in at the light and walk on the sidewalk on the bridge over Cheery Creek. Street view: https://goo.gl/maps/5CwGvSADXWP2. <br/> (3) Cross the second half of Speer at the light and proceed on the sidewalk through the park to 1st. Street view: https://goo.gl/maps/Nm1Bp4e4Fmk.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.97647076845169,39.72009455189874 -104.977245926857,39.7200966149881 -104.97727543115616,39.72006979482134 -104.97747123241425,39.71995013548876 -104.97747391462326,39.71992744145398 -104.9774658679962,39.71950037958885 -104.97744709253311,39.71947768540609 -104.9773907661438,39.71926518496866 -104.97730493545531,39.71912901929562 -104.97722715139389,39.718994916476085 -104.97706890106201,39.718794793322 -104.9770125746727,39.71874940448461 -104.97691601514816,39.718652437322845 -104.97684895992279,39.718545154346714 -104.97681677341461,39.71844818689778 -104.97683823108673,39.7184069241122
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Entrance at Alameda</name>
+      <description>Walk on the sidewalk along Alameda and cross at Emerson. Walk back along Alameda to Ogden and proceed on bike. Street view: https://goo.gl/maps/xtX99Q1XkoA2.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.97581094503403,39.711185556461 -104.97683554887772,39.71118761981684 -104.97681140899658,39.71103493131564 -104.97580826282501,39.71104524811691
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Entrance at Louisiana/Buchtel/I-25</name>
+      <description>(1) Walk on the sidewalk along Louisiana and cross at the light at Emerson. Street view: https://goo.gl/maps/zR7dYU83nfz. <br/> (2) Walk along Emerson and cross Buchtel at the light. Street view: https://goo.gl/maps/5ebZyVgQm462. <br/> (3) Walk on the sidewalk on the bridge over I-25 and cross south eastbound Buchtel. There is no traffic light. Street view: https://goo.gl/maps/5nXUrdDUv9H2.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.97585117816925,39.69307929636501 -104.97688114643096,39.69309167974803 -104.97684895992279,39.69291418437901 -104.97684359550476,39.69268302693517 -104.97684895992279,39.69250553051538 -104.97687578201294,39.69246838004418 -104.97688114643096,39.69151897232953 -104.97685968875884,39.6912176358468
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Entrance at Evans</name>
+      <description>Walk on the sidewalk along Downing and cross Evans at the light. Street view: https://goo.gl/maps/HJtJRafJHeo.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.97353106737137,39.68026130396733 -104.97353643178938,39.679208512865536 -104.97353240847588,39.678649082044544 -104.97355118393898,39.678406522992454 -104.97354179620743,39.67803907020996 -104.97354716062546,39.67782644214517 -104.9735552072525,39.67678496804251
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Garland at Cherry Creek South Drive</name>
+      <description>Walk on the sidewalk along Cherry Creek South Drive and cross at Garfield. Street view: https://goo.gl/maps/kTFBDNi9SuE2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.94998395442963,39.71286510771992 -104.94969695806503,39.71258656089249 -104.94962453842163,39.71252466144477 -104.9492758512497,39.712235796620995 -104.94909077882767,39.71208311043974 -104.94892448186874,39.711938677254565 -104.94832366704941,39.7114393487702 -104.94736075401306,39.710603687642454 -104.9461966753006,39.70963802217658 -104.94640052318573,39.70949358387216 -104.94632005691528,39.70942342801519
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>General at State Capitol</name>
+      <description>Walk on the sidewalk around the capitol. Street View: https://goo.gl/maps/5teQTLWJ3zp</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.98498141765594,39.7399262410873 -104.985171854496,39.73983961620038 -104.98533010482788,39.73975299120453 -104.98542666435242,39.739684928631426 -104.9855124950409,39.73954261576133 -104.9855500459671,39.739408552643866 -104.9855849146843,39.73928686435762 -104.98559296131134,39.73921261377233 -104.98558223247527,39.73913630058742 -104.98554468154907,39.739047612185246 -104.98551517724991,39.738965111243566 -104.98546689748764,39.73885785987174 -104.98536229133605,39.738762983519095 -104.98523890972136,39.738686669836284 -104.98513966798781,39.73862891888501 -104.98505383729935,39.73858560563982 -104.98501628637314,39.73856085520177
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>General at 6th/Speer</name>
+      <description>North to South: (1) Cross 6th at the crosswalk. Street View: https://goo.gl/maps/uMNbKq9o1QL2. (2) Walk along Speer on the sidewalk to Grant. Street View: https://goo.gl/maps/qbWKUtbV6wp. (3) Cross Speer on Grant at the crosswalk. Street View: https://goo.gl/maps/bViKTEuRdx62. (4) Walk along Speer on the sidewalk to Sherman. Street View: https://goo.gl/maps/ZAjcsKXi7c92</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.98489558696747,39.72576575148306 -104.98476952314377,39.72575956272355 -104.98474270105362,39.72572861891767 -104.98475074768066,39.72553470408465 -104.9847775697708,39.72552232652358 -104.98478561639786,39.72546662747136 -104.98476147651672,39.72540061372159 -104.98472660779953,39.72537173268618 -104.98438864946365,39.72501897049175 -104.9837502837181,39.72436295178752 -104.98372614383698,39.72433200735487 -104.983731508255,39.724218544316344 -104.98374491930008,39.72404319198047 -104.9837502837181,39.723999869569994 -104.98382270336151,39.72375643837627 -104.98384416103363,39.723678045097074 -104.98387098312377,39.72366360422013 -104.98389244079588,39.723368597072 -104.98473197221756,39.72410508109111 -104.98493045568466,39.724103018121646 -104.9849545955658,39.72407413654274
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Method at Colorado</name>
+      <description>Walk on the sidewalk from Harrison along 29th and cross at the light at Colorado. Walk on the sidewalk to Albion. Street view: https://goo.gl/maps/xtVcjNT61m62</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.94173884391785,39.758123302705755 -104.9416932463646,39.75815010806755 -104.94163691997528,39.758145984166404 -104.94152426719666,39.75815835586904 -104.9414277076721,39.75818103731814 -104.94130432605743,39.758216090452066 -104.94124263525009,39.758224338245704 -104.94112730026244,39.75823877188215 -104.94103074073792,39.758247019673064 -104.94090735912323,39.758249081620605 -104.94078665971756,39.758249081620605 -104.94077056646347,39.75823258603832 -104.9404513835907,39.758230524090244 -104.94040578603745,39.758247019673064 -104.94030117988585,39.758249081620605 -104.94012415409088,39.758249081620605 -104.93998199701309,39.758249081620605 -104.93994981050491,39.75823464798632 -104.93949383497237,39.75823877188215
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Method at Monaco</name>
+      <description>Cross half of Monaco into the wooded parkway. Cross the second half of Monaco. Street view: https://goo.gl/maps/yMAYyZDQcY32</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.91292923688889,39.756527333902724 -104.91272807121277,39.75652320990441 -104.91245716810226,39.75653145790076 -104.91229891777039,39.75653145790076
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Method at Quebec</name>
+      <description>(1) Walk on the sidewalk along Quebec and cross at the light at 29th. Street view: https://goo.gl/maps/EwffvgupSLM2. <br/>(2) Walk on the sidewalk through the Founder's Green shopping area, around Founder's Green Park to Spruce. Street view: https://goo.gl/maps/pnB8amN7Vgr</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.90357100963593,39.758351147948275 -104.90355625748634,39.758331559472886 -104.90355491638184,39.75795628444739 -104.90320891141891,39.75795834640366 -104.90311905741692,39.75799030671805 -104.90303456783293,39.75798824476272 -104.90282602608204,39.757989791229214 -104.90267649292946,39.75798876025155 -104.9025135487318,39.75799030671805 -104.9021628499031,39.75798824476272 -104.90117445588112,39.75799443062851 -104.90112349390982,39.757983089874166 -104.90110605955124,39.75794288173009 -104.90107923746109,39.757879992021756 -104.90101620554924,39.75780163755071 -104.9009545147419,39.757748026545464 -104.90087673068047,39.757710911209706 -104.90076810121536,39.75766657897688 -104.90067824721335,39.757658331116474 -104.90061655640602,39.75763874244402 -104.900613874197,39.757622246715535 -104.90040332078934,39.757619153766 -104.89966437220573,39.757617091799546 -104.89949807524681,39.757617091799546 -104.89907294511795,39.75761399884981 -104.8988825082779,39.75761606081634 -104.89870145916939,39.75765317620321 -104.89860087633133,39.757698539426684 -104.89852979779243,39.75775111948922 -104.8984694480896,39.75781813323623 -104.89843055605888,39.757862465371495 -104.89811405539513,39.75785834145315 -104.89796653389931,39.757857310473504 -104.89720076322556,39.757853186554854
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Mosaic at University</name>
+      <description>Walk on the sidewalk along Florida and cross at the light at University. Street view: https://goo.gl/maps/ZP5hdzfdMVM2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.96048144996166,39.689257368639126 -104.96046401560307,39.68926820469931 -104.96044054627419,39.68927181671898 -104.96005833148956,39.68927646074399 -104.9598229676485,39.68927749274951 -104.959507137537,39.68927646074399 -104.95950646698473,39.68924343655928 -104.95934017002583,39.68926717269364 -104.95920203626156,39.6892888448092 -104.95918527245522,39.68930380888502 -104.95913900434971,39.68930587289522 -104.95901964604855,39.68930484089013 -104.95878159999847,39.68930432488757 -104.95823577046394,39.68930432488757 -104.95820693671703,39.689293488833066 -104.95820358395576,39.68928626479581
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Mosaic at Colorado</name>
+      <description>(1) Walk on the sidewalk from Iowa to the parking lot. Street View: https://goo.gl/maps/t4EeAosPPLw.<br/> (2)Walk through the parking lot to Colorado. Street View: https://goo.gl/maps/wzSHHgWMjyR2. <br/>(3) Cross at the light. Street view: https://goo.gl/maps/R8e7wQUrLyt</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.94220554828644,39.68750035638915 -104.9421438574791,39.687446690700426 -104.94151085615157,39.687454946962966 -104.94136869907378,39.68743430630482 -104.94120240211487,39.68743843443692 -104.94095832109451,39.68743843443692 -104.94091004133224,39.687413665640506 -104.94044065475462,39.687440498502895
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Mosaic at Monaco</name>
+      <description>Walk on the sidewalk along Florida and cross Monaco at the light. Street View: https://goo.gl/maps/c9pWnDHxiKU2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.91400480270386,39.689287812803855 -104.91396456956863,39.689300196867 -104.91391360759734,39.689310516917935 -104.91306871175765,39.68930638889775 -104.91303384304047,39.689275428738476 -104.91275757551193,39.68929194082514
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Outlook at Federal</name>
+      <description>Walk on the sidewalk along Alameda and cross Federal at the pedestrian light. Street View: https://goo.gl/maps/FLjZFeXGTUS2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+            -105.02623245120047,39.7113031676472 -105.02601653337479,39.71130523099956 -105.02584621310234,39.71131245273231 -105.02567186951637,39.71130729435184 -105.02550154924393,39.7113062626757 -105.02539023756981,39.71130523099956 -105.02535000443459,39.71130729435184 -105.0252990424633,39.711314516084386 -105.02488330006598,39.7113196744643 -105.02482563257217,39.71130523099956 -105.02455472946167,39.71130419932339 -105.02437099814415,39.71130729435184 -105.02420336008072,39.711308326027975 -105.02402767539024,39.71130935770407 -105.02397403120995,39.711314516084386
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Outlook at University/Alameda</name>
+      <description>Walk on the sidewalk along University and cross Alameda at the pedestrian light. Street View: https://goo.gl/maps/C2mVJvycUys</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.95948702096939,39.70935843061344 -104.95948702096939,39.710053796464734 -104.95948567986488,39.710661462070846 -104.95947226881981,39.71102564619317 -104.95944544672966,39.711033899635424 -104.95947226881981,39.71122888692133
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Platform at MLK</name>
+      <description>Cross the first half of MLK to the median. Cross the second half of MLK. Street View: https://goo.gl/maps/HGysW36yEDk</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.91749972105025,39.76207388809509 -104.917451441288,39.7620656407625 -104.91740584373474,39.76190894125565 -104.9174889922142,39.76177492165764
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Platform at Colfax</name>
+      <description>Walk on the sidewalk along Colfax to Ivy and cross Colfax at the light at Ivy. Street View: https://goo.gl/maps/FyUDQ4fKk382</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.92005586624144,39.740285114458985 -104.92050111293791,39.74027480203186 -104.92050647735596,39.740004615891195
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Platform at 6th</name>
+      <description>Use the sidewalk through the parkway to cross 6th. Street View: https://goo.gl/maps/Sx3Qzv9REfz</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.91830974817276,39.725747185202856 -104.91826951503754,39.7257409964417 -104.91824269294737,39.725714178470156 -104.91824269294737,39.72556977382889 -104.9182265996933,39.7255182006694 -104.91821587085724,39.72548725675523 -104.91819441318512,39.725419180095095 -104.91818636655807,39.72539648786013 -104.918172955513,39.725280963638994 -104.91815686225891,39.72526239722827 -104.91810590028763,39.72526446016303
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Platform at Alameda</name>
+      <description>Use the sidewalk cut through the parkway to cross Alameda. Street View: https://goo.gl/maps/thfmxEUkEPz</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.91893470287323,39.71147648902983 -104.91890788078307,39.7113196744643 -104.91890251636505,39.711251583818274 -104.918894469738,39.711117465682584
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+
+    <Placemark>
+      <name>Sunrise at 2nd/Speer/3rd</name>
+      <description>(1) Walk on the sidewalk on 2nd eastbound to Speer. Street view: https://goo.gl/maps/3r1rbnrjnuq. <br/>(2) Walk on the east sidewalk crossing Speer. Street View: https://goo.gl/maps/fdLKeUvSo9x. <br/>(3) Walk on the sidewalk on 3rd westbound to Speer. Street View: https://goo.gl/maps/KDZsy4q3vVk.
+    </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.97908860445023,39.71926724808286 -104.97762948274612,39.719252806282235 -104.97767508029938,39.71940135037285 -104.97765630483627,39.719409602812945 -104.97739344835281,39.71926879541846 -104.97743770480156,39.71946504886927 -104.97745715081692,39.71949831648165 -104.97746787965298,39.71952900519511 -104.97747156769037,39.71957800395303 -104.97747123241425,39.71960662952708 -104.97747223824263,39.719710300425525 -104.97747927904129,39.719935693831125 -104.97745782136917,39.71995838786321 -104.97742831707001,39.71997282951608 -104.97726470232008,39.72007185791147 -104.97723251581192,39.7200966149881 -104.97711449861526,39.72010074116668 -104.97646808624268,39.72009867807742
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Sunrise at Hawthorne</name>
+      <description>Walk on the north side of the street westbound on Hawthorne to Circle. Street View: https://goo.gl/maps/d176gbDcXfC2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+            -104.96013879776001,39.72416903311374 -104.95956748723984,39.72416697014621
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Sunrise at Colorado Blvd</name>
+      <description>Walk and cross Colorado at the pedestrian light. Street View: https://goo.gl/maps/gFoz6bxvYbq</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+            -104.9409019947052,39.724172127564955 -104.94087919592857,39.72418450536836 -104.94087114930153,39.724208229485384 -104.94086980819702,39.72422679617998 -104.94053184986115,39.72428765364386
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Traction at Holly</name>
+      <description>Walk through City of Potenza Park and cross Holly at the light. Street View: https://goo.gl/maps/fkoaCjJFj2N2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.92223918437958,39.69582422527164 -104.92236793041229,39.695857246308314 -104.92236793041229,39.69571690679342 -104.92253959178925,39.695712779156295 -104.92253959178925,39.69560133286098 -104.92260932922363,39.69552290758237 -104.92272198200226,39.69545686517336 -104.9229097366333,39.69544448221463 -104.92314577102661,39.69546099282578 -104.9234676361084,39.69554767346945 -104.92369830608368,39.69563022636223 -104.92386460304259,39.695700396243495 -104.92392897605896,39.695729289703245 -104.92404699325562,39.69573341733938 -104.92417573928833,39.69576231078534 -104.92428302764893,39.69583248053228 -104.92436885833739,39.69589852258191 -104.92449223995209,39.69607601027717 -104.92457270622253,39.69617920058784 -104.92463171482086,39.696228731882165 -104.92478728294373,39.6961007759658
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Traction at Evans</name>
+      <description>Walk on the sidewalk along Dahlia and cross Evans at the light. Street View: https://goo.gl/maps/4j1aNgukvZS2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.93152499198914,39.67950061239754 -104.9315357208252,39.679479969361644 -104.93152767419815,39.678865836221405 -104.93152499198914,39.678589216485335 -104.93151962757109,39.67856547668024 -104.93150487542152,39.678553090691736 -104.93149816989897,39.67837349360883 -104.93151828646658,39.67836626842907 -104.93153035640717,39.67833943204041 -104.93153437972069,39.67832188516529 -104.9315357208252,39.67823518289334 -104.93155181407928,39.67805661715697 -104.93157058954239,39.677592137645775 -104.93157595396042,39.67748479082551 -104.9315732717514,39.67729177256548 -104.93157729506491,39.676973858961325 -104.93157595396042,39.67675193788342 -104.93156790733337,39.67673335841198 -104.93154510855675,39.67671581112881
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Union at 38th</name>
+      <description>Walk on the sidewalk and cross at the light at Perry. Street view: https://goo.gl/maps/Dy3LvZ1Uqu12</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.038156,39.769576,0
+          -105.038261,39.769558,0
+          -105.038749,39.769546,0
+          -105.039256,39.769537,0
+          -105.039251,39.769358,0
+          -105.038288,39.769381,0
+          -105.038162,39.769391,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Union at 6th</name>
+      <description>Walk on the sidewalk along Perry. Cross 6th on the Bridge. Street view: https://goo.gl/maps/ziGEBm9HmfH2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.039433,39.728178,0
+          -105.03943,39.727556,0
+          -105.039428,39.726885,0
+          -105.039424,39.72616,0
+          -105.039424,39.72587,0
+          -105.03942,39.725845,0
+          -105.039402,39.725824,0
+          -105.039401,39.725651,0
+          -105.039397,39.72546,0
+          -105.039405,39.725444,0
+          -105.03941,39.72542,0
+          -105.039406,39.724814,0
+          -105.039405,39.724632,0
+          -105.039391,39.724613,0
+          -105.039365,39.724603,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Union at Colfax</name>
+      <description>Walk on the sidewalk and cross at the light at Meade. Street view: https://goo.gl/maps/ouiB5m8Kjz62</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.03693580627441,39.74044805060284,0
+          -105.03592193126677,39.74044598812241,0
+          -105.03591924905777,39.7402479897141,0
+          -105.0369331240654,39.74025623965914,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Union at Alameda</name>
+      <description>Use the zig-zag crossing. Street view: https://goo.gl/maps/kb5qpcY9BP12</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.038604,39.71138,0
+          -105.038596,39.711258,0
+          -105.038411,39.711245,0
+          -105.038408,39.711124,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Village at Lipan</name>
+      <description>Walk on the sidewalk along 8th and cross at Lipan. Street view: https://goo.gl/maps/jt86PKVr4Zn</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.00286906957626,39.72881880510697 -105.00171035528183,39.72882499359188 -105.0017049908638,39.729020961993434
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Village at Speer</name>
+      <description>Walk across the first half of Speer at the light, walk on the sidewalk to the second half of Speer and walk across at the light. Street view: https://goo.gl/maps/R29jzGHEUbo</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.99136239290236,39.7297676996391 -104.99080717563629,39.73001317240255 -104.99063551425934,39.73013693985101
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Village at Josephine</name>
+      <description>(1) Walk north on the sidewalk along Josephine to 12th. Street View: https://goo.gl/maps/NCDkxDiV7aM2. <br/>(2) Cross Josephine at the light at 12th, walk south on the sidewalk back to 11th. Street view: https://goo.gl/maps/FUhwT6eUUv52</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.9587145447731,39.73354458298208 -104.95870918035507,39.734305710278946 -104.9587145447731,39.73496782231136 -104.95852142572403,39.73506476652996 -104.95849192142487,39.73386223604655 -104.95850801467896,39.73372816187968
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Village at Colorado Blvd</name>
+      <description>(1) Walk on the sidewalk to the light at 12th. Street view: https://goo.gl/maps/e8ykPMygfQ72. <br/>(2) Cross Colorado in the crosswalk and proceed on the sidewalk on the north side of 12th. Street View: https://goo.gl/maps/DjASj248irJ2. <br/>(3) Continue walking on 12th at the fork. Street View: https://goo.gl/maps/NJ8WbiE7YmD2.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.9409019947052,39.73501320047321 -104.94085907936096,39.73494719586427 -104.94085907936096,39.73475330695997 -104.94052648544312,39.73478218406539 -104.94042992591858,39.73475330695997 -104.93960916996002,39.734761557562756 -104.93943214416504,39.73473680575144 -104.93851415812969,39.734750728646404
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Village at Monaco</name>
+      <description>(1) Cross southbound Monaco and proceed to the sidewalk in the parkway. Street view: https://goo.gl/maps/ZpEyaPsfDW72. <br/>(2) Cross northbound Monaco. Street View: https://goo.gl/maps/EZELjYeLz9y.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.91284608840941,39.7351122072681 -104.91264492273329,39.735114269908166 -104.91264760494232,39.735349410469055 -104.91264224052429,39.73539066311633 -104.912588596344,39.73547110570749 -104.91254299879073,39.735485544111334 -104.91248935461044,39.73549791988366 -104.91237133741379,39.735506170397315 -104.91232037544249,39.73562374010957
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Weir Gulch Trail at Alameda</name>
+      <description>(1) From Xavier, cross Alameda at the cut in the median. Street View: https://goo.gl/maps/StGaeEBGED62. <br/>(2) Walk on the sidewalk along Alameda to Weir Gulch Trail. Street View: https://goo.gl/maps/8VUX3JihczJ2.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.04947245121002,39.711185556461 -105.05015909671783,39.7112123800825 -105.05014836788177,39.711327927871366 -105.05014300346373,39.71144760216296
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Weir Gulch Trail at 8th/Federal</name>
+      <description>(1) Walk east in the crosswalk across Federal. Street View: https://goo.gl/maps/1VC2jyt9W4D2. <br/> (2) Walk north in the crosswalk across 8th. Street View: https://goo.gl/maps/uQZmFzHqiku. <br/> (3) Walk east on the sidewalk to Weir Gulch Trail. Street View: https://goo.gl/maps/b7UpGGQ6JTB2.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02675414085387,39.72865584147105 -105.0264725089073,39.72894463752432 -105.0263249874115,39.72905809278567 -105.02621501684189,39.72910347483795 -105.02609968185425,39.72914885686035 -105.0260004401207,39.72917361067814 -105.02582877874373,39.72918186194878 -105.02563297748566,39.72917361067814 -105.02535402774811,39.72917361067814 -105.02535670995712,39.72944177646803 -105.0252842903137,39.729454153325435 -105.02502411603926,39.72940670869325 -105.02354085445404,39.7294046458824
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+
+  </Document>
+</kml>
