@@ -60,6 +60,18 @@
     </StyleMap>
 
     <Placemark>
+      <name>Basis at MLK</name>
+      <description>Cross the first half of MLK to the small parkway with one big tree. Cross the second half of MLK. Street view: https://goo.gl/maps/LQDifcyuFvG2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.94617253541946,39.762022342250205 -104.94616717100143,39.761820282166184 -104.9460357427597,39.76182234400676 -104.94600623846054,39.76168420055098
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Bonus at Colfax</name>
       <description>Cross Colfax at the crosswalk. Walk on the sidewalk along Colfax to St. Paul. Street View: https://goo.gl/maps/iPBBgG4WF5n</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
@@ -409,7 +421,7 @@
 
     <Placemark>
       <name>Story at Walnut/Marion</name>
-      <description>(1) Cross Walnut and Marion in the crosswalk. Street view: https://goo.gl/maps/mejkAEm3bNK2. <br/>(2) Walk through the park to Lafayette. Street View: https://goo.gl/maps/3BmJC8D5dCo.
+      <description>(1) Cross Walnut and Marion in the crosswalk. Street view: https://goo.gl/maps/mejkAEm3bNK2. <br/>(2) Walk through Saint Charles Place Park to Lafayette cul-de-sac. Street view: https://goo.gl/maps/3BmJC8D5dCo and https://goo.gl/maps/y8NSRJhmatk.
     </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
