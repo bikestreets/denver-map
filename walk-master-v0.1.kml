@@ -324,6 +324,43 @@
     </Placemark>
 
     <Placemark>
+      <name>Groundswell at 6th</name>
+      <description>Walk across 6th halfway to the parkway. Cross the second half and proceed. Street View: https://goo.gl/maps/3EePGVpiWsN2.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.93163764476775,39.725689423410294 -104.93163496255875,39.72525001961834
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Groundswell at Alameda</name>
+      <description>Walk across Alameda halfway to the sidewalk in the parkway. Cross the second half and proceed. Street View: https://goo.gl/maps/R9ip9qib78p.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.92826879024506,39.71144966551099 -104.92825269699097,39.71131348440835 -104.92825269699097,39.7112392036936 -104.92827415466307,39.711074135152245
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Groundswell at Leetsdale</name>
+      <description>Walk on the sidewalk along Forest. Cross Leetsdale at the light. Street View: https://goo.gl/maps/gNTMsrmFB7m.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.92707788944244,39.70943993528205 -104.92708325386047,39.708292670832044 -104.92708325386047,39.708251401971175 -104.92709934711456,39.70802442279515 -104.92709934711456,39.706637770159034
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+
+    <Placemark>
       <name>Method at Colorado</name>
       <description>Walk on the sidewalk from Harrison along 29th and cross at the light at Colorado. Walk on the sidewalk to Albion. Street view: https://goo.gl/maps/xtVcjNT61m62</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
