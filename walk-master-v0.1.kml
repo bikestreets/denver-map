@@ -228,6 +228,30 @@
     </Placemark>
 
     <Placemark>
+      <name>Finding at 19th/18th</name>
+      <description>Walk on the sidewalk along Oneida from 19th to 18th. Street view: https://goo.gl/maps/FTHFhreKP5E2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.90803822875023,39.74619078796402 -104.90803152322768,39.745658710312824 -104.90803018212317,39.74509466226961
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Finding at Colfax</name>
+      <description>Walk on the sidewalk along Colfax and cross Colfax at the light at Oneida. Return to Olive and proceed. Street view: https://goo.gl/maps/FB3B9ifPFgM2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.90704983472824,39.74028098948833 -104.90808516740799,39.7402892394294 -104.90808516740799,39.740027303317795 -104.9070444703102,39.740045865752194
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Fortune at Colorado</name>
       <description>Walk on the sidewalk along Montview and cross Colorado. Proceed to Albion. Street view: https://goo.gl/maps/Shw3duNmALE2</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
