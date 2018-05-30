@@ -407,6 +407,18 @@
       </LineString>
     </Placemark>
 
+    <Placemark>
+      <name>Story at Walnut/Marion</name>
+      <description>(1) Cross Walnut and Marion in the crosswalk. Street view: https://goo.gl/maps/mejkAEm3bNK2. <br/>(2) Walk through the park to Lafayette. Street View: https://goo.gl/maps/3BmJC8D5dCo.
+    </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.9719700217247,39.77052069985934 -104.97197806835175,39.77041968236093 -104.97195929288864,39.770386697023206 -104.97181981801987,39.77024444757327 -104.97174203395844,39.77021146215161 -104.97178494930266,39.77014755285212 -104.97178494930266,39.77011456738402 -104.97178226709366,39.77007745871351 -104.9717527627945,39.77003004204987 -104.97170448303221,39.76997025577522 -104.97142553329468,39.76977028061729 -104.97111439704895,39.769731110157494 -104.97088372707367,39.76940331438343
+        </coordinates>
+      </LineString>
+    </Placemark>
 
     <Placemark>
       <name>Sunrise at 2nd/Speer/3rd</name>
