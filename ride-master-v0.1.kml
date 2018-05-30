@@ -1918,6 +1918,30 @@
     </Placemark>
 
     <Placemark>
+      <name>React</name>
+      <description>0.7 miles</description>
+      <styleUrl>#line-01579B-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.85886,39.75562,0
+          -104.85885,39.75554,0
+          -104.85884,39.75554,0
+          -104.85883,39.75476,0
+          -104.85875,39.75431,0
+          -104.85873,39.75397,0
+          -104.85872,39.75381,0
+          -104.85874,39.7529,0
+          -104.85874,39.75109,0
+          -104.85875,39.74928,0
+          -104.85875,39.74742,0
+          -104.85876,39.7456,0
+          -104.85876,39.74554,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Session</name>
       <description>2.8 miles</description>
       <styleUrl>#line-01579B-5000</styleUrl>
