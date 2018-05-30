@@ -604,6 +604,18 @@
     </Placemark>
 
     <Placemark>
+      <name>Volume at Arkins/South Platte River Trail</name>
+      <description>Hike your bike! From the Platte River Trail, hike up the berm. Cross Arkins and proceed on 35th. https://goo.gl/maps/utt9tRaHQu62.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.98103991150856,39.771502004986985 -104.98092725872993,39.771534989790275 -104.98085349798203,39.77154014366438 -104.98069122433662,39.77147520482266
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Weir Gulch Trail at Alameda</name>
       <description>(1) From Xavier, cross Alameda at the cut in the median. Street View: https://goo.gl/maps/StGaeEBGED62. <br/>(2) Walk on the sidewalk along Alameda to Weir Gulch Trail. Street View: https://goo.gl/maps/8VUX3JihczJ2.</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
