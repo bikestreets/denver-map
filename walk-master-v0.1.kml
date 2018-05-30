@@ -456,6 +456,18 @@
     </Placemark>
 
     <Placemark>
+      <name>Session at Peoria</name>
+      <description>Walk on the sidewalk along 17th and cross at the light at Peoria. Street view: https://goo.gl/maps/j3JKUFHKfJT2.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.84813511371613,39.74385724636453 -104.8471748828888,39.74385724636453 -104.84683156013489,39.74393974144956
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Story at Walnut/Marion</name>
       <description>(1) Cross Walnut and Marion in the crosswalk. Street view: https://goo.gl/maps/mejkAEm3bNK2. <br/>(2) Walk through Saint Charles Place Park to Lafayette cul-de-sac. Street view: https://goo.gl/maps/3BmJC8D5dCo and https://goo.gl/maps/y8NSRJhmatk.
     </description>
