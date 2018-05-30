@@ -228,6 +228,42 @@
     </Placemark>
 
     <Placemark>
+      <name>Fortune at Colorado</name>
+      <description>Walk on the sidewalk along Montview and cross Colorado. Proceed to Albion. Street view: https://goo.gl/maps/Shw3duNmALE2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.9414277076721,39.74753643112902 -104.94051843881607,39.747507559367676 -104.94049564003944,39.7475333377266 -104.94047552347183,39.74753952453131 -104.93992298841476,39.74753952453131 -104.93952870368958,39.747538493397215
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Fortune at Monaco</name>
+      <description>Cross Monaco halfway to the parkway. Walk north and cross the second half of Monaco. Continue on 22nd. Street view: https://goo.gl/maps/ehcC2eBqhmD2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.91295874118805,39.74928933683009 -104.91259932518005,39.749293461261495 -104.9126073718071,39.7497925156394 -104.91230159997939,39.74980076444173
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Fortune at Syracuse</name>
+      <description>Walk south on the sidewalk along Syracuse and cross at Montview. Walk on the sidewalk throug the Park to Spruce. Street view: https://goo.gl/maps/mko4vVVt1H42</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.89889860153198,39.749768800327246 -104.89887848496437,39.74973992950139 -104.89889055490494,39.74754674246943 -104.89864513278006,39.74753746226312 -104.89850699901581,39.74764985578865 -104.89845469594002,39.74761170387852 -104.89839971065521,39.747590050082295 -104.89832192659377,39.74757045854653 -104.89825889468193,39.74756427174459 -104.89818245172499,39.74755808494209 -104.89810198545455,39.74756220947716 -104.89802286028862,39.74756117834342 -104.89759370684624,39.74756530287828
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Garland at Cherry Creek South Drive</name>
       <description>Walk on the sidewalk along Cherry Creek South Drive and cross at Garfield. Street view: https://goo.gl/maps/kTFBDNi9SuE2</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
