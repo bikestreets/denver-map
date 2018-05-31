@@ -590,6 +590,42 @@
     </Placemark>
 
     <Placemark>
+      <name>Series at Louisiana</name>
+      <description>Cross Louisiana at the light and walk on the sidewalk along Louisiana to Humboldt. Street view: https://goo.gl/maps/d5koHWF9f942.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.96881306171417,39.692990548721625 -104.9688184261322,39.69292656779167 -104.96883988380432,39.69288735364398 -104.9698296189308,39.69288735364398
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Series at Franklin/I-25</name>
+      <description>Walk on the sidewalk along Franklin over I-25. Street view: https://goo.gl/maps/Xrkm1k3Behp.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.96883451938629,39.689316708947764 -104.9688372015953,39.68822896718919 -104.96881574392319,39.68803701098223 -104.9687996506691,39.687314590365844 -104.96881037950516,39.687079286018836 -104.96885597705841,39.68680269918215 -104.96884256601332,39.68663963627418 -104.96883451938629,39.68660867491904 -104.96884256601332,39.68578716189136
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Series at Evans</name>
+      <description>Walk on the sidewalk along Evans and cross Evans at the light at High. Street view: https://goo.gl/maps/6Z7BLvD6pw52.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.96632128953934,39.67862224576581 -104.96626764535904,39.67863463174189 -104.965361058712,39.67862224576581 -104.96537446975708,39.678376590114205 -104.9653771519661,39.678355946742336 -104.96568292379378,39.678362139754555 -104.96578216552733,39.67837865445106 -104.96585190296173,39.67836626842907 -104.96595114469528,39.678355946742336 -104.96614962816238,39.678370397103315 -104.96625691652298,39.67838071878786 -104.96633738279343,39.6783745257773
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Story at Walnut/Marion</name>
       <description>(1) Cross Walnut and Marion in the crosswalk. Street view: https://goo.gl/maps/mejkAEm3bNK2. <br/>(2) Ride  through Saint Charles Place Park along the bike-friendly sidewalk to Lafayette cul-de-sac. Street view: https://goo.gl/maps/b2e84be8VRw and https://goo.gl/maps/NZGuVKpHJ792.
     </description>
