@@ -169,6 +169,42 @@
     </Placemark>
 
     <Placemark>
+      <name>Diamond at Broadway</name>
+      <description>Walk on the sidewalk along Dartmouth and cross Broadway at the light. Continue walking on the sidewalk. Street view: https://goo.gl/maps/E9oMPVxTW3p</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.98879015445709,39.66040007015648 -104.9877655506134,39.66040419990453 -104.98649418354034,39.66041245939986
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Diamond at Downing</name>
+      <description>Walk on the sidewalk and cross at the light. Continue walking on the sidewalk to Eastman. Street view: https://goo.gl/maps/rGwV6WREjnu</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.9736276268959,39.65855817793188 -104.97361421585083,39.658533398778104 -104.97363030910492,39.658275282064515 -104.97344255447388,39.65826908725155 -104.97344255447388,39.65812247651582 -104.97342377901077,39.65810802191942
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+    <name>Diamond at University</name>
+    <description>Walk on the sidewalk along University and cross at the light at Girard. Walk north on University to E Floyd Ave. Street view: https://goo.gl/maps/FDoDsYZSZZ22</description>
+    <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -104.95958089828491,39.65666254701142 -104.95955944061278,39.65660885736116 -104.95957016944885,39.65601000843527 -104.95957553386688,39.65587371795492 -104.95957553386688,39.65556396586389 -104.95960235595703,39.65542767450411 -104.9596184492111,39.65519639158161 -104.95963990688323,39.65487011614291 -104.95967745780943,39.65482468526348 -104.95966672897339,39.65463470126234 -104.95936095714569,39.65463470126234 -104.95937168598175,39.65648495800907 -104.95933413505554,39.656505607916515
+      </coordinates>
+    </LineString>
+  </Placemark>
+
+    <Placemark>
       <name>Entrance along 28th</name>
       <description>28th is one-way southbound between Welton and Clarkson. When northbound, walk on the sidewalk along 28th to Welton and cross. North of Welton 28th is two-way. Street view: https://goo.gl/maps/DcwefZDZm2C2.</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
