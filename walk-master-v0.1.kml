@@ -204,6 +204,31 @@
     </LineString>
   </Placemark>
 
+  <Placemark>
+    <name>Empire at Lowell</name>
+    <description>Walk on the sidewalk along Lowell until you're event with 45th. Cross Lowell. Street view: https://goo.gl/maps/qdPpHZknx8q.</description>
+    <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -105.03472834825516,39.77834395170586 -105.03473371267317,39.77803681049863 -105.03452450037003,39.77803062643339
+      </coordinates>
+    </LineString>
+  </Placemark>
+
+  <Placemark>
+    <name>Empire at Federal</name>
+    <description>Walk on the sidewalk along Federal until you're even with the cut in median. Cross halfway to the median. Cross the second half of Federal. Street view: https://goo.gl/maps/VM9hWRTEbbo.</description>
+    <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -105.02537816762924,39.77792549723948 -105.02535000443459,39.77796054032196 -105.02534598112105,39.77835219708851 -105.02510994672775,39.77835528910673
+      </coordinates>
+    </LineString>
+  </Placemark>
+
+
     <Placemark>
       <name>Entrance along 28th</name>
       <description>28th is one-way southbound between Welton and Clarkson. When northbound, walk on the sidewalk along 28th to Welton and cross. North of Welton 28th is two-way. Street view: https://goo.gl/maps/DcwefZDZm2C2.</description>
