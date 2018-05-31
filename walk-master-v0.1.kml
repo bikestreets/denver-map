@@ -145,6 +145,30 @@
     </Placemark>
 
     <Placemark>
+      <name>Chapter at Lowell</name>
+      <description>Walk on the sidewalk along Lowell until you're event with 37th. Cross Lowell. Street view: https://goo.gl/maps/MyJDoBTsGbn.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.0347739458084,39.76764061223209 -105.03474712371826,39.76760968723011 -105.03474980592728,39.767490110425086 -105.03456473350525,39.767494233766634 -105.03456473350525,39.767467432042075
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Chapter at Federal</name>
+      <description>Cross Federal halfway to the cut in median. Cross the second half of Federal. Walk along Federal to 37th. Street view: https://goo.gl/maps/LHQXkC1KdSu.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02540498971938,39.76752722049024 -105.02509117126465,39.76752722049024 -105.02510458230971,39.76798284799323
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Country at University</name>
       <description>(1) Walk eastbound on the sidewalk along Ohio and cross University at the light. Street view: https://goo.gl/maps/vYLwQnM8T3J2. (2) Walk southbound on the sidewalk along University to Kentucky. Street view: https://goo.gl/maps/DmP8g4DG5EL2.</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
