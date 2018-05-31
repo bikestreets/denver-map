@@ -422,6 +422,18 @@
     </Placemark>
 
     <Placemark>
+      <name>Mixture at Evans</name>
+      <description>Cross Evans halfway to the gap in the parkway. Cross the second half of Evans. Street View: https://goo.gl/maps/2vwcnsfgpMR2.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.94948640465735,39.678551026360104 -104.94956016540527,39.678549994194285 -104.94955748319626,39.67831362781075 -104.94950115680695,39.67831672431882
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Moment at 13th/Speer</name>
       <description>(1) Walk on the sidewalk along Speer, turn west and walk on the sidewalk along the bridge on 13th crossing Cherry Creek. Street View: https://goo.gl/maps/PbRHRsn8gUk.<br/> (2) Cross Speer in the crosswalk. Cross 13th in the crosswalk. Walk on the sidewalk along 13th to Galapago. Street View: https://goo.gl/maps/9SQ4KK7Hzgn.</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
