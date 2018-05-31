@@ -578,6 +578,18 @@
     </Placemark>
 
     <Placemark>
+      <name>Prospect at University</name>
+      <description>Walk on the sidewalk along Iliff and cross University at the light. Proceed walking on the sidewalk along Iliff. Street View: https://goo.gl/maps/Un4DLv3wWPz</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.96047139167786,39.67478248609944 -104.95955944061278,39.67478248609944 -104.95953261852264,39.67475358387319 -104.95925903320312,39.674778357210705 -104.95811641216278,39.67477422832174 -104.95802521705627,39.674770099432514
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Session at Peoria</name>
       <description>Walk on the sidewalk along 17th and cross at the light at Peoria. Street view: https://goo.gl/maps/j3JKUFHKfJT2.</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
