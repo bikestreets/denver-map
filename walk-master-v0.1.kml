@@ -60,6 +60,31 @@
     </StyleMap>
 
     <Placemark>
+      <name>Apex at Evans</name>
+      <description>Cross Evans at the light and walk on the sidewalk along Evans to Birch. Street view: https://goo.gl/maps/ZyHE9LbbN8D2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.93685185909271,39.67859334514627 -104.93690013885498,39.67856444451462 -104.93688941001892,39.678370397103315 -104.93642807006836,39.678370397103315
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Apex at Yale</name>
+      <description>Walk on the sidewalk along Yale to the light at Clermont. Cross Yale at the light. Walk on the sidewalk along Yale back to S. Brook. Street view: https://goo.gl/maps/BZFUJStJ52S2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.93450492620468,39.66757513508559 -104.93453107774256,39.667557585476004 -104.93456661701202,39.667554488485614 -104.93609212338924,39.66755293999038 -104.93607804179192,39.6673748628055 -104.93493609130383,39.66737641130476 -104.93491865694523,39.66736144247734
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+
+    <Placemark>
       <name>Basis at MLK</name>
       <description>Cross the first half of MLK to the small parkway with one big tree. Cross the second half of MLK. Street view: https://goo.gl/maps/LQDifcyuFvG2</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
