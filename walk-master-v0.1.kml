@@ -797,6 +797,30 @@
     </Placemark>
 
     <Placemark>
+      <name>Tribute at 38th</name>
+      <description>Walk on the sidewalk along 38th and cross 38th at the light at Tejon. Walk back along the sidewalk to Shoshone and proceed. Street view: https://goo.gl/maps/o1wPTJZTcdS2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.00971138477325,39.769384759858966 -105.01087546348572,39.769386821473034 -105.01090496778488,39.76940537599694 -105.01111418008804,39.76940949922378 -105.01111418008804,39.76919509109996 -105.01107662916183,39.769199214339395 -105.00970870256424,39.769201275959034
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Tribute at 32nd</name>
+      <description>Walk on sidewalk on the west side of the street to 32nd. Cross 32nd. Proceed on Shoshone. Street view: https://goo.gl/maps/re3jTTMVXGs</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.00968590378761,39.76212337206988 -105.00973150134087,39.76209966100308 -105.0097207725048,39.76198935288923 -105.00970736145973,39.76189038471146
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Union at 38th</name>
       <description>Walk on the sidewalk and cross at the light at Perry. Street view: https://goo.gl/maps/Dy3LvZ1Uqu12</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
