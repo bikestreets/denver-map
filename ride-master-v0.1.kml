@@ -1801,6 +1801,22 @@
     </Placemark>
 
     <Placemark>
+      <name>Instant</name>
+      <description>0.2 miles</description>
+      <styleUrl>#line-01579B-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.96347,39.74823,0
+          -104.96285,39.74823,0
+          -104.96224,39.74823,0
+          -104.96101,39.74822,0
+          -104.95978,39.74822,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Ladder</name>
       <description>1.5 miles</description>
       <styleUrl>#line-01579B-5000</styleUrl>
