@@ -1334,6 +1334,35 @@
     </Placemark>
 
     <Placemark>
+      <name>Extend</name>
+      <description>0.8 miles</description>
+      <styleUrl>#line-01579B-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.99466,39.64399,0
+          -104.9936,39.64399,0
+          -104.99244,39.64399,0
+          -104.9913,39.64399,0
+          -104.99013,39.64399,0
+          -104.98896,39.64399,0
+          -104.98782,39.644,0
+          -104.98768,39.644,0
+          -104.98653,39.64401,0
+          -104.98537,39.644,0
+          -104.98421,39.64401,0
+          -104.98306,39.64401,0
+          -104.98248,39.64401,0
+          -104.98189,39.64401,0
+          -104.98131,39.64401,0
+          -104.98073,39.64402,0
+          -104.98016,39.64402,0
+          -104.97958,39.64402,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Finding</name>
       <description>2.9 miles</description>
       <styleUrl>#line-01579B-5000</styleUrl>
