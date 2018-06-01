@@ -762,7 +762,7 @@
 
     <Placemark>
       <name>Sunrise at Colorado Blvd</name>
-      <description>Walk and cross Colorado at the pedestrian light. Street View: https://goo.gl/maps/gFoz6bxvYbq</description>
+      <description>Walk and cross Colorado at the pedestrian light. Street view: https://goo.gl/maps/gFoz6bxvYbq</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -773,8 +773,20 @@
     </Placemark>
 
     <Placemark>
+      <name>Topic at 38th</name>
+      <description>Walk east on the sidewalk along 38th to the pedestrian light. Cross 38th. Walk west along 38th back to Bryant. Street view: https://goo.gl/maps/fopRGsfFUdU2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.0189220905304,39.769386821473034 -105.01805573701859,39.76938269824482 -105.01801550388336,39.769201275959034 -105.01890063285826,39.7692033375786
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Traction at Holly</name>
-      <description>Walk through City of Potenza Park and cross Holly at the light. Street View: https://goo.gl/maps/fkoaCjJFj2N2</description>
+      <description>Walk through City of Potenza Park and cross Holly at the light. Street view: https://goo.gl/maps/fkoaCjJFj2N2</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
