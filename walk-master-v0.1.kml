@@ -469,6 +469,17 @@
       </LineString>
     </Placemark>
 
+    <Placemark>
+      <name>Message at Evans</name>
+      <description>Walk on the sidewalk along Evans. Cross Evans at the light at Logan. Walk back to Grant. Street view: https://goo.gl/maps/EE3nJk2oZb42.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.98396217823029,39.67867178965688 -104.98301267623901,39.678680046968594 -104.98296439647673,39.678485999882085 -104.98392462730408,39.678477742547166
+        </coordinates>
+      </LineString>
+    </Placemark>
 
     <Placemark>
       <name>Method at Colorado</name>
