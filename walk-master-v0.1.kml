@@ -686,6 +686,30 @@
     </Placemark>
 
     <Placemark>
+      <name>Repose at Broadway</name>
+      <description>Walk on the sidewalk along Broadway and cross Broadway at the light at Iliff. Street view: https://goo.gl/maps/35HFzBKCUCP2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Repose at Hampden</name>
+      <description>Walk two blocks on the sidewalk along Elati and cross Hampden at the light. Street view: https://goo.gl/maps/o3GJDYfh7xM2</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Session at Peoria</name>
       <description>Walk on the sidewalk along 17th and cross at the light at Peoria. Street view: https://goo.gl/maps/j3JKUFHKfJT2.</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
