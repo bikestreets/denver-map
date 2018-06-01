@@ -482,6 +482,18 @@
     </Placemark>
 
     <Placemark>
+      <name>Message at Belleview</name>
+      <description>Cross Belleview at the light and continue walking on the sidewalk along Clarkson. Street view: https://goo.gl/maps/BG41xLeP53K2.</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.97848108410835,39.62419024997667 -104.97847840189934,39.623975390266395 -104.97849851846695,39.62395886256875 -104.97854143381119,39.62369958379509 -104.97854948043823,39.62309011990399 -104.97854948043823,39.62229470980283 -104.97857362031935,39.62113566728878 -104.97851729393005,39.62104062907358
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Method at Colorado</name>
       <description>Walk on the sidewalk from Harrison along 29th and cross at the light at Colorado. Walk on the sidewalk to Albion. Street view: https://goo.gl/maps/xtVcjNT61m62</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
