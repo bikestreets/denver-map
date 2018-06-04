@@ -5,13 +5,13 @@
     <Style id="line-01579B-5000-normal">
       <LineStyle>
         <color>ff9b5701</color>
-        <width>5</width>
+        <width>2</width>
       </LineStyle>
     </Style>
     <Style id="line-01579B-5000-highlight">
       <LineStyle>
         <color>ff9b5701</color>
-        <width>7.5</width>
+        <width>2</width>
       </LineStyle>
     </Style>
     <StyleMap id="line-01579B-5000">
@@ -27,13 +27,13 @@
     <Style id="line-0F9D58-5000-normal">
       <LineStyle>
         <color>ff589d0f</color>
-        <width>5</width>
+        <width>2</width>
       </LineStyle>
     </Style>
     <Style id="line-0F9D58-5000-highlight">
       <LineStyle>
         <color>ff589d0f</color>
-        <width>7.5</width>
+        <width>2</width>
       </LineStyle>
     </Style>
     <StyleMap id="line-0F9D58-5000">

@@ -5,7 +5,7 @@
     <Style id="line-20F46B-3000-nodesc-normal">
       <LineStyle>
         <color>ff6bf420</color>
-        <width>3</width>
+        <width>2</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
@@ -14,7 +14,7 @@
     <Style id="line-20F46B-3000-nodesc-highlight">
       <LineStyle>
         <color>ff6bf420</color>
-        <width>4.5</width>
+        <width>2</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
@@ -33,7 +33,7 @@
     <Style id="line-C2185B-4294-nodesc-normal">
       <LineStyle>
         <color>ff5b18c2</color>
-        <width>4.294</width>
+        <width>2</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
@@ -42,7 +42,7 @@
     <Style id="line-C2185B-4294-nodesc-highlight">
       <LineStyle>
         <color>ff5b18c2</color>
-        <width>5</width>
+        <width>2</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
