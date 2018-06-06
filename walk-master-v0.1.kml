@@ -796,13 +796,13 @@
     </Placemark>
 
     <Placemark>
-      <name>Sunrise at Hawthorne</name>
-      <description>Walk on the north side of the street westbound on Hawthorne to Circle. Street View: https://goo.gl/maps/d176gbDcXfC2</description>
+      <name>Sunrise at Josephine</name>
+      <description>Cross Josephine at the light and walk through the park to 4th. Street View: https://goo.gl/maps/Zqibuk5X1EE2</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-            -104.96013879776001,39.72416903311374 -104.95956748723984,39.72416697014621
+          -104.95837658643723,39.722516576334215 -104.95837658643723,39.72247118994633 -104.95780393481253,39.72247118994633 -104.95777040719986,39.72245984334469
         </coordinates>
       </LineString>
     </Placemark>
