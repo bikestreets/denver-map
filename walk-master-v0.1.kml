@@ -898,6 +898,21 @@
     </Placemark>
 
     <Placemark>
+      <name>Union at Colfax</name>
+      <description>Walk on the sidewalk and cross at the light at Meade. Street view: https://goo.gl/maps/ouiB5m8Kjz62</description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.03693580627441,39.74044805060284,0
+          -105.03592193126677,39.74044598812241,0
+          -105.03591924905777,39.7402479897141,0
+          -105.0369331240654,39.74025623965914,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Union at 6th</name>
       <description>Walk on the sidewalk along Perry. Cross 6th on the Bridge. Street view: https://goo.gl/maps/ziGEBm9HmfH2</description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
@@ -919,21 +934,6 @@
           -105.039405,39.724632,0
           -105.039391,39.724613,0
           -105.039365,39.724603,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
-      <name>Union at Colfax</name>
-      <description>Walk on the sidewalk and cross at the light at Meade. Street view: https://goo.gl/maps/ouiB5m8Kjz62</description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -105.03693580627441,39.74044805060284,0
-          -105.03592193126677,39.74044598812241,0
-          -105.03591924905777,39.7402479897141,0
-          -105.0369331240654,39.74025623965914,0
         </coordinates>
       </LineString>
     </Placemark>
