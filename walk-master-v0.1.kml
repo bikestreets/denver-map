@@ -898,6 +898,50 @@
     </Placemark>
 
     <Placemark>
+      <name>Guidance at Federal</name>
+      <description>Street View: https://goo.gl/maps/qkvLNvv9r2D2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E across southbound Federal to the gap in the median (no light, narrow median)<br/>
+        Walk E across northbound Federal (no light)<br/>
+        Ride E on 21st<br/><br/>
+
+        East to West<br/><br/>
+        Walk W across northbound Federal to the gap in the median (no light, narrow median)<br/>
+        Walk W across southbound Federal (no light)<br/>
+        Ride W on 21st<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02536877989769,39.74870882064611 -105.02508848905563,39.74870727397125
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Guidance at Mile High Staircase</name>
+      <description>Carry your bike; Satellite View: https://goo.gl/maps/3TgQnhV5sNU2
+        <br/><br/>
+        West to East<br/><br/>
+        Carry your bike down the stairs<br/>
+        Ride SE on the sidewalk<br/><br/>
+
+        East to West<br/><br/>
+        Carry your bike up the stairs<br/>
+        Ride W on the sidewalk<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02107858657837,39.7469486821747 -105.02089083194733,39.74679813514467
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Message at Evans</name>
       <description>Street View: https://goo.gl/maps/EE3nJk2oZb42
         <br/><br/>
