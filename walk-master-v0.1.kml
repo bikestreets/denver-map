@@ -113,13 +113,13 @@
       <description>Street View: https://goo.gl/maps/LQDifcyuFvG2
         <br/><br/>
         North to South<br/><br/>
-        Walk S across westbound MLK to the small parkway with one big tree<br/>
-        Walk S across eastbound MLK<br/>
+        Walk S across westbound MLK to the small parkway with one big tree (no light)<br/>
+        Walk S across eastbound MLK (no light)<br/>
         Ride S on Madison<br/><br/>
 
         South to North<br/><br/>
-        Walk N across eastbound MLK to the small parkway with one big tree<br/>
-        Walk N across westbound MLK<br/>
+        Walk N across eastbound MLK to the small parkway with one big tree (no light)<br/>
+        Walk N across westbound MLK (no light)<br/>
         Ride N on Madison<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
@@ -159,11 +159,11 @@
       <description>Street View: https://goo.gl/maps/hVC9JhA1ntt
         <br/><br/>
         North to South<br/><br/>
-        Walk S across 6th<br/>
+        Walk S across 6th (no light)<br/>
         Ride S on St Paul<br/><br/>
 
         South to North<br/><br/>
-        Walk N across 6th<br/>
+        Walk N across 6th (no light)<br/>
         Ride N on St Paul<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
@@ -227,11 +227,11 @@
         <br/><br/>
         West to East<br/><br/>
         Walk S on the sidewalk along Lowell<br/>
-        Walk E across Lowell<br/>
+        Walk E across Lowell (no light)<br/>
         Ride E on 37th<br/><br/>
 
         East to West<br/><br/>
-        Walk W across Lowell<br/>
+        Walk W across Lowell (no light)<br/>
         Walk N on the sidewalk along Lowell<br/>
         Ride W on 37th<br/>
       </description>
@@ -249,14 +249,14 @@
       <description>Street View: https://goo.gl/maps/LHQXkC1KdSu
         <br/><br/>
         West to East<br/><br/>
-        Walk E across southbound Federal to the gap in the median<br/>
-        Walk E across northbound Federal<br/>
+        Walk E across southbound Federal to the gap in the median (no light, narrow median)<br/>
+        Walk E across northbound Federal (no light)<br/>
         Walk N on the sidewalk along Federal<br/>
         Ride E on 37th<br/><br/>
 
         East to West<br/><br/>
-        Walk S on the sidewalk along Federal until you're even with the gap in the median<br/>
-        Walk W across northbound Federal to the gap in the median<br/>
+        Walk S on the sidewalk along Federal until you're even with the gap in the median (no light, narrow median)<br/>
+        Walk W across northbound Federal to the gap in the median (no light)<br/>
         Walk W across southbound Federal<br/>
         Ride W on 37th<br/>
       </description>
@@ -396,11 +396,11 @@
       <br/><br/>
       West to East<br/><br/>
       Walk S on the sidewalk along Lowell<br/>
-      Walk E across Lowell to 45th<br/>
+      Walk E across Lowell to 45th (no light)<br/>
       Ride E on 45th<br/><br/>
 
       East to West<br/><br/>
-      Walk W across Lowell<br/>
+      Walk W across Lowell (no light)<br/>
       Walk N on the sidewalk along Lowell<br/>
       Ride W on 45th<br/>
     </description>
@@ -419,13 +419,13 @@
       <br/><br/>
       West to East<br/><br/>
       Walk N on the sidewalk along Federal until you're even with the gap in the median<br/>
-      Walk E across southbound Federal to the gap in the median<br/>
-      Walk E across northbound Federal<br/>
+      Walk E across southbound Federal to the gap in the median (no light, narrow median)<br/>
+      Walk E across northbound Federal (no light)<br/>
       Ride E on 45th<br/><br/>
 
       East to West<br/><br/>
-      Walk W across northbound Federal to the gap in the median<br/>
-      Walk W across southbound Federal<br/>
+      Walk W across northbound Federal to the gap in the median (no light, narrow median)<br/>
+      Walk W across southbound Federal (no light)<br/>
       Walk S on the sidewalk along Federal<br/>
       Ride W on 45th<br/>
     </description>
@@ -445,7 +445,7 @@
         <br/><br/>
         South to North<br/><br/>
         Walk NW on the sidewalk along 28th (due to One Way)<br/>
-        Walk NW across Welton<br/>
+        Walk NW across Welton (no light)<br/>
         Ride NW along 28th<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
@@ -699,16 +699,16 @@
       <description>Street View: https://goo.gl/maps/ehcC2eBqhmD2
         <br/><br/>
         West to East<br/><br/>
-        Walk E across southbound Monaco to the median<br/>
+        Walk E across southbound Monaco to the median (no light)<br/>
         Walk N on the median to 22nd<br/>
-        Walk E across northbound Monaco<br/>
+        Walk E across northbound Monaco (no light)<br/>
         Ride E on 22nd
         <br/><br/>
 
         East to West<br/><br/>
-        Walk W across northbound Monaco to the median<br/>
+        Walk W across northbound Monaco to the median (no light)<br/>
         Walk S on the median to 22nd<br/>
-        Walk W across southbound Monaceo<br/>
+        Walk W across southbound Monaco (no light)<br/>
         Ride W on 22nd<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
@@ -751,12 +751,12 @@
         <br/><br/>
         North to South<br/><br/>
         Walk SE on the sidewalk along Cherry Creek Dr to Garfield<br/>
-        Walk S across Cherry Creek Dr<br/>
+        Walk S across Cherry Creek Dr (no light)<br/>
         Ride S on Garfield
         <br/><br/>
 
         South to North<br/><br/>
-        Walk N across Cherry Creek Dr<br/>
+        Walk N across Cherry Creek Dr (no light)<br/>
         Walk NW on the sidewalk along Cherry Creek Dr<br/>
         Ride N on the bridge across Cherry Creek<br/>
       </description>
@@ -829,15 +829,15 @@
       <description>Street View: https://goo.gl/maps/3EePGVpiWsN2
         <br/><br/>
         North to South<br/><br/>
-        Walk S across westbound 6th to the median<br/>
+        Walk S across westbound 6th to the median (no light)<br/>
         Walk S on the median<br/>
-        Walk S across eastbound 6th<br/>
+        Walk S across eastbound 6th (no light)<br/>
         Ride S on Dahlia<br/><br/>
 
         South to North<br/><br/>
-        Walk N across eastbound 6th to the median<br/>
+        Walk N across eastbound 6th to the median (no light)<br/>
         Walk N on the median<br/>
-        Walk N across westbound 6th<br/>
+        Walk N across westbound 6th (no light)<br/>
         Ride N on Dahlia<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
@@ -854,13 +854,13 @@
       <description>Street View: https://goo.gl/maps/R9ip9qib78p
         <br/><br/>
         North to South<br/><br/>
-        Walk S across westbound Alameda to the gap in the median<br/>
-        Walk S across eastbound Alameda<br/>
+        Walk S across westbound Alameda to the gap in the median (no light)<br/>
+        Walk S across eastbound Alameda (no light)<br/>
         Ride S on Fairfax<br/><br/>
 
         South to North<br/><br/>
-        Walk N across eastbound Alameda to the gap in the median<br/>
-        Walk N across westbound Alameda<br/>
+        Walk N across eastbound Alameda to the gap in the median (no light)<br/>
+        Walk N across westbound Alameda (no light)<br/>
         Ride N on Fairfax<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
@@ -1021,16 +1021,16 @@
       <description>Street View: https://goo.gl/maps/yMAYyZDQcY32
         <br/><br/>
         West to East<br/><br/>
-        Walk E across southbound Monaco to the median<br/>
+        Walk E across southbound Monaco to the median (no light)<br/>
         Walk E on the median<br/>
-        Walk E across northbound Monaco<br/>
+        Walk E across northbound Monaco (no light)<br/>
         Ride E on 28th
         <br/><br/>
 
         East to West<br/><br/>
-        Walk W across northbound Monaco to the median<br/>
+        Walk W across northbound Monaco to the median (no light)<br/>
         Walk W on the median<br/>
-        Walk W across southbound Monaco<br/>
+        Walk W across southbound Monaco (no light)<br/>
         Ride W on 28th<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
@@ -1073,13 +1073,13 @@
       <description>Street View: https://goo.gl/maps/2vwcnsfgpMR2
         <br/><br/>
         North to South<br/><br/>
-        Walk S across westbound Evans to the gap in the median<br/>
-        Walk S across eastbound Evans<br/>
+        Walk S across westbound Evans to the gap in the median (no light, narrow median)<br/>
+        Walk S across eastbound Evans (no light)<br/>
         Ride S on Adams<br/><br/>
 
         South to North<br/><br/>
-        Walk N across eastbound Evans to the gap in the median<br/>
-        Walk N across westbound Evans<br/>
+        Walk N across eastbound Evans to the gap in the median (no light, narrow median)<br/>
+        Walk N across westbound Evans (no light)<br/>
         Ride N on Adams<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
@@ -1198,11 +1198,11 @@
         <br/><br/>
         North to South<br/><br/>
         Walk E on the sidewalk along 6th until you're even with Garfield<br/>
-        Walk S across 6th to the sidewalk on Garfield<br/>
+        Walk S across 6th to the sidewalk on Garfield (no light)<br/>
         Ride S on Garfield<br/><br/>
 
         South to North<br/><br/>
-        Walk N across 6th<br/>
+        Walk N across 6th (no light)<br/>
         Walk W on the sidewalk along 6th<br/>
         Ride N on Garfield<br/>
       </description>
@@ -1297,13 +1297,13 @@
       <description>Street View: https://goo.gl/maps/HGysW36yEDk
         <br/><br/>
         North to South<br/><br/>
-        Walk S across westbound MLK to the median<br/>
-        Walk S across eastbound MLK<br/>
+        Walk S across westbound MLK to the median (no light)<br/>
+        Walk S across eastbound MLK (no light)<br/>
         Ride S on Kearney<br/><br/>
 
         South to North<br/><br/>
-        Walk N across eastbound MLK to the median<br/>
-        Walk N across westbound MLK<br/>
+        Walk N across eastbound MLK to the median (no light)<br/>
+        Walk N across westbound MLK (no light)<br/>
         Ride N on Kearney<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
@@ -1343,15 +1343,15 @@
       <description>Street View: https://goo.gl/maps/Sx3Qzv9REfz
         <br/><br/>
         North to South<br/><br/>
-        Walk S across westbound 6th to the median<br/>
+        Walk S across westbound 6th to the median (no light)<br/>
         Walk S on sidewalk on the median<br/>
-        Walk S across eastbound 6th<br/>
+        Walk S across eastbound 6th (no light)<br/>
         Ride S on Crestmoor<br/><br/>
 
         South to North<br/><br/>
-        Walk N across eastbound 6th to the median<br/>
+        Walk N across eastbound 6th to the median (no light)<br/>
         Walk N on sidewalk on the median<br/>
-        Walk N across westbound 6th<br/>
+        Walk N across westbound 6th (no light)<br/>
         Ride N on Jasmine<br/><br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
@@ -1368,13 +1368,13 @@
       <description>Street View: https://goo.gl/maps/thfmxEUkEPz
         <br/><br/>
         North to South<br/><br/>
-        Walk S across westbound Alameda to the gap in the median<br/>
-        Walk S across eastbound Alameda<br/>
+        Walk S across westbound Alameda to the gap in the median (no light)<br/>
+        Walk S across eastbound Alameda (no light)<br/>
         Ride S on Jasmine<br/><br/>
 
         South to North<br/><br/>
-        Walk N across eastbound Alameda to the gap in the median<br/>
-        Walk N across westbound Alameda<br/>
+        Walk N across eastbound Alameda to the gap in the median (no light)<br/>
+        Walk N across westbound Alameda (no light)<br/>
         Ride N on Jasmine<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
@@ -1873,16 +1873,16 @@
       <description>Street View: https://goo.gl/maps/kb5qpcY9BP12
         <br/><br/>
         North to South<br/><br/>
-        Walk S across westbound Alameda to the median<br/>
+        Walk S across westbound Alameda to the median (no light)<br/>
         Walk through the zig-zag median<br/>
-        Walk S across eastbound Alameda<br/>
+        Walk S across eastbound Alameda (no light)<br/>
         Ride S on Osceola
         <br/><br/>
 
         South to North<br/><br/>
-        Walk N across eastbound Alameda to the median<br/>
+        Walk N across eastbound Alameda to the median (no light)<br/>
         Walk through the zig-zag median<br/>
-        Walk N across westbound Alameda<br/>
+        Walk N across westbound Alameda (no light)<br/>
         Ride N on Osceola<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
@@ -2031,7 +2031,7 @@
       <description>Street View: https://goo.gl/maps/utt9tRaHQu62
         <br/><br/>
         North to South<br/><br/>
-        Walk W across Arkins<br/>
+        Walk W across Arkins (no light)<br/>
         Hike W down the berm to South Platte River Trail<br/>
         <br/><br/>
 
@@ -2054,16 +2054,16 @@
       <description>Street View: https://goo.gl/maps/StGaeEBGED62 > https://goo.gl/maps/8VUX3JihczJ2
         <br/><br/>
         North to South<br/><br/>
-        Walk S across westbound Alameda to the gap in the median<br/>
-        Walk S across eastbound Alameda<br/>
-        Walk W on the sidewalk along Alameda<br/>
+        Walk S across westbound Alameda to the gap in the median (no light)<br/>
+        Walk S across eastbound Alameda (no light)<br/>
+        Walk E on the sidewalk along Alameda<br/>
         Ride S on Weir Gulch Trail
         <br/><br/>
 
         South to North<br/><br/>
         Walk W on the sidewalk along Alameda to Xavier<br/>
-        Walk N across eastbound Alameda to the gap in the median<br/>
-        Walk N across westbound Alameda<br/>
+        Walk N across eastbound Alameda to the gap in the median (no light)<br/>
+        Walk N across westbound Alameda (no light)<br/>
         Ride N on Xavier<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
