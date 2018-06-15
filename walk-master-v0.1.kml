@@ -61,7 +61,18 @@
 
     <Placemark>
       <name>Apex at Evans</name>
-      <description>Cross Evans at the light and walk on the sidewalk along Evans to Birch. Street view: https://goo.gl/maps/ZyHE9LbbN8D2</description>
+      <description>Street View: https://goo.gl/maps/ZyHE9LbbN8D2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S at the light across Evans<br/>
+        Walk E on the sidewalk along Evans to Birch<br/>
+        Ride S on Birch<br/><br/>
+
+        South to North<br/><br/>
+        Walk W on the sidewalk along Evans to the light<br/>
+        Walk N at the light across Evans<br/>
+        Ride N on Birch<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -73,7 +84,20 @@
 
     <Placemark>
       <name>Apex at Yale</name>
-      <description>Walk on the sidewalk along Yale to the light at Clermont. Cross Yale at the light. Walk on the sidewalk along Yale back to S. Brook. Street view: https://goo.gl/maps/BZFUJStJ52S2</description>
+      <description>Street View: https://goo.gl/maps/BZFUJStJ52S2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along Yale to the light at Clermont<br/>
+        Walk S at the light across Yale<br/>
+        Walk E on the sidewalk along Yale<br/>
+        Ride S on Brook<br/><br/>
+
+        South to North<br/><br/>
+        Walk W on the sidewalk along Yale to the light at Clermont<br/>
+        Walk N at the light across Yale<br/>
+        Walk E on the sidewalk along Yale<br/>
+        Ride N on Cherry
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -86,7 +110,18 @@
 
     <Placemark>
       <name>Basis at MLK</name>
-      <description>Cross the first half of MLK to the small parkway with one big tree. Cross the second half of MLK. Street view: https://goo.gl/maps/LQDifcyuFvG2</description>
+      <description>Street View: https://goo.gl/maps/LQDifcyuFvG2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across westbound MLK to the small parkway with one big tree<br/>
+        Walk S across eastbound MLK<br/>
+        Ride S on Madison<br/><br/>
+
+        South to North<br/><br/>
+        Walk N across eastbound MLK to the small parkway with one big tree<br/>
+        Walk N across westbound MLK<br/>
+        Ride N on Madison<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -98,7 +133,18 @@
 
     <Placemark>
       <name>Bonus at Colfax</name>
-      <description>Cross Colfax at the crosswalk. Walk on the sidewalk along Colfax to St. Paul. Street View: https://goo.gl/maps/iPBBgG4WF5n</description>
+      <description>Street View: https://goo.gl/maps/iPBBgG4WF5n
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S at the light across Colfax<br/>
+        Walk W on the sidewalk along Colfax to St. Paul<br/>
+        Ride S on St. Paul<br/><br/>
+
+        South to North<br/><br/>
+        Walk E on the sidewalk along Colfax to the light<br/>
+        Walk N at the light across Colfax<br/>
+        Ride N on Steele<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -110,7 +156,16 @@
 
     <Placemark>
       <name>Bonus at 6th</name>
-      <description>Cross 6th. Ride on. Street View: https://goo.gl/maps/hVC9JhA1ntt</description>
+      <description>Street View: https://goo.gl/maps/hVC9JhA1ntt
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across 6th<br/>
+        Ride S on St Paul<br/><br/>
+
+        South to North<br/><br/>
+        Walk N across 6th<br/>
+        Ride N on St Paul<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -121,8 +176,21 @@
     </Placemark>
 
     <Placemark>
-      <name>Bonus at 1st</name>
-      <description>Walk in the series of crosswalks to cross 1st. Street View: https://goo.gl/maps/YdXs376kxpH2. <br/> Ride on sidewalk to Cherry Creek Trail.</description>
+      <name>Bonus at 1st/Steele</name>
+      <description>Street View: https://goo.gl/maps/YdXs376kxpH2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along 1st to the light<br/>
+        Walk S using the series of lights across 1st/Steele<br/>
+        Ride S on the sidewalk along Steele<br/>
+        Continue to the Cherry Creek Trail<br/><br/>
+
+        South to North<br/><br/>
+        Ride N on the sidewalk along Steele<br/>
+        Walk N using the series of lights across 1st/Steele<br/>
+        Walk E on the sidewalk along 1st to Steele<br/>
+        Ride N on Steele<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -134,7 +202,16 @@
 
     <Placemark>
       <name>Canvas at Madame CJ Walker Park</name>
-      <description>Dismount. Walk across the park. Ride on.</description>
+      <description>Street View: https://goo.gl/maps/D9EECVg8KNq
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S through Madame CJ Walker Park<br/>
+        Ride S on High<br/><br/>
+
+        South to North<br/><br/>
+        Walk N through Madame CJ Walker Park<br/>
+        Ride N on High<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -146,7 +223,18 @@
 
     <Placemark>
       <name>Chapter at Lowell</name>
-      <description>Walk on the sidewalk along Lowell until you're event with 37th. Cross Lowell. Street view: https://goo.gl/maps/MyJDoBTsGbn.</description>
+      <description>Street View: https://goo.gl/maps/MyJDoBTsGbn
+        <br/><br/>
+        West to East<br/><br/>
+        Walk S on the sidewalk along Lowell<br/>
+        Walk E across Lowell<br/>
+        Ride E on 37th<br/><br/>
+
+        East to West<br/><br/>
+        Walk W across Lowell<br/>
+        Walk N on the sidewalk along Lowell<br/>
+        Ride W on 37th<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -158,7 +246,20 @@
 
     <Placemark>
       <name>Chapter at Federal</name>
-      <description>Cross Federal halfway to the cut in median. Cross the second half of Federal. Walk along Federal to 37th. Street view: https://goo.gl/maps/LHQXkC1KdSu.</description>
+      <description>Street View: https://goo.gl/maps/LHQXkC1KdSu
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E across southbound Federal to the gap in the median<br/>
+        Walk E across northbound Federal<br/>
+        Walk N on the sidewalk along Federal<br/>
+        Ride E on 37th<br/><br/>
+
+        East to West<br/><br/>
+        Walk S on the sidewalk along Federal until you're even with the gap in the median<br/>
+        Walk W across northbound Federal to the gap in the median<br/>
+        Walk W across southbound Federal<br/>
+        Ride W on 37th<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -170,7 +271,20 @@
 
     <Placemark>
       <name>Country at University</name>
-      <description>(1) Walk eastbound on the sidewalk along Ohio and cross University at the light. Street view: https://goo.gl/maps/vYLwQnM8T3J2. (2) Walk southbound on the sidewalk along University to Kentucky. Street view: https://goo.gl/maps/DmP8g4DG5EL2.</description>
+      <description>Street View: https://goo.gl/maps/vYLwQnM8T3J2 > https://goo.gl/maps/DmP8g4DG5EL2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along Ohio to the light<br/>
+        Walk E at the light across University<br/>
+        Walk S on the sidewalk along University<br/>
+        Ride E on Kentucky<br/><br/>
+
+        East to West<br/><br/>
+        Walk N on the sidewalk along University to the light<br/>
+        Walk W at the light across University<br/>
+        Walk W on the sidewalk along Ohio<br/>
+        Ride S on York<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -182,7 +296,16 @@
 
     <Placemark>
       <name>Country at Bonnie Brae Park</name>
-      <description>Walk on the sidewalk through Bonnie Brae Park. Street view: https://goo.gl/maps/Z7Hr3BQcq632</description>
+      <description>Street View: https://goo.gl/maps/Z7Hr3BQcq632
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk through Bonnie Brae Park<br/>
+        Ride E on Kentucky<br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk through Bonnie Brae Park<br/>
+        Ride W on Kentucky<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -194,7 +317,20 @@
 
     <Placemark>
       <name>Diamond at Broadway</name>
-      <description>Walk on the sidewalk along Dartmouth and cross Broadway at the light. Continue walking on the sidewalk. Street view: https://goo.gl/maps/E9oMPVxTW3p</description>
+      <description>Street View: https://goo.gl/maps/E9oMPVxTW3p
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along Dartmouth<br/>
+        Walk E at the light across Broadway<br/>
+        Walk E on the sidewalk along Dartmouth to Lincoln<br/>
+        Ride S on Lincoln<br/><br/>
+
+        West to East<br/><br/>
+        Walk W on sidewalk along Dartmouth<br/>
+        Walk W at the light across Broadway<br/>
+        Walk W on the sidewalk along Dartmouth to Acoma<br/>
+        Ride S on Acoma
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -206,7 +342,20 @@
 
     <Placemark>
       <name>Diamond at Downing</name>
-      <description>Walk on the sidewalk and cross at the light. Continue walking on the sidewalk to Eastman. Street view: https://goo.gl/maps/rGwV6WREjnu</description>
+      <description>Street View: https://goo.gl/maps/rGwV6WREjnu
+        <br/><br/>
+        West to East<br/><br/>
+        Walk S on the sidewalk along Downing to the light<br/>
+        Walk E at the light across Downing<br/>
+        Walk S on the sidewalk along Downing to Eastman<br/>
+        Ride E on Eastman<br/><br/>
+
+        East to West<br/><br/>
+        Walk N on the sidewalk along Downing to the light<br/>
+        Walk W at the light across Downing<br/>
+        Walk N on the sidewalk along Downing to Eastman<br/>
+        Ride W on Eastman<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -218,7 +367,20 @@
 
     <Placemark>
     <name>Diamond at University</name>
-    <description>Walk on the sidewalk along University and cross at the light at Girard. Walk north on University to E Floyd Ave. Street view: https://goo.gl/maps/FDoDsYZSZZ22</description>
+    <description>Street View: https://goo.gl/maps/FDoDsYZSZZ22
+      <br/><br/>
+      West to East<br/><br/>
+      Walk S on the sidewalk along University<br/>
+      Walk E across University at the light at Girard<br/>
+      Walk N on the sidewalk along University<br/>
+      Ride E on Floyd<br/><br/>
+
+      East to West<br/><br/>
+      Walk S on the sidewalk along University<br/>
+      Walk W across University at the light at Girard<br/>
+      Walk N on the sidewalk along University<br/>
+      Ride W on Floyd Ave (not Floyd Pl)<br/>
+    </description>
     <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
     <LineString>
       <tessellate>1</tessellate>
@@ -230,7 +392,18 @@
 
   <Placemark>
     <name>Empire at Lowell</name>
-    <description>Walk on the sidewalk along Lowell until you're event with 45th. Cross Lowell. Street view: https://goo.gl/maps/qdPpHZknx8q.</description>
+    <description>Street View: https://goo.gl/maps/qdPpHZknx8q
+      <br/><br/>
+      West to East<br/><br/>
+      Walk S on the sidewalk along Lowell<br/>
+      Walk E across Lowell to 45th<br/>
+      Ride E on 45th<br/><br/>
+
+      East to West<br/><br/>
+      Walk W across Lowell<br/>
+      Walk N on the sidewalk along Lowell<br/>
+      Ride W on 45th<br/>
+    </description>
     <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
     <LineString>
       <tessellate>1</tessellate>
@@ -242,7 +415,20 @@
 
   <Placemark>
     <name>Empire at Federal</name>
-    <description>Walk on the sidewalk along Federal until you're even with the cut in median. Cross halfway to the median. Cross the second half of Federal. Street view: https://goo.gl/maps/VM9hWRTEbbo.</description>
+    <description>Street View: https://goo.gl/maps/VM9hWRTEbbo
+      <br/><br/>
+      West to East<br/><br/>
+      Walk N on the sidewalk along Federal until you're even with the gap in the median<br/>
+      Walk E across southbound Federal to the gap in the median<br/>
+      Walk E across northbound Federal<br/>
+      Ride E on 45th<br/><br/>
+
+      East to West<br/><br/>
+      Walk W across northbound Federal to the gap in the median<br/>
+      Walk W across southbound Federal<br/>
+      Walk S on the sidewalk along Federal<br/>
+      Ride W on 45th<br/>
+    </description>
     <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
     <LineString>
       <tessellate>1</tessellate>
@@ -255,7 +441,13 @@
 
     <Placemark>
       <name>Entrance along 28th</name>
-      <description>28th is one-way southbound between Welton and Clarkson. When northbound, walk on the sidewalk along 28th to Welton and cross. North of Welton 28th is two-way. Street view: https://goo.gl/maps/DcwefZDZm2C2.</description>
+      <description>Street View: https://goo.gl/maps/DcwefZDZm2C2
+        <br/><br/>
+        South to North<br/><br/>
+        Walk NW on the sidewalk along 28th (due to One Way)<br/>
+        Walk NW across Welton<br/>
+        Ride NW along 28th<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -267,7 +459,28 @@
 
     <Placemark>
       <name>Entrance at Park/19th/Emerson</name>
-      <description>(1) Walk on the sidewalk along 19th and cross Park at the crosswalk. Then cross 19th at the crosswalk. Street view: https://goo.gl/maps/2aKCo21hSqL2. <br/>(2) Walk on the sidewalk along Park and cross Emerson. Walk on the sidewalk along Emerson and cross 18th. Street view: https://goo.gl/maps/FCDHyQTvQjn.</description>
+      <description>Street View: https://goo.gl/maps/2aKCo21hSqL2 > https://goo.gl/maps/FCDHyQTvQjn
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along 19th<br/>
+        Walk W at the light across Park<br/>
+        Walk SE at the light across 19th<br/>
+        Walk SE on the sidewalk along Park<br/>
+        Walk SE across Emerson<br/>
+        Walk S on the sidewalk along Emerson (due to fire damage)<br/>
+        Walk S across 18th<br/>
+        Ride S on Emerson<br/>
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk along Emerson to Park<br/>
+        Walk NW across Emerson<br/>
+        Walk NW on the sidewalk along Park<br/>
+        Walk NW at the light across 19th<br/>
+        Walk E at the light across Park<br/>
+        Walk E on the sidewalk along 19th<br/>
+        Ride N on Emerson<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -279,7 +492,20 @@
 
     <Placemark>
       <name>Entrance at Colfax</name>
-      <description>Walk on the sidewalk along Colfax and cross at the light at Clarkson. Walk back to Emerson. Street view: https://goo.gl/maps/cj6XWtVnjt32.</description>
+      <description>Street View: https://goo.gl/maps/cj6XWtVnjt32
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W along Colfax to Clarkson<br/>
+        Walk S at the light across Colfax<br/>
+        Walk E along Colfax<br/>
+        Ride S on Emerson<br/><br/>
+
+        South to North<br/><br/>
+        Walk W along Colfax to Clarkson<br/>
+        Walk N at the light across Colfax<br/>
+        Walk E on Colfax<br/>
+        Ride N on Emerson<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -291,7 +517,23 @@
 
     <Placemark>
       <name>Entrance at 3rd/Speer</name>
-      <description>(1) When headed west, walk on the sidewalk along 3rd to Speer. Street view: https://goo.gl/maps/epGBG1Cfx892. <br/>(2) Cross Speer in at the light and walk on the sidewalk on the bridge over Cheery Creek. Street view: https://goo.gl/maps/5CwGvSADXWP2. <br/> (3) Cross the second half of Speer at the light and proceed on the sidewalk through the park to 1st. Street view: https://goo.gl/maps/Nm1Bp4e4Fmk.</description>
+      <description>Street View: https://goo.gl/maps/epGBG1Cfx892 > https://goo.gl/maps/5CwGvSADXWP2 > https://goo.gl/maps/Nm1Bp4e4Fmk
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along 3rd<br/>
+        Walk SW at the light across north-westbound Speer<br/>
+        Walk S on the sidewalk along Clarkson over Cherry Creek<br/>
+        Walk S at the light across south-eastbound Speer<br/>
+        Walk S on the sidewalk through Hungarian Freedom Park<br/>
+        Ride E on 1st<br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk through Hungarian Freedom Park<br/>
+        Walk N at the light across south-eastbound Speer<br/>
+        Walk N on the sidewalk along Clarkson over Cherry Creek<br/>
+        Walk N at the light across north-westbound Speer<br/>
+        Ride E on 3rd<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -303,7 +545,20 @@
 
     <Placemark>
       <name>Entrance at Alameda</name>
-      <description>Walk on the sidewalk along Alameda and cross at Emerson. Walk back along Alameda to Ogden and proceed on bike. Street view: https://goo.gl/maps/xtX99Q1XkoA2.</description>
+      <description>Street View: https://goo.gl/maps/xtX99Q1XkoA2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along Alameda to Emerson<br/>
+        Walk S at the light across Alameda<br/>
+        Walk E on the sidewalk along Alameda<br/>
+        Ride W on Ogden<br/><br/>
+
+        South to North<br/><br/>
+        Walk W on the sidewalk along Alameda to Emerson<br/>
+        Walk N at the light across Alameda<br/>
+        Walk E on the sidewalk along Alameda<br/>
+        Ride N on Ogden<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -315,7 +570,23 @@
 
     <Placemark>
       <name>Entrance at Louisiana/Buchtel/I-25</name>
-      <description>(1) Walk on the sidewalk along Louisiana and cross at the light at Emerson. Street view: https://goo.gl/maps/zR7dYU83nfz. <br/> (2) Walk along Emerson and cross Buchtel at the light. Street view: https://goo.gl/maps/5ebZyVgQm462. <br/> (3) Walk on the sidewalk on the bridge over I-25 and cross south eastbound Buchtel. There is no traffic light. Street view: https://goo.gl/maps/5nXUrdDUv9H2.</description>
+      <description>Street View: https://goo.gl/maps/zR7dYU83nfz > https://goo.gl/maps/5ebZyVgQm462 > https://goo.gl/maps/5nXUrdDUv9H2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along Louisiana to Emerson<br/>
+        Walk S at the light across Louisiana<br/>
+        Walk S on the sidewalk along Emerson over I-25<br/>
+        Walk S across Buchtel (caution: there is no light)<br/>
+        Ride S on Emerson
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N across Buchtel (caution: there is no light)<br/>
+        Walk N on the sidewalk along Emerson over I-25 to the light at Louisiana<br/>
+        Walk N at the light across Louisiana<br/>
+        Walk E on the sidewalk along Louisiana<br/>
+        Ride N on Ogden<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -327,7 +598,21 @@
 
     <Placemark>
       <name>Entrance at Evans</name>
-      <description>Walk on the sidewalk along Downing and cross Evans at the light. Street view: https://goo.gl/maps/HJtJRafJHeo.</description>
+      <description>Street View: https://goo.gl/maps/HJtJRafJHeo
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk along Downing to the light at Evans<br/>
+        Walk S at the light across Evans<br/>
+        Walk S on the sidewalk along Downing<br/>
+        Ride W on Warren
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk along Downing to the light at Evans<br/>
+        Walk N at the light across Evans<br/>
+        Walk N on the sidewalk along Downing<br/>
+        Ride W on Asbury<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -339,7 +624,16 @@
 
     <Placemark>
       <name>Finding at 19th/18th</name>
-      <description>Walk on the sidewalk along Oneida from 19th to 18th. Street view: https://goo.gl/maps/FTHFhreKP5E2</description>
+      <description>Street View: https://goo.gl/maps/FTHFhreKP5E2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk along Oneida<br/>
+        Ride E on 18th<br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk along Oneida<br/>
+        Ride E on 19th<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -351,7 +645,20 @@
 
     <Placemark>
       <name>Finding at Colfax</name>
-      <description>Walk on the sidewalk along Colfax and cross Colfax at the light at Oneida. Return to Olive and proceed. Street view: https://goo.gl/maps/FB3B9ifPFgM2</description>
+      <description>Street View: https://goo.gl/maps/FB3B9ifPFgM2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along Colfax to Oneida<br/>
+        Walk S at the light across Colfax<br/>
+        Walk E on the sidewalk along Colfax<br/>
+        Ride S on Olive<br/><br/>
+
+        South to North<br/><br/>
+        Walk W on the sidewalk along Colfax to Oneida<br/>
+        Walk N at the light across Colfax<br/>
+        Walk E on the sidewalk along Colfax<br/>
+        Ride N on Olive<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -363,7 +670,21 @@
 
     <Placemark>
       <name>Fortune at Colorado</name>
-      <description>Walk on the sidewalk along Montview and cross Colorado. Proceed to Albion. Street view: https://goo.gl/maps/Shw3duNmALE2</description>
+      <description>Street View: https://goo.gl/maps/Shw3duNmALE2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along Montview to the light at Colorado<br/>
+        Walk E at the light across Colorado<br/>
+        Walk E on the sidewalk along Montview<br/>
+        Ride N on Albion
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along Montview to the light at Colorado<br/>
+        Walk W at the light across Colorado<br/>
+        Walk W on the sidewalk along Montview<br/>
+        Ride W on City Park Trail<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -375,7 +696,21 @@
 
     <Placemark>
       <name>Fortune at Monaco</name>
-      <description>Cross Monaco halfway to the parkway. Walk north and cross the second half of Monaco. Continue on 22nd. Street view: https://goo.gl/maps/ehcC2eBqhmD2</description>
+      <description>Street View: https://goo.gl/maps/ehcC2eBqhmD2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E across southbound Monaco to the median<br/>
+        Walk N on the median to 22nd<br/>
+        Walk E across northbound Monaco<br/>
+        Ride E on 22nd
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W across northbound Monaco to the median<br/>
+        Walk S on the median to 22nd<br/>
+        Walk W across southbound Monaceo<br/>
+        Ride W on 22nd<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -387,7 +722,20 @@
 
     <Placemark>
       <name>Fortune at Syracuse</name>
-      <description>Walk south on the sidewalk along Syracuse and cross at Montview. Walk on the sidewalk throug the Park to Spruce. Street view: https://goo.gl/maps/mko4vVVt1H42</description>
+      <description>Street View: https://goo.gl/maps/mko4vVVt1H42
+        <br/><br/>
+        West to East<br/><br/>
+        Walk S on the sidewalk along Syracuse to Montview<br/>
+        Walk E at the light across Syracuse<br/>
+        Walk E on the sidewalk along Montview<br/>
+        Connect to Present<br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along Montview to Syracuse<br/>
+        Walk W at the light across Syracuse<br/>
+        Walk N on the sidewalk along Syracuse<br/>
+        Ride W on 22nd<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -399,7 +747,19 @@
 
     <Placemark>
       <name>Garland at Cherry Creek South Drive</name>
-      <description>Walk on the sidewalk along Cherry Creek South Drive and cross at Garfield. Street view: https://goo.gl/maps/kTFBDNi9SuE2</description>
+      <description>Street View: https://goo.gl/maps/kTFBDNi9SuE2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk SE on the sidewalk along Cherry Creek Dr to Garfield<br/>
+        Walk S across Cherry Creek Dr<br/>
+        Ride S on Garfield
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N across Cherry Creek Dr<br/>
+        Walk NW on the sidewalk along Cherry Creek Dr<br/>
+        Ride N on the bridge across Cherry Creek<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -411,7 +771,17 @@
 
     <Placemark>
       <name>General at State Capitol</name>
-      <description>Walk on the sidewalk around the capitol. Street View: https://goo.gl/maps/5teQTLWJ3zp</description>
+      <description>Street View: https://goo.gl/maps/5teQTLWJ3zp
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk around the capitol<br/>
+        Ride S on Sherman
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk around the capitol<br/>
+        Ride N on Sherman<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -423,7 +793,28 @@
 
     <Placemark>
       <name>General at 6th/Speer</name>
-      <description>North to South: (1) Cross 6th at the crosswalk. Street View: https://goo.gl/maps/uMNbKq9o1QL2. (2) Walk along Speer on the sidewalk to Grant. Street View: https://goo.gl/maps/qbWKUtbV6wp. (3) Cross Speer on Grant at the crosswalk. Street View: https://goo.gl/maps/bViKTEuRdx62. (4) Walk along Speer on the sidewalk to Sherman. Street View: https://goo.gl/maps/ZAjcsKXi7c92</description>
+      <description>Street View: https://goo.gl/maps/uMNbKq9o1QL2 > https://goo.gl/maps/qbWKUtbV6wp > https://goo.gl/maps/bViKTEuRdx62 > https://goo.gl/maps/ZAjcsKXi7c92
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S at the light across 6th<br/>
+        Walk SE on the sidewalk along Speer to Grant<br/>
+        Walk S at the light across north-westbound Speer<br/>
+        Walk S on the sidewalk along Grant over Cherry Creek to the light at Speer<br/>
+        Walk S at the light across south-eastbound Speer<br/>
+        Walk NW on the sidewalk along Speer<br/>
+        Walk W on the sidewalk along 5th<br/>
+        Ride S on Sherman<br/><br/>
+
+        South to North<br/><br/>
+        Walk E on the sidewalk along 5th<br/>
+        Walk SE on the sidewalk along Speer to Grant<br/>
+        Walk N at the light across south-eastbound Speer<br/>
+        Walk N on the sidewalk along Grant over Cherry Creek to the light at Speer<br/>
+        Walk N at the light across north-westbound Speer<br/>
+        Walk NW on the sidewalk along Speer to 6th<br/>
+        Walk N at the light across 6th<br/>
+        Ride N on Sherman<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -435,7 +826,20 @@
 
     <Placemark>
       <name>Groundswell at 6th</name>
-      <description>Walk across 6th halfway to the parkway. Cross the second half and proceed. Street View: https://goo.gl/maps/3EePGVpiWsN2.</description>
+      <description>Street View: https://goo.gl/maps/3EePGVpiWsN2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across westbound 6th to the median<br/>
+        Walk S on the median<br/>
+        Walk S across eastbound 6th<br/>
+        Ride S on Dahlia<br/><br/>
+
+        South to North<br/><br/>
+        Walk N across eastbound 6th to the median<br/>
+        Walk N on the median<br/>
+        Walk N across westbound 6th<br/>
+        Ride N on Dahlia<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -447,7 +851,18 @@
 
     <Placemark>
       <name>Groundswell at Alameda</name>
-      <description>Walk across Alameda halfway to the sidewalk in the parkway. Cross the second half and proceed. Street View: https://goo.gl/maps/R9ip9qib78p.</description>
+      <description>Street View: https://goo.gl/maps/R9ip9qib78p
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across westbound Alameda to the gap in the median<br/>
+        Walk S across eastbound Alameda<br/>
+        Ride S on Fairfax<br/><br/>
+
+        South to North<br/><br/>
+        Walk N across eastbound Alameda to the gap in the median<br/>
+        Walk N across westbound Alameda<br/>
+        Ride N on Fairfax<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -459,7 +874,20 @@
 
     <Placemark>
       <name>Groundswell at Leetsdale</name>
-      <description>Walk on the sidewalk along Forest. Cross Leetsdale at the light. Street View: https://goo.gl/maps/gNTMsrmFB7m.</description>
+      <description>Street View: https://goo.gl/maps/gNTMsrmFB7m
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk along Forest to the light at Leetsdale<br/>
+        Walk S at the light across Leetsdale<br/>
+        Walk S on the sidewalk along Forest to Custer<br/>
+        Ride S on Forest<br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk along Forest to the light at Leetsdale<br/>
+        Walk N at the light across Leetsdale<br/>
+        Walk N on the sidewalk along Forest to Dakota<br/>
+        Ride W on Dakota<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -471,7 +899,20 @@
 
     <Placemark>
       <name>Message at Evans</name>
-      <description>Walk on the sidewalk along Evans. Cross Evans at the light at Logan. Walk back to Grant. Street view: https://goo.gl/maps/EE3nJk2oZb42.</description>
+      <description>Street View: https://goo.gl/maps/EE3nJk2oZb42
+        <br/><br/>
+        North to South<br/><br/>
+        Walk E on the sidewalk along Evans to Logan<br/>
+        Walk S at the light across Evans<br/>
+        Walk W on the sidewalk along Evans<br/>
+        Ride S on Grant<br/><br/>
+
+        South to North<br/><br/>
+        Walk E on the sidewalk along Evans to Logan<br/>
+        Walk N at the light across Evans<br/>
+        Walk W on the sidewalk along Evans<br/>
+        Ride N on Grant<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -483,7 +924,19 @@
 
     <Placemark>
       <name>Message at Belleview</name>
-      <description>Cross Belleview at the light and continue walking on the sidewalk along Clarkson. Street view: https://goo.gl/maps/BG41xLeP53K2.</description>
+      <description>Street View: https://goo.gl/maps/BG41xLeP53K2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S at the light across Belleview<br/>
+        Walk S on the sidewalk along Clarkson<br/>
+        Ride W on Logan
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk along Clarkson to the light at Belleview<br/>
+        Walk N at the light across Belleview<br/>
+        Ride N on the divided trail along Clarkson<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -495,7 +948,21 @@
 
     <Placemark>
       <name>Method at Colorado</name>
-      <description>Walk on the sidewalk from Harrison along 29th and cross at the light at Colorado. Walk on the sidewalk to Albion. Street view: https://goo.gl/maps/xtVcjNT61m62</description>
+      <description>Street View: https://goo.gl/maps/xtVcjNT61m62
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along 29th to Colorado<br/>
+        Walk E at the light across Colorado<br/>
+        Walk E on the sidewalk along 29th<br/>
+        Ride S on Albion
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along 29th to Colorado<br/>
+        Walk W at the light across Colorado<br/>
+        Walk W on the sidewalk along 29th<br/>
+        Ride S on Harrison<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -507,7 +974,21 @@
 
     <Placemark>
       <name>Method at Monaco</name>
-      <description>Cross half of Monaco into the wooded parkway. Cross the second half of Monaco. Street view: https://goo.gl/maps/yMAYyZDQcY32</description>
+      <description>Street View: https://goo.gl/maps/yMAYyZDQcY32
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E across southbound Monaco to the median<br/>
+        Walk E on the median<br/>
+        Walk E across northbound Monaco<br/>
+        Ride E on 28th
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W across northbound Monaco to the median<br/>
+        Walk W on the median<br/>
+        Walk W across southbound Monaco<br/>
+        Ride W on 28th<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -519,7 +1000,21 @@
 
     <Placemark>
       <name>Method at Quebec</name>
-      <description>(1) Walk on the sidewalk along Quebec and cross at the light at 29th. Street view: https://goo.gl/maps/EwffvgupSLM2. <br/>(2) Walk on the sidewalk through the Founder's Green shopping area, around Founder's Green Park to Spruce. Street view: https://goo.gl/maps/pnB8amN7Vgr</description>
+      <description>Street View: https://goo.gl/maps/EwffvgupSLM2 > https://goo.gl/maps/pnB8amN7Vgr
+        <br/><br/>
+        West to East<br/><br/>
+        Walk S on the sidewalk along Quebec to 29th<br/>
+        Walk E at the light across 29th<br/>
+        Walk E on the sidewalk along 29th<br/>
+        Ride S on Spruce
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along 29th to Quebec<br/>
+        Walk W at the light across Quebec<br/>
+        Walk N on the sidewalk along Quebec<br/>
+        Ride W on 29th<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -531,7 +1026,18 @@
 
     <Placemark>
       <name>Mixture at Evans</name>
-      <description>Cross Evans halfway to the gap in the parkway. Cross the second half of Evans. Street View: https://goo.gl/maps/2vwcnsfgpMR2.</description>
+      <description>Street View: https://goo.gl/maps/2vwcnsfgpMR2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across westbound Evans to the gap in the median<br/>
+        Walk S across eastbound Evans<br/>
+        Ride S on Adams<br/><br/>
+
+        South to North<br/><br/>
+        Walk N across eastbound Evans to the gap in the median<br/>
+        Walk N across westbound Evans<br/>
+        Ride N on Adams<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -543,7 +1049,25 @@
 
     <Placemark>
       <name>Moment at 13th/Speer</name>
-      <description>(1) Walk on the sidewalk along Speer, turn west and walk on the sidewalk along the bridge on 13th crossing Cherry Creek. Street View: https://goo.gl/maps/PbRHRsn8gUk.<br/> (2) Cross Speer in the crosswalk. Cross 13th in the crosswalk. Walk on the sidewalk along 13th to Galapago. Street View: https://goo.gl/maps/9SQ4KK7Hzgn.</description>
+      <description>Street View: https://goo.gl/maps/PbRHRsn8gUk > https://goo.gl/maps/9SQ4KK7Hzgn
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk along Speer<br/>
+        Walk W on the sidewalk along 13th over Cherry Creek<br/>
+        Walk S at the light across 13th<br/>
+        Walk W at the light across southbound Speer<br/>
+        Walk W on the sidewalk along 13th<br/>
+        Ride S on Galapago
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk E on the sidewalk along 13th to southbound Speer<br/>
+        Walk E at the light across southbound Speer<br/>
+        Walk N at the light across 13th<br/>
+        Walk E on the sidewalk along 13th over Cherry Creek<br/>
+        Walk N on the sidewalk along northbound Cherry Creek<br/>
+        Connect to Cherry Creek Trail<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -555,7 +1079,20 @@
 
     <Placemark>
       <name>Mosaic at University</name>
-      <description>Walk on the sidewalk along Florida and cross at the light at University. Street view: https://goo.gl/maps/ZP5hdzfdMVM2</description>
+      <description>Street View: https://goo.gl/maps/ZP5hdzfdMVM2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along Florida to University<br/>
+        Walk E at the light across University<br/>
+        Walk E on the sidewalk along Florida<br/>
+        Ride S on Josephine<br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along Florida to University<br/>
+        Walk W at the light across University<br/>
+        Walk W on the sidewalk along Florida<br/>
+        Ride S on York<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -567,7 +1104,18 @@
 
     <Placemark>
       <name>Mosaic at Colorado</name>
-      <description>(1) Walk on the sidewalk from Iowa to the parking lot. Street View: https://goo.gl/maps/t4EeAosPPLw.<br/> (2) Walk through the parking lot to Colorado. Street View: https://goo.gl/maps/wzSHHgWMjyR2. <br/>(3) Cross at the light. Street view: https://goo.gl/maps/R8e7wQUrLyt</description>
+      <description>Street View: https://goo.gl/maps/t4EeAosPPLw > https://goo.gl/maps/wzSHHgWMjyR2 > https://goo.gl/maps/R8e7wQUrLyt
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E through the parking lot to Colorado<br/>
+        Walk E at the light across Colorado<br/>
+        Ride E on Iowa<br/><br/>
+
+        East to West<br/><br/>
+        Walk W at the light across Colorado<br/>
+        Walk W through the parking lot<br/>
+        Ride W on Iowa<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -579,7 +1127,18 @@
 
     <Placemark>
       <name>Mosaic at Monaco</name>
-      <description>Walk on the sidewalk along Florida and cross Monaco at the light. Street View: https://goo.gl/maps/c9pWnDHxiKU2</description>
+      <description>Street View: https://goo.gl/maps/c9pWnDHxiKU2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along Florida to Monaco<br/>
+        Walk E at the light across Monaco<br/>
+        Ride N to Cherry Creek Trail<br/><br/>
+
+        East to West<br/><br/>
+        Walk W at the light across Monaco<br/>
+        Walk W on the sidewalk along Florida<br/>
+        Ride S on Locust<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -591,7 +1150,18 @@
 
     <Placemark>
       <name>Nexus at 6th</name>
-      <description>Walk a few steps on the sidewalk along 6th and cross to Garfield. Street View: https://goo.gl/maps/dq5s3GUAMDJ2</description>
+      <description>Street View: https://goo.gl/maps/dq5s3GUAMDJ2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk E on the sidewalk along 6th until you're even with Garfield<br/>
+        Walk S across 6th to the sidewalk on Garfield<br/>
+        Ride S on Garfield<br/><br/>
+
+        South to North<br/><br/>
+        Walk N across 6th<br/>
+        Walk W on the sidewalk along 6th<br/>
+        Ride N on Garfield<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -603,7 +1173,23 @@
 
     <Placemark>
       <name>Nexus at Cherry Creek N Dr/Alameda</name>
-      <description>Walk on the sidewalk along Alameda and cross Alameda at the light. Then cross Cherry Creek N Dr at the light. Proceed to Cherry Creek Trail. Street View: https://goo.gl/maps/CYRUQva8T7H2</description>
+      <description>Street View: https://goo.gl/maps/CYRUQva8T7H2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along Alameda to Cherry Creek Dr<br/>
+        Walk S at the light across Alameda<br/>
+        Walk W at the light across Cherry Creek Dr<br/>
+        Walk W through the park<br/>
+        Ride N or S on Cherry Creek Trail
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk E through the park to Cherry Creek Dr<br/>
+        Walk E at the light across Cherry Creek Dr<br/>
+        Walk N at the light across Alameda<br/>
+        Walk E on the sidewalk along Alameda<br/>
+        Ride N on Madison
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -615,7 +1201,21 @@
 
     <Placemark>
       <name>Outlook at Federal</name>
-      <description>Walk on the sidewalk along Alameda and cross Federal at the pedestrian light. Street View: https://goo.gl/maps/FLjZFeXGTUS2</description>
+      <description>Street View: https://goo.gl/maps/FLjZFeXGTUS2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along Alameda to Federal<br/>
+        Walk E at the light across Federal<br/>
+        Walk E on the sidewalk along Alameda<br/>
+        Ride N on Eliot
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along Alameda to Federal<br/>
+        Walk W at the light across Federal<br/>
+        Walk W on the sidewalk along Alameda<br/>
+        Ride N on Grove<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -627,7 +1227,18 @@
 
     <Placemark>
       <name>Outlook at University/Alameda</name>
-      <description>Walk on the sidewalk along University and cross Alameda at the pedestrian light. Street View: https://goo.gl/maps/C2mVJvycUys</description>
+      <description>Street View: https://goo.gl/maps/C2mVJvycUys
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk along University<br/>
+        Ride W on Dakota
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk along University to Alameda<br/>
+        Walk N at the light across Alameda<br/>
+        Ride N on sidewalk to Cherry Creek Trail<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -639,7 +1250,18 @@
 
     <Placemark>
       <name>Platform at MLK</name>
-      <description>Cross the first half of MLK to the median. Cross the second half of MLK. Street View: https://goo.gl/maps/HGysW36yEDk</description>
+      <description>Street View: https://goo.gl/maps/HGysW36yEDk
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across westbound MLK to the median<br/>
+        Walk S across eastbound MLK<br/>
+        Ride S on Kearney<br/><br/>
+
+        South to North<br/><br/>
+        Walk N across eastbound MLK to the median<br/>
+        Walk N across westbound MLK<br/>
+        Ride N on Kearney<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -651,7 +1273,18 @@
 
     <Placemark>
       <name>Platform at Colfax</name>
-      <description>Walk on the sidewalk along Colfax to Ivy and cross Colfax at the light at Ivy. Street View: https://goo.gl/maps/FyUDQ4fKk382</description>
+      <description>Street View: https://goo.gl/maps/FyUDQ4fKk382
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along Colfax to Ivy<br/>
+        Walk S at the light across Colfax<br/>
+        Ride S on Ivy<br/><br/>
+
+        South to North<br/><br/>
+        Walk N at the light across Colfax<br/>
+        Walk E on the sidewalk along Colfax<br/>
+        Ride N on Ivy<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -663,7 +1296,20 @@
 
     <Placemark>
       <name>Platform at 6th</name>
-      <description>Use the sidewalk through the parkway to cross 6th. Street View: https://goo.gl/maps/Sx3Qzv9REfz</description>
+      <description>Street View: https://goo.gl/maps/Sx3Qzv9REfz
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across westbound 6th to the median<br/>
+        Walk S on sidewalk on the median<br/>
+        Walk S across eastbound 6th<br/>
+        Ride S on Crestmoor<br/><br/>
+
+        South to North<br/><br/>
+        Walk N across eastbound 6th to the median<br/>
+        Walk N on sidewalk on the median<br/>
+        Walk N across westbound 6th<br/>
+        Ride N on Jasmine<br/><br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -675,7 +1321,18 @@
 
     <Placemark>
       <name>Platform at Alameda</name>
-      <description>Use the sidewalk cut through the parkway to cross Alameda. Street View: https://goo.gl/maps/thfmxEUkEPz</description>
+      <description>Street View: https://goo.gl/maps/thfmxEUkEPz
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across westbound Alameda to the gap in the median<br/>
+        Walk S across eastbound Alameda<br/>
+        Ride S on Jasmine<br/><br/>
+
+        South to North<br/><br/>
+        Walk N across eastbound Alameda to the gap in the median<br/>
+        Walk N across westbound Alameda<br/>
+        Ride N on Jasmine<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -687,7 +1344,20 @@
 
     <Placemark>
       <name>Prospect at University</name>
-      <description>Walk on the sidewalk along Iliff and cross University at the light. Proceed walking on the sidewalk along Iliff. Street View: https://goo.gl/maps/Un4DLv3wWPz</description>
+      <description>Street View: https://goo.gl/maps/Un4DLv3wWPz
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along Iliff to University<br/>
+        Walk E at the light across University<br/>
+        Walk E on the sidewalk along Iliff<br/>
+        Ride S on Josephine<br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along Iliff to University<br/>
+        Walk W at the light across University<br/>
+        Walk W on the sidewalk along Iliff<br/>
+        Ride S on York<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -699,7 +1369,18 @@
 
     <Placemark>
       <name>Repose at Broadway</name>
-      <description>Walk on the sidewalk along Broadway and cross Broadway at the light at Iliff. Street view: https://goo.gl/maps/35HFzBKCUCP2</description>
+      <description>Street View: https://goo.gl/maps/35HFzBKCUCP2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk along Broadway to Iliff<br/>
+        Walk W at the light across Broadway<br/>
+        Ride W on Iliff<br/><br/>
+
+        South to North<br/><br/>
+        Walk E at the light across Broadway<br/>
+        Walk N on the sidewalk along Broadway<br/>
+        Ride E on Warren<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -711,7 +1392,18 @@
 
     <Placemark>
       <name>Repose at Hampden</name>
-      <description>Walk two blocks on the sidewalk along Elati and cross Hampden at the light. Street view: https://goo.gl/maps/o3GJDYfh7xM2</description>
+      <description>Street View: https://goo.gl/maps/o3GJDYfh7xM2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S along Elati to Hampden<br/>
+        Walk S at the light across Hampden<br/>
+        Ride S on Elati<br/><br/>
+
+        South to North<br/><br/>
+        Walk N at the light across Hampden<br/>
+        Walk N on the sidewalk along Elati to Floyd<br/>
+        Ride N on Elati<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -723,7 +1415,18 @@
 
     <Placemark>
       <name>Session at Peoria</name>
-      <description>Walk on the sidewalk along 17th and cross at the light at Peoria. Street view: https://goo.gl/maps/j3JKUFHKfJT2.</description>
+      <description>Street View: https://goo.gl/maps/j3JKUFHKfJT2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along 17th to Peoria<br/>
+        Walk E at the light across Peoria<br/>
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W at at the light across Peoria<br/>
+        Walk W on the sidewalk along 17th to Paris<br/>
+        Ride N on Paris<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -735,7 +1438,18 @@
 
     <Placemark>
       <name>Series at Louisiana</name>
-      <description>Cross Louisiana at the light and walk on the sidewalk along Louisiana to Humboldt. Street view: https://goo.gl/maps/d5koHWF9f942.</description>
+      <description>Street View: https://goo.gl/maps/d5koHWF9f942
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S at the light across Louisiana<br/>
+        Walk W on the sidewalk along Louisiana<br/>
+        Ride S on Humboldt<br/><br/>
+
+        South to North<br/><br/>
+        Walk E on the sidewalk along Louisiana to Franklin<br/>
+        Walk N at the light across Louisiana<br/>
+        Ride N to Washington Park Loop<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -747,7 +1461,17 @@
 
     <Placemark>
       <name>Series at Franklin/I-25</name>
-      <description>Walk on the sidewalk along Franklin over I-25. Street view: https://goo.gl/maps/Xrkm1k3Behp.</description>
+      <description>Street View: https://goo.gl/maps/Xrkm1k3Behp
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk along Franklin<br/>
+        Ride E on Mexico
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk along Franklin<br/>
+        Ride W on Florida<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -759,7 +1483,20 @@
 
     <Placemark>
       <name>Series at Evans</name>
-      <description>Walk on the sidewalk along Evans and cross Evans at the light at High. Street view: https://goo.gl/maps/6Z7BLvD6pw52.</description>
+      <description>Street View: https://goo.gl/maps/6Z7BLvD6pw52
+        <br/><br/>
+        North to South<br/><br/>
+        Walk E on the sidewalk along Evans to High<br/>
+        Walk S at the light across Evans<br/>
+        Walk W on the sidewalk along Evans<br/>
+        Ride S on Williams<br/><br/>
+
+        South to North<br/><br/>
+        Walk E on the sidewalk along Evans to High<br/>
+        Walk N at the light across Evans<br/>
+        Walk W on the sidewalk along Evans<br/>
+        Ride N on Williams<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -771,8 +1508,19 @@
 
     <Placemark>
       <name>Story at Walnut/Marion</name>
-      <description>(1) Cross Walnut and Marion in the crosswalk. Street view: https://goo.gl/maps/mejkAEm3bNK2. <br/>(2) Ride  through Saint Charles Place Park along the bike-friendly sidewalk to Lafayette cul-de-sac. Street view: https://goo.gl/maps/b2e84be8VRw and https://goo.gl/maps/NZGuVKpHJ792.
-    </description>
+      <description>Street View: https://goo.gl/maps/mejkAEm3bNK2 > https://goo.gl/maps/b2e84be8VRw > https://goo.gl/maps/NZGuVKpHJ792
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across Walnut and Marion at the light<br/>
+        Ride S through Saint Charles Place Park on the bike-friendly sidewalk<br/>
+        Ride S on Lafayette
+        <br/><br/>
+
+        South to North<br/><br/>
+        Ride N through Saint Charles Place Park on the bike-friendly sidewalk<br/>
+        Walk N at the light across Marion and Walnut<br/>
+        Ride NW on the sidewalk along 38th<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -784,8 +1532,26 @@
 
     <Placemark>
       <name>Sunrise at 2nd/Speer/3rd</name>
-      <description>(1) Walk on the sidewalk on 2nd eastbound to Speer. Street view: https://goo.gl/maps/3r1rbnrjnuq. <br/>(2) Walk on the east sidewalk crossing Speer. Street View: https://goo.gl/maps/fdLKeUvSo9x. <br/>(3) Walk on the sidewalk on 3rd westbound to Speer. Street View: https://goo.gl/maps/KDZsy4q3vVk.
-    </description>
+      <description>Street View: https://goo.gl/maps/3r1rbnrjnuq > https://goo.gl/maps/fdLKeUvSo9x > https://goo.gl/maps/KDZsy4q3vVk
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along 2nd to Emerson<br/>
+        Walk N across 2nd<br/>
+        Walk E at the light across Emerson<br/>
+        Walk N at the light across south-eastbound Speer<br/>
+        Walk N on the sidewalk along Clarkson over Cherry Creek<br/>
+        Walk N at the light across north-westbound Speer<br/>
+        Ride E on 3rd<br/>
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along 3rd to Speer<br/>
+        Walk S at the light across north-westbound Speer<br/>
+        Walk S on the sidewalk along Clarkson over Cherry Creek<br/>
+        Walk S at the light across south-eastbound Speer<br/>
+        Walk W at the light across Emerson<br/>
+        Ride W on 2nd<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -797,7 +1563,18 @@
 
     <Placemark>
       <name>Sunrise at Josephine</name>
-      <description>Cross Josephine at the light and walk through the park to 4th. Street View: https://goo.gl/maps/Zqibuk5X1EE2</description>
+      <description>Street View: https://goo.gl/maps/Zqibuk5X1EE2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E at the light across Josephine<br/>
+        Walk E through the Park<br/>
+        Ride E on 4th<br/><br/>
+
+        East to West<br/><br/>
+        Walk W through the Park to Josephine<br/>
+        Walk W at the light across Josephine<br/>
+        Ride W on 4th<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -809,7 +1586,17 @@
 
     <Placemark>
       <name>Sunrise at Colorado Blvd</name>
-      <description>Walk and cross Colorado at the pedestrian light. Street view: https://goo.gl/maps/gFoz6bxvYbq</description>
+      <description>Street View: https://goo.gl/maps/gFoz6bxvYbq
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E at the light across Colorado<br/>
+        Ride E on 5th
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W at the light across Colorado<br/>
+        Ride W on 5th<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -821,7 +1608,20 @@
 
     <Placemark>
       <name>Topic at 38th</name>
-      <description>Walk east on the sidewalk along 38th to the pedestrian light. Cross 38th. Walk west along 38th back to Bryant. Street view: https://goo.gl/maps/fopRGsfFUdU2</description>
+      <description>Street View: https://goo.gl/maps/fopRGsfFUdU2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk E on the sidewalk along 38th to the pedestrian light<br/>
+        Walk S at the light across 38th<br/>
+        Walk W on the sidewalk along 38th<br/>
+        Ride S on Bryant<br/><br/>
+
+        South to North<br/><br/>
+        Walk E on the sidewalk along 38th to the pedestrian light<br/>
+        Walk N at the light across 38th<br/>
+        Walk W on the sidewalk along 38th<br/>
+        Ride N on Bryant<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -833,7 +1633,18 @@
 
     <Placemark>
       <name>Traction at Holly</name>
-      <description>Walk through City of Potenza Park and cross Holly at the light. Street view: https://goo.gl/maps/fkoaCjJFj2N2</description>
+      <description>Street View: https://goo.gl/maps/fkoaCjJFj2N2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W at the light across Holly<br/>
+        Walk W through City of Potenza Park<br/>
+        Ride W on Missouri<br/><br/>
+
+        South to North<br/><br/>
+        Walk E through City of Potenza Park<br/>
+        Walk E at the light across Holly<br/>
+        Ride E to Cherry Creek Trail<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -845,7 +1656,20 @@
 
     <Placemark>
       <name>Traction at Evans</name>
-      <description>Walk on the sidewalk along Dahlia and cross Evans at the light. Street View: https://goo.gl/maps/4j1aNgukvZS2</description>
+      <description>Street View: https://goo.gl/maps/4j1aNgukvZS2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk along Dahlia to Evans<br/>
+        Walk S at the light across Evans<br/>
+        Walk S on the sidewalk along Dahlia<br/>
+        Ride E on Warren<br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk along Dahlia to Evans<br/>
+        Walk N at the light across Evans<br/>
+        Walk N on the sidewalk along Dahlia<br/>
+        Ride E on Pacific<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -857,7 +1681,20 @@
 
     <Placemark>
       <name>Tribute at 38th</name>
-      <description>Walk on the sidewalk along 38th and cross 38th at the light at Tejon. Walk back along the sidewalk to Shoshone and proceed. Street view: https://goo.gl/maps/o1wPTJZTcdS2</description>
+      <description>Street View: https://goo.gl/maps/o1wPTJZTcdS2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along 38th to Tejon<br/>
+        Walk S at the light across 38th<br/>
+        Walk E on the sidewalk along 38th<br/>
+        Ride S on Shoshone<br/><br/>
+
+        South to North<br/><br/>
+        Walk W on the sidewalk along 38th to Tejon<br/>
+        Walk N at the light across 38th<br/>
+        Walk E on the sidewalk along 38th<br/>
+        Ride N on Shoshone<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -869,7 +1706,20 @@
 
     <Placemark>
       <name>Tribute at 32nd</name>
-      <description>Walk on sidewalk on the west side of the street to 32nd. Cross 32nd. Proceed on Shoshone. Street view: https://goo.gl/maps/re3jTTMVXGs</description>
+      <description>Street View: https://goo.gl/maps/re3jTTMVXGs
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the west-side sidewalk along Shoshone to 32nd<br/>
+        Walk S across 32nd (no light)<br/>
+        Walk S on the sidewalk along Shoshone<br/>
+        Ride S on Erie
+        <br/><br/>
+
+        Sourth to North<br/><br/>
+        Walk N on the west-side sidewalk along Shoshone to 32nd<br/>
+        Walk N across 32nd (no light)<br/>
+        Ride N on Shoshone<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -881,7 +1731,20 @@
 
     <Placemark>
       <name>Union at 38th</name>
-      <description>Walk on the sidewalk and cross at the light at Perry. Street view: https://goo.gl/maps/Dy3LvZ1Uqu12</description>
+      <description>Street View: https://goo.gl/maps/Dy3LvZ1Uqu12
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along 38th to Perry<br/>
+        Walk S at the light across 38th<br/>
+        Walk E on the sidewalk along 38th<br/>
+        Ride S on Osceola<br/><br/>
+
+        South to North<br/><br/>
+        Walk W on the sidewalk along 38th<br/>
+        Walk N at the light across 38th<br/>
+        Walk E on the sidewalk along 38th<br/>
+        Ride N on Osceola<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -899,7 +1762,20 @@
 
     <Placemark>
       <name>Union at Colfax</name>
-      <description>Walk on the sidewalk and cross at the light at Meade. Street view: https://goo.gl/maps/ouiB5m8Kjz62</description>
+      <description>Street View: https://goo.gl/maps/ouiB5m8Kjz62
+        <br/><br/>
+        North to South<br/><br/>
+        Walk E on the sidewalk along Colfax to Meade<br/>
+        Walk S at the light across Colax<br/>
+        Walk W on the sidewalk along Colfax<br/>
+        Ride S on Newton<br/><br/>
+
+        South to North<br/><br/>
+        Walk E on the sidewalk along Colfax to Meade<br/>
+        Walk N at the light across Colfax<br/>
+        Walk W on the sidewalk along Colfax<br/>
+        Ride N on Newton<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -914,7 +1790,17 @@
 
     <Placemark>
       <name>Union at 6th</name>
-      <description>Walk on the sidewalk along Perry. Cross 6th on the Bridge. Street view: https://goo.gl/maps/ziGEBm9HmfH2</description>
+      <description>Street View: https://goo.gl/maps/ziGEBm9HmfH2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk along Perry<br/>
+        Ride E on 5th
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk along Perry<br/>
+        Ride E on 7th<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -940,7 +1826,21 @@
 
     <Placemark>
       <name>Union at Alameda</name>
-      <description>Use the zig-zag crossing. Street view: https://goo.gl/maps/kb5qpcY9BP12</description>
+      <description>Street View: https://goo.gl/maps/kb5qpcY9BP12
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across westbound Alameda to the median<br/>
+        Walk through the zig-zag median<br/>
+        Walk S across eastbound Alameda<br/>
+        Ride S on Osceola
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N across eastbound Alameda to the median<br/>
+        Walk through the zig-zag median<br/>
+        Walk N across westbound Alameda<br/>
+        Ride N on Osceola<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -955,7 +1855,18 @@
 
     <Placemark>
       <name>Village at Lipan</name>
-      <description>Walk on the sidewalk along 8th and cross at Lipan. Street view: https://goo.gl/maps/jt86PKVr4Zn</description>
+      <description>Street View: https://goo.gl/maps/jt86PKVr4Zn
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along 8th to Lipan<br/>
+        Walk N across 8th (no light)<br/>
+        Ride N on Lipan<br/><br/>
+
+        East to West<br/><br/>
+        Walk S across 8th (no light)<br/>
+        Walk W on the sidewalk along 8th to Mariposa<br/>
+        Ride W on the bike-friendly sidewalk along 8th<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -967,7 +1878,22 @@
 
     <Placemark>
       <name>Village at Speer</name>
-      <description>Walk across the first half of Speer at the light, walk on the sidewalk to the second half of Speer and walk across at the light. Street view: https://goo.gl/maps/R29jzGHEUbo</description>
+      <description>Street View: https://goo.gl/maps/R29jzGHEUbo
+        <br/><br/>
+        West to East<br/><br/>
+        Walk NE at the light across south-eastbound Speer<br/>
+        Walk NE on the sidewalk along Bannock over Cherry Creek<br/>
+        Walk NE at the light across north-westbound Speer<br/>
+        Walk SE at the light across Bannock<br/>
+        Ride N on Bannock
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk SW at the light across north-westbound Speer<br/>
+        Walk SW on the sidewalk along Bannock over Cherry Creek<br/>
+        Walk SW at the light across south-eastbound Speer<br/>
+        Ride W through Sunken Gardens Park<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -979,7 +1905,21 @@
 
     <Placemark>
       <name>Village at Josephine</name>
-      <description>(1) Walk north on the sidewalk along Josephine to 12th. Street View: https://goo.gl/maps/NCDkxDiV7aM2. <br/>(2) Cross Josephine at the light at 12th, walk south on the sidewalk back to 11th. Street view: https://goo.gl/maps/FUhwT6eUUv52</description>
+      <description>Street View: https://goo.gl/maps/NCDkxDiV7aM2 > https://goo.gl/maps/FUhwT6eUUv52
+        <br/><br/>
+        West to East<br/><br/>
+        Walk N on the sidewalk along Josephine to 12th<br/>
+        Walk E at the light across Josephine<br/>
+        Walk S on the sidewalk along Josephine<br/>
+        Ride E on 11th
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk N on the sidewalk along Josephine to 12th<br/>
+        Walk W at the light across Josephine<br/>
+        Walk S on the sidewalk along Josephine<br/>
+        Ride W on 11th<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -991,7 +1931,22 @@
 
     <Placemark>
       <name>Village at Colorado Blvd</name>
-      <description>(1) Walk on the sidewalk to the light at 12th. Street view: https://goo.gl/maps/e8ykPMygfQ72. <br/>(2) Cross Colorado in the crosswalk and proceed on the sidewalk on the north side of 12th. Street View: https://goo.gl/maps/DjASj248irJ2. <br/>(3) Continue walking on 12th at the fork. Street View: https://goo.gl/maps/NJ8WbiE7YmD2.</description>
+      <description>Street View: https://goo.gl/maps/e8ykPMygfQ72 > https://goo.gl/maps/DjASj248irJ2 > https://goo.gl/maps/NJ8WbiE7YmD2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk S on the sidewalk along Colorado to 12th<br/>
+        Walk E at the light across Colorado<br/>
+        Walk E on the sidewalk/path along 12th to Ash<br/>
+        Ride E on 12th
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the path/sidewalk to Colorado<br/>
+        Walk W at the light across Colorado<br/>
+        Walk N on the sidewalk along Colorado<br/>
+        Ride W on 12th
+        <br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -1003,7 +1958,21 @@
 
     <Placemark>
       <name>Village at Monaco</name>
-      <description>(1) Cross southbound Monaco and proceed to the sidewalk in the parkway. Street view: https://goo.gl/maps/ZpEyaPsfDW72. <br/>(2) Cross northbound Monaco. Street View: https://goo.gl/maps/EZELjYeLz9y.</description>
+      <description>Street View: https://goo.gl/maps/ZpEyaPsfDW72 > https://goo.gl/maps/EZELjYeLz9y
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E across southbound Monaco to the median (no light)<br/>
+        Walk N on the sidewalk on the median to 12th<br/>
+        Walk E across northbound Monaco (no light)<br/>
+        Ride E on 12th
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W across northbound Monaco to the median (no light)<br/>
+        Walk S on the sidewalk on the median to 12th<br/>
+        Walk W across southbound Monaco (no light)<br/>
+        Ride W on 12th<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -1015,7 +1984,18 @@
 
     <Placemark>
       <name>Volume at Arkins/South Platte River Trail</name>
-      <description>Hike your bike! From the Platte River Trail, hike up the berm. Cross Arkins and proceed on 35th. https://goo.gl/maps/utt9tRaHQu62.</description>
+      <description>Street View: https://goo.gl/maps/utt9tRaHQu62
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W across Arkins<br/>
+        Hike W down the berm to South Platte River Trail<br/>
+        <br/><br/>
+
+        South to North<br/><br/>
+        Hike! E up the berm to Arkins<br/>
+        Walk E across Arkins (no light)<br/>
+        Ride E on 35th<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -1027,7 +2007,21 @@
 
     <Placemark>
       <name>Weir Gulch Trail at Alameda</name>
-      <description>(1) From Xavier, cross Alameda at the cut in the median. Street View: https://goo.gl/maps/StGaeEBGED62. <br/>(2) Walk on the sidewalk along Alameda to Weir Gulch Trail. Street View: https://goo.gl/maps/8VUX3JihczJ2.</description>
+      <description>Street View: https://goo.gl/maps/StGaeEBGED62 > https://goo.gl/maps/8VUX3JihczJ2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across westbound Alameda to the gap in the median<br/>
+        Walk S across eastbound Alameda<br/>
+        Walk W on the sidewalk along Alameda<br/>
+        Ride S on Weir Gulch Trail
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk W on the sidewalk along Alameda to Xavier<br/>
+        Walk N across eastbound Alameda to the gap in the median<br/>
+        Walk N across westbound Alameda<br/>
+        Ride N on Xavier<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -1039,7 +2033,23 @@
 
     <Placemark>
       <name>Weir Gulch Trail at 8th/Federal</name>
-      <description>(1) Walk east in the crosswalk across Federal. Street View: https://goo.gl/maps/1VC2jyt9W4D2. <br/> (2) Walk north in the crosswalk across 8th. Street View: https://goo.gl/maps/uQZmFzHqiku. <br/> (3) Walk east on the sidewalk to Weir Gulch Trail. Street View: https://goo.gl/maps/b7UpGGQ6JTB2.</description>
+      <description>Street View: https://goo.gl/maps/1VC2jyt9W4D2 > https://goo.gl/maps/uQZmFzHqiku > https://goo.gl/maps/b7UpGGQ6JTB2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along 8th to Federal<br/>
+        Walk N at the light across 8th<br/>
+        Walk E at the light across Federal<br/>
+        Walk E on the sidewalk along 8th<br/>
+        Ride N on Weir Gulch Trail
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along 8th to Federal<br/>
+        Walk W at the light across Federal<br/>
+        Walk S at the light across 8th<br/>
+        Walk W on the sidewalk along 8th<br/>
+        Ride SW on Weir Gulch Trail<br/>
+      </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>

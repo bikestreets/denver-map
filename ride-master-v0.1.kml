@@ -3603,7 +3603,73 @@
 
     <Placemark>
       <name>Sunrise</name>
-      <description>5.9 miles</description>
+      <description>5.9 miles<br/><br/>
+        West to East Directions<br/><br/>
+        Start at Inca and 2nd<br/>
+        Ride E on 2nd<br/>
+        Walk E on the sidewalk across Washington and along 2nd to Emerson<br/>
+        Walk N at the crosswalk to cross 2nd<br/>
+        Walk E at the light to cross Emerson<br/>
+        Walk N at the light to cross southbound Speer<br/>
+        Walk N on the sidewalk across Cherry Creek<br/>
+        Walk N at the light to cross northbound Speer<br/>
+        Ride E on 3rd<br/>
+        Ride N on Gilpin<br/>
+        Ride E on 4th<br/>
+        Ride N on Williams<br/>
+        Ride E on 5th<br/>
+        Continue S on Westwood Dr<br/>
+        Ride E on 4th<br/>
+        Walk E at the light across Josephine and James Manley Park<br/>
+        Ride E on 4th<br/>
+        Ride N on Garfield<br/>
+        Ride E on 5th<br/>
+        Walk E at the light across Colorado Blvd<br/>
+        Ride E on 5th<br/>
+        Ride S on Dahlia<br/>
+        Ride E on 4th<br/>
+        Ride S on Hudson<br/>
+        Ride E on 3rd<br/>
+        Ride N on Krameria<br/>
+        Ride E on 4th<br/>
+        Ride S on Oneida<br/>
+        Ride E on 3rd<br/>
+        Continue S on Poplar<br/>
+        Ride E on 2nd to Quebec<br/>
+        End of Bike Street<br/>
+        <br/>
+        East to West Directions<br/><br/>
+        Ride W on 2nd<br/>
+        Ride N on Poplar<br/>
+        Continue W on 3rd<br/>
+        Ride N on Oneida<br/>
+        Ride W on 4th<br/>
+        Ride S on Krameria<br/>
+        Ride W on 3rd<br/>
+        Ride N on Hudson<br/>
+        Ride W on 4th<br/>
+        Ride N on Dahlia<br/>
+        Ride W on 5th<br/>
+        Walk W at the light across Colorado Blvd<br/>
+        Ride W on 5th<br/>
+        Ride S on Garfield<br/>
+        Ride W on 4th<br/>
+        Walk W through James Manley Park and across Josephine at the light<br/>
+        Ride W on 4th<br/>
+        Ride N on Westwood<br/>
+        Continue W on 5th<br/>
+        Ride S on Williams<br/>
+        Ride W on 4th<br/>
+        Ride S on Gilpin<br/>
+        Ride W on 3rd<br/>
+        Walk W on the sidewalk across Emerson at along 3rd to Speer<br/>
+        Walk S at the light across northbound Speer<br/>
+        Walk S across Cherry Creek<br/>
+        Walk S at the light across southbound Cherry Creek<br/>
+        Walk W at the light across Emerson<br/>
+        Ride W on 2nd to Inca<br/>
+        End of Bike Street
+      </description>
       <styleUrl>#line-01579B-5000</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
