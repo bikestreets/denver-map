@@ -2046,6 +2046,30 @@
     </Placemark>
 
     <Placemark>
+      <name>Volume at 38th</name>
+      <description>Street View: https://goo.gl/maps/NSDx38qwqpR2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk SW across 38th at the light<br/>
+        Walk NW on the sidewalk along 38th<br/>
+        Ride SW on Delgany<br/>
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk SE on the sidewalk along 38th to Brighton<br/>
+        Walk NE at the light across 38th<br/>
+        Ride on Story on sidewalk<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.97632592916489,39.773526418006426 -104.97626423835754,39.77350168012111 -104.97560441493988,39.772990428500826 -104.97545152902602,39.77311205725473
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Weir Gulch Trail at Alameda</name>
       <description>Street View: https://goo.gl/maps/StGaeEBGED62 > https://goo.gl/maps/8VUX3JihczJ2
         <br/><br/>
