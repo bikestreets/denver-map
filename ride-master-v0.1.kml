@@ -2834,7 +2834,7 @@
 
     <Placemark>
       <name>Outlook</name>
-      <description>5.1 miles<br/>Walk on sidewalk to cross Federal<br/>Walk on sidewalk along University to connect to Cherry Creek Trail</description>
+      <description>5.1 miles<br/>Walk on sidewalk to cross Federal<br/>Ride bike on the sidewalk along Alameda between S Platte River Dr and Santa Fe.<br/>Walk on sidewalk along University to connect to Cherry Creek Trail</description>
       <styleUrl>#line-01579B-5000</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
