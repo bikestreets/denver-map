@@ -248,8 +248,8 @@
     </Placemark>
 
     <Placemark>
-      <name>Bonus. Ride bike on the sidewalk along 1st/Steele.</name>
-      <description>2.2 miles</description>
+      <name>Bonus</name>
+      <description>2.2 miles. Ride bike on the sidewalk along 1st/Steele.</description>
       <styleUrl>#line-01579B-5000</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
