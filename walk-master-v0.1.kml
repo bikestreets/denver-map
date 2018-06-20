@@ -1574,6 +1574,32 @@
     </Placemark>
 
     <Placemark>
+      <name>Story at York</name>
+      <description>Street View: https://goo.gl/maps/hRRykxEPh9w
+        <br/><br/>
+        West to East<br/><br/>
+        Walk S on the sidewalk along York to Bruce Randolph<br/>
+        Walk E at the light across York<br/>
+        Walk N on the sidewalk along York<br/>
+        Ride E on 35th<br/>
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk S on the sidewalk along York to Bruce Randolph<br/>
+        Walk W on at the light across York<br/>
+        Walk N on the sidewalk along York<br/>
+        Ride W on 35th<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.95987594127655,39.765659322375534 -104.95988130569457,39.764587216682884 -104.95964795351028,39.76458515492508 -104.95963990688323,39.76569024825356
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Sunrise at 2nd/Speer/3rd</name>
       <description>Street View: https://goo.gl/maps/3r1rbnrjnuq > https://goo.gl/maps/fdLKeUvSo9x > https://goo.gl/maps/KDZsy4q3vVk
         <br/><br/>

@@ -248,7 +248,7 @@
     </Placemark>
 
     <Placemark>
-      <name>Bonus</name>
+      <name>Bonus. Ride bike on the sidewalk along 1st/Steele.</name>
       <description>2.2 miles</description>
       <styleUrl>#line-01579B-5000</styleUrl>
       <LineString>
@@ -3625,7 +3625,7 @@
 
     <Placemark>
       <name>Story</name>
-      <description>2.2 miles. Ride bike on the sidewalk along 38th.</description>
+      <description>2.4 miles. Ride bike on the sidewalk along 38th.</description>
       <styleUrl>#line-01579B-5000</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -3658,7 +3658,11 @@
           -104.9622,39.76576,0
           -104.96097,39.76576,0
           -104.96036,39.76576,0
-          -104.95974,39.76576,0
+          -104.95995,39.76576,0
+
+          -104.95987594127655,39.765659322375534 -104.95988130569457,39.764587216682884 -104.95964795351028,39.76458515492508 -104.95963990688323,39.76569024825356
+
+          -104.95959,39.76576,0
           -104.95856,39.76574,0
           -104.95734,39.76571,0
           -104.95611,39.76571,0
