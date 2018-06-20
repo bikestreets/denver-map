@@ -176,26 +176,22 @@
     </Placemark>
 
     <Placemark>
-      <name>Bonus at 1st/Steele</name>
-      <description>Street View: https://goo.gl/maps/YdXs376kxpH2
+      <name>Bonus at 1st</name>
+      <description>Street View: https://goo.gl/maps/ASiEZiTeh292
         <br/><br/>
         North to South<br/><br/>
-        Walk W on the sidewalk along 1st to the light<br/>
-        Walk S using the series of lights across 1st/Steele<br/>
-        Ride S on the sidewalk along Steele<br/>
-        Continue to the Cherry Creek Trail<br/><br/>
+        Walk S at the light across 1st<br/>
+        Ride E on the sidewalk to the Cherry Creek Trail<br/><br/>
 
         South to North<br/><br/>
-        Ride N on the sidewalk along Steele<br/>
-        Walk N using the series of lights across 1st/Steele<br/>
-        Walk E on the sidewalk along 1st to Steele<br/>
-        Ride N on Steele<br/>
+        Walk N at the light across 1st<br/>
+        Ride N on St Paul<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.9499262869358,39.71794065291955 -104.94998529553413,39.71791589506898 -104.95005771517754,39.717922084532454 -104.95012745261192,39.717918989800786 -104.95013818144798,39.717899389830315 -104.95013684034348,39.71787360038701 -104.95008185505867,39.71779313726192 -104.95020255446434,39.71770751614112 -104.9502481520176,39.717606421186936 -104.9503567814827,39.71752286300069
+          -104.95101124048233,39.71814490484769 -104.95098173618317,39.718095389284294 -104.95106756687164,39.71795303184152 -104.95115339756012,39.7178127372626
         </coordinates>
       </LineString>
     </Placemark>
