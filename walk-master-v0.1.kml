@@ -619,6 +619,51 @@
     </Placemark>
 
     <Placemark>
+      <name>Exchange at Evans</name>
+      <description>Street View: https://goo.gl/maps/KttwUq2KoUH2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S at the traffic light across Evans<br/>
+        Ride S on Oneida
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N at the traffic light across Evans<br/>
+        Ride N on Oneida<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.90833193063735,39.67857012142535 -104.90835271775723,39.678328078180556
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Exchange at Hampden</name>
+      <description>Street View: https://goo.gl/maps/S19Zh9tJ2e22
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S at the traffic light across Hampden<br/>
+        Ride S on Poplar
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N at the traffic light across Hampden<br/>
+        Ride N on Poplar<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.90492284297943,39.653282082683404 -104.90486919879912,39.65292275665735 -104.90481823682785,39.65291243116921
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+
+    <Placemark>
       <name>Finding at 19th/18th</name>
       <description>Street View: https://goo.gl/maps/FTHFhreKP5E2
         <br/><br/>
