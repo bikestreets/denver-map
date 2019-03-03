@@ -2311,6 +2311,33 @@
       </LineString>
     </Placemark>
 
+    <Placemark>
+      <name>Zenith at Federal</name>
+      <description>Street View: https://goo.gl/maps/U43aF4f8Wko > https://goo.gl/maps/6DAGNwPXWxv > https://goo.gl/maps/sENiegEV5ZG2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along Exposition<br/>
+        Walk E at the traffic light across Federal<br/>
+        Walk N at the traffic light across Exposition<br/>
+        Walk E on the sidewalk along Exposition<br/>
+        Ride N on Decatur
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along Exposition<br/>
+        Walk S at the traffic light across Exposition<br/>
+        Walk W at the traffic light across Federal<br/>
+        Walk W on the sidewalk along Exposition<br/>
+        Ride S on Hazel<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02746358513832,39.703964464589525 -105.0274246931076,39.70397013941193 -105.02523064613342,39.703942797081496 -105.02494096755981,39.703831364075604 -105.02493292093277,39.7039128752735 -105.02493426203728,39.70397581423385 -105.02487793564796,39.70395517851549 -105.02456948161125,39.70395208315718 -105.02395391464233,39.70395724208758
+        </coordinates>
+      </LineString>
+    </Placemark>
 
   </Document>
 </kml>
