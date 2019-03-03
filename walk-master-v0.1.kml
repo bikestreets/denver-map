@@ -2123,6 +2123,94 @@
     </Placemark>
 
     <Placemark>
+      <name>Vista at Federal</name>
+      <description>Street View: https://goo.gl/maps/T8BH1cZTUet > https://goo.gl/maps/S81vi9HXavk
+        <br/><br/>
+        North to South<br/><br/>
+        Walk N on the sidewalk along Federal to the traffic light<br/>
+        Walk E across Federal at the traffic light<br/>
+        Walk E on the sidewalk along 2nd<br/>
+        Walk S across 2nd at Decatur (no traffic light)<br/>
+        Ride S on Decatur
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N across 2nd (no traffic light)<br/>
+        Walk W on the sidewalk along 2nd<br/>
+        Walk W across Federal at the traffic light<br/>
+        Ride S on the sidewalk along Federal to 2nd<br/>
+        Ride W on 2nd
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02535670995712,39.719838728337294 -105.02532988786697,39.71987792717039 -105.02533257007599,39.720385446892124 -105.024973154068,39.720389573053424 -105.02493292093277,39.720360689919175 -105.02484440803528,39.720340059101595 -105.02367496490477,39.72034418526562 -105.02292662858963,39.720346248347525
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Vista at Mississippi</name>
+      <description>Street View: https://goo.gl/maps/HjUB37XyN7T2 > https://goo.gl/maps/kK3nLNmG6hr > https://goo.gl/maps/piZ8x76CcRJ2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk along Zuni<br/>
+        Walk S across Mississippi at the traffic light<br/>
+        Walk S on the sidewalk along Zuni<br/>
+        Ride W on Mosier
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk along Zuni<br/>
+        Walk N across Mississippi at the traffic light<br/>
+        Walk N on the sidewalk along Zuni<br/>
+        Ride W on Tennessee
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.01577317714691,39.698503005527584 -105.01576781272888,39.69714505441596 -105.01577854156493,39.696895337093494 -105.01579463481903,39.69688089060918 -105.01570075750351,39.69666212919137 -105.01570075750351,39.69605743600484
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Vista at Hampden and Federal</name>
+      <description>Street View: https://goo.gl/maps/xeN74aXjkKs > https://goo.gl/maps/cTRBm1WtTgF2 > https://goo.gl/maps/GnumNU6i8yv > https://goo.gl/maps/KQLiU42faPD2 > https://goo.gl/maps/X3k18csziou > https://goo.gl/maps/FQxw9wFAf1o
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along Hampden to Federal<br/>
+        Walk S across Hampden at the traffic light<br/>
+        Walk S on the sidewalk along Federal under the overpass<br/>
+        Walk W across Federal at the traffic light<br/>
+        Walk S across the 285 offramp at the crosswalk<br/>
+        Walk S on the sidewalk along Federal<br/>
+        Walk S across Jefferson<br/>
+        Ride S on Bear Creek Trail connector
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N across Jefferson
+        Walk N on the sidewalk along Federal
+        Walk N across the 285 offramp at the crosswalk<br/>
+        Walk E across Federal at the traffic light<br/>
+        Walk N on the sidewalk along Federal under the overpass<br/>
+        Walk N across Hampden at the traffic light<br/>
+        Walk E on the sidewalk along Hampden<br/>
+        Ride N on Elliot
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02412289381027,39.65336675118776 -105.0241470336914,39.65334197017282 -105.02507239580154,39.65334197017282 -105.02506703138351,39.65319121880727 -105.02507239580154,39.65282363190766 -105.02505898475647,39.65275135335475 -105.02503752708435,39.65266461899149 -105.02496778964996,39.65259440537964 -105.02507776021957,39.65255310322169 -105.02506971359253,39.652443652383816 -105.02508312463759,39.65162379814433 -105.02508312463759,39.65147304303191 -105.02509653568268,39.65145445676244 -105.02540230751038,39.651470977891094 -105.0254961848259,39.65138217677797 -105.0254425406456,39.65125207261551 -105.02543181180954,39.65112403335946 -105.02541303634644,39.651045557569184 -105.02539962530136,39.65098979840089 -105.02543449401855,39.650942299814666 -105.0254613161087,39.65079360837724
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Volume at Arkins/South Platte River Trail</name>
       <description>Street View: https://goo.gl/maps/utt9tRaHQu62
         <br/><br/>
