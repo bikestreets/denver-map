@@ -1482,6 +1482,52 @@
     </Placemark>
 
     <Placemark>
+      <name>Quintet at I-25</name>
+      <description>Street View: https://goo.gl/maps/nYsr2NwmGU62 > https://goo.gl/maps/aBbNNWLAY8Q2 > https://goo.gl/maps/ZdxWFLokcL72
+        <br/><br/>
+        West to East<br/><br/>
+        Walk NE at the traffic light across Happy Canyon<br/>
+        Walk E on the sidewalk along Quincy over I-25<br/>
+        Ride NW through Eastmoor Park<br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along Quincy over I-25<br/>
+        Walk SW at the traffic light across Happy Canyon<br/>
+        Ride W on the bike trail along Quincy<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.91280853748322,39.63808343899952 -104.91265833377838,39.6381247498012 -104.91252422332762,39.63826933741276 -104.91248667240143,39.63839326941068 -104.91234183311461,39.63844697320746 -104.91213262081146,39.63858329804283 -104.91185903549193,39.63869896738939 -104.91159081459045,39.6387278846958 -104.91075396537781,39.63873614678114 -104.90951880812645,39.63874957266766 -104.90857735276222,39.638751638188474 -104.90796849131584,39.63877745719296 -104.90756213665009,39.638789850311696 -104.90728586912154,39.63880327618782
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Quintet at Spruce</name>
+      <description>Street View: https://goo.gl/maps/Dy6kPCgPx852
+        <br/><br/>
+        North to South<br/><br/>
+        Walk E on the sidewalk along Spruce to the crosswalk<br/>
+        Walk S at the traffic light across Spruce<br/>
+        Ride S through Eastmoor Park<br/><br/>
+
+        South to North<br/><br/>
+        Walk N at the traffic light across Spruce<br/>
+        Walk W on the sidewalk along Spruce<br/>
+        Ride N on Oneida<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.90828029811382,39.64059870545064 -104.90828163921832,39.64083623358477 -104.90862160921097,39.64083468449088
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Repose at Broadway</name>
       <description>Street View: https://goo.gl/maps/35HFzBKCUCP2
         <br/><br/>
