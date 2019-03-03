@@ -1032,6 +1032,32 @@
     </Placemark>
 
     <Placemark>
+      <name>Method at York</name>
+      <description>Street View: https://goo.gl/maps/4xHBmLNKY5q
+        <br/><br/>
+        West to East<br/><br/>
+        Walk S on the sidewalk along York to 26th<br/>
+        Walk E at the traffic light across York<br/>
+        Walk N on the sidewalk along York<br/>
+        Ride E on 27th
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk S on the sidewalk along York to 26th<br/>
+        Walk W at the traffic light across York<br/>
+        Walk N on the sidewalk along York<br/>
+        Ride W on 27th<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.95989203453064,39.755681909087805 -104.95989471673965,39.75457871719969 -104.95964527130127,39.75457459308471 -104.95965600013733,39.75567984706337
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Method at Colorado</name>
       <description>Street View: https://goo.gl/maps/xtVcjNT61m62
         <br/><br/>
