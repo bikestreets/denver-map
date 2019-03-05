@@ -662,6 +662,29 @@
       </LineString>
     </Placemark>
 
+    <Placemark>
+      <name>Finding at MLK</name>
+      <description>Street View: https://goo.gl/maps/1B3WZYPWqow
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across westbound MLK to the median<br/>
+        Walk S across eastbound MLK<br/>
+        Ride S on Olive<br/><br/>
+
+        South to North<br/><br/>
+        Walk N across eastbound MLK to the median<br/>
+        Walk N across westbound MLK<br/>
+        Ride N on Olive<br/><br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.90698277950285,39.7620058475717 -104.90697339177132,39.7618048183598
+        </coordinates>
+      </LineString>
+    </Placemark>
+
 
     <Placemark>
       <name>Finding at 19th/18th</name>
