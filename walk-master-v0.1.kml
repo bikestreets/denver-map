@@ -834,28 +834,6 @@
     </Placemark>
 
     <Placemark>
-      <name>General at State Capitol</name>
-      <description>Street View: https://goo.gl/maps/5teQTLWJ3zp
-        <br/><br/>
-        North to South<br/><br/>
-        Walk S on the sidewalk around the capitol<br/>
-        Ride S on Sherman
-        <br/><br/>
-
-        South to North<br/><br/>
-        Walk N on the sidewalk around the capitol<br/>
-        Ride N on Sherman<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.98498141765594,39.7399262410873 -104.985171854496,39.73983961620038 -104.98533010482788,39.73975299120453 -104.98542666435242,39.739684928631426 -104.9855124950409,39.73954261576133 -104.9855500459671,39.739408552643866 -104.9855849146843,39.73928686435762 -104.98559296131134,39.73921261377233 -104.98558223247527,39.73913630058742 -104.98554468154907,39.739047612185246 -104.98551517724991,39.738965111243566 -104.98546689748764,39.73885785987174 -104.98536229133605,39.738762983519095 -104.98523890972136,39.738686669836284 -104.98513966798781,39.73862891888501 -104.98505383729935,39.73858560563982 -104.98501628637314,39.73856085520177
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>General at 6th/Speer</name>
       <description>Street View: https://goo.gl/maps/uMNbKq9o1QL2 > https://goo.gl/maps/qbWKUtbV6wp > https://goo.gl/maps/bViKTEuRdx62 > https://goo.gl/maps/ZAjcsKXi7c92
         <br/><br/>
