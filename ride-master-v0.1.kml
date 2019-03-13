@@ -16,6 +16,29 @@
       </LineStyle>
     </Style>
 
+    <Style id="line-000000-3713-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-000000-3713-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-000000-3713">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-3713-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-3713-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
     <Style id="line-01579B-5000-normal">
       <LineStyle>
         <color>ff9b5701</color>
