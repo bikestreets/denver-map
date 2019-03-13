@@ -1332,6 +1332,59 @@
     </Placemark>
 
     <Placemark>
+      <name>Noonday at Santa Fe</name>
+      <description>Street View: https://goo.gl/maps/E2AYnPGYNs22 > https://goo.gl/maps/2312TJ7E5pk
+        <br/><br/>
+        West to East<br/><br/>
+        Walk N at the traffic light across Mississippi<br/>
+        Walk E on the sidewalk along Mississippi across the South Platte River<br/>
+        Walk E at the traffic light across N Santa Fe Drive<br/>
+        Ride E on on the sidewalk along Mississippi
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W at the traffic light across N Santa Fe Drive<br/>
+        Walk W on the sidewalk along Mississippi across the South Platte River<br/>
+        Walk S at the traffic light across Mississippi<br/>
+        Ride S on South Platte River Trail
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.99296098947525,39.696147211608036 -104.99289393424986,39.69653314218141 -104.99282017350197,39.696800402998356 -104.99199002981184,39.696792147853465 -104.99168157577515,39.69681691328513 -104.99159842729568,39.69680865814223 -104.99148577451705,39.696788020280664
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Noonday at Broadway</name>
+      <description>Street View: https://goo.gl/maps/Usmt5AtvzsG2 > https://goo.gl/maps/FBFCRMjcCT92
+        <br/><br/>
+        West to East<br/><br/>
+        Walk S at the traffic light across Mississippi<br/>
+        Walk E at the traffic light across Broadway<br/>
+        Walk E on the sidewalk along Mississippi<br/>
+        Ride S on Lincoln
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along Mississippi<br/>
+        Walk W at the traffic light across Broadway<br/>
+        Walk N at the traffic light across Mississippi<br/>
+        Ride W on sidwalk along Mississippi
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.98759120702744,39.69674674453898 -104.98758316040039,39.696541397357265 -104.98704805970192,39.69652179131298 -104.986342638731,39.69652901459311 -104.9863091111183,39.69652179131298
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+
+    <Placemark>
       <name>Outlook at Federal</name>
       <description>Street View: https://goo.gl/maps/FLjZFeXGTUS2
         <br/><br/>
