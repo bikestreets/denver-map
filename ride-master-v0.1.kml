@@ -4992,7 +4992,7 @@
 
     <Placemark>
       <name>Sortie</name>
-      <description>0.9 miles. 14th is one-way SE. Protected bike lane on 14th. Ride bike on the sidewalk along Colfax.</description>
+      <description>0.9 miles. 14th St is one-way SE. Protected bike lane on 14th St. Ride bike on the sidewalk along Colfax.</description>
       <styleUrl>#line-01579B-5000</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -5048,6 +5048,31 @@
       </LineString>
     </Placemark>
 
+    <Placemark>
+      <name>Solver</name>
+      <description>0.5 miles. 14th Ave is one-way E. Protected bike lane on 14th Ave. Bannock is one-way S. Ride N along Bannock on sidewalk.</description>
+      <styleUrl>#line-01579B-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.99668657779694,39.73799674905791 -104.99695748090744,39.73837832044663 -104.99671205878258,39.738381414260076 -104.99642036855221,39.73838244553117 -104.99639924615622,39.738413383657445
+
+          -104.99625,39.73846,0
+          -104.99612,39.73846,0
+          -104.9959,39.73846,0
+          -104.99529,39.73846,0
+          -104.99411,39.73847,0
+          -104.99293,39.73846,0
+          -104.99165,39.73846,0
+          -104.99096,39.73846,0
+          -104.99026,39.73845,0
+
+          -104.9901419878006,39.73854435490478 -104.99015808105469,39.73992830358328
+
+          -104.99016612768173,39.739950991035016 -104.9903056025505,39.740184052606566
+        </coordinates>
+      </LineString>
+    </Placemark>
 
     <Placemark>
       <name>Story</name>

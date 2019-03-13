@@ -1719,6 +1719,42 @@
     </Placemark>
 
     <Placemark>
+      <name>Solver at Cherry Creek Trail</name>
+      <description>Street View: https://goo.gl/maps/S3yF4de67Mx > https://goo.gl/maps/CgNhMkbJsT82
+        <br/><br/>
+        West to East<br/><br/>
+        Walk N on the sidewalk along Speer<br/>
+        Walk E at the traffic light across Speer<br/>
+        Walk E at the traffic light across Galapago<br/>
+        Ride E in the bike lane on 14th Ave<br/><br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.99668657779694,39.73799674905791 -104.99695748090744,39.73837832044663 -104.99671205878258,39.738381414260076 -104.99642036855221,39.73838244553117 -104.99639924615622,39.738413383657445
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Solver at Colfax</name>
+      <description>Street View: https://goo.gl/maps/BhZPP159SUF2
+        <br/><br/>
+        South to North<br/><br/>
+        Walk E at the traffic light across Colfax<br/>
+        Ride NE on the sidewalk along Colfax on Sortie<br/><br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.99016612768173,39.739950991035016 -104.9903056025505,39.740184052606566
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Story at Walnut/Marion</name>
       <description>Street View: https://goo.gl/maps/mejkAEm3bNK2 > https://goo.gl/maps/b2e84be8VRw > https://goo.gl/maps/NZGuVKpHJ792
         <br/><br/>
