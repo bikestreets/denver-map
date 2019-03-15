@@ -434,25 +434,6 @@
     </LineString>
   </Placemark>
 
-
-    <Placemark>
-      <name>Entrance along 28th</name>
-      <description>Street View: https://goo.gl/maps/DcwefZDZm2C2
-        <br/><br/>
-        South to North<br/><br/>
-        Walk NW on the sidewalk along 28th (due to One Way)<br/>
-        Walk NW across Welton (no traffic light)<br/>
-        Ride NW along 28th<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.97698575258255,39.755747893836954 -104.97677654027939,39.75560973819604 -104.97678726911545,39.755566435624665 -104.97673898935317,39.75552931911327 -104.97651100158691,39.7553622945644 -104.9764895439148,39.75534579829069 -104.97636616230011,39.755281875192736
-        </coordinates>
-      </LineString>
-    </Placemark>
-
     <Placemark>
       <name>Entrance at Park/19th/Emerson</name>
       <description>Street View: https://goo.gl/maps/2aKCo21hSqL2 > https://goo.gl/maps/FCDHyQTvQjn
