@@ -386,6 +386,31 @@
     </LineString>
   </Placemark>
 
+  <Placemark>
+    <name>Empire at Pecos</name>
+    <description>Street View: https://goo.gl/maps/56LnDw8WGPR2
+      <br/><br/>
+      West to East<br/><br/>
+      Walk E on the sidewalk along 43rd Ave<br/>
+      Walk E at the traffic light across Pecos<br/>
+      Walk E on the sidewalk along 43rd Ave<br/>
+      Ride E on 43rd<br/><br/>
+
+      East to West<br/><br/>
+      Walk W on the sidewalk along 43rd Ave<br/>
+      Walk W at the traffic light across Pecos<br/>
+      Walk W on the sidewalk along 43rd Ave<br/>
+      Ride W on 43rd<br/>
+    </description>
+    <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -105.00701576471327,39.775420901311314 -105.00657320022582,39.77542296274462 -105.0063344836235,39.77545388423675 -105.00614941120146,39.775455945669066
+      </coordinates>
+    </LineString>
+  </Placemark>
+
     <Placemark>
       <name>Entrance at Park/19th/Emerson</name>
       <description>Street View: https://goo.gl/maps/2aKCo21hSqL2 > https://goo.gl/maps/FCDHyQTvQjn
