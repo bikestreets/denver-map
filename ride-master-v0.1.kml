@@ -16071,6 +16071,30 @@
       </LineString>
     </Placemark>
 
+    <Placemark>
+      <name>Wander</name>
+      <description>0.2 miles. Unprotected bike lanes on steep hill.</description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+          <coordinates>
+            -105.06177,39.78865,0
+            -105.06184,39.78859,0
+            -105.06199,39.78842,0
+            -105.06215,39.78814,0
+            -105.06243,39.78765,0
+            -105.06252,39.78748,0
+            -105.0626,39.78732,0
+            -105.06263,39.78723,0
+            -105.06265,39.78712,0
+            -105.06265,39.787,0
+            -105.06265,39.78617,0
+            -105.06265,39.78578,0
+            -105.06265,39.78566,0
+            -105.06259,39.78566,0
+          </coordinates>
+      </LineString>
+    </Placemark>
 
   </Document>
 </kml>
