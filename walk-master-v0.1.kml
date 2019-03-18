@@ -2354,6 +2354,37 @@
     </Placemark>
 
     <Placemark>
+      <name>Wander at Sheridan</name>
+      <description>Street View: https://goo.gl/maps/n8VuE3DMipK2 > https://goo.gl/maps/m5fxhdvAUfT2 > https://goo.gl/maps/xD6fCuERVC92 >  https://goo.gl/maps/7dsPKbRtiCB2 > https://goo.gl/maps/Xi12fBJ1kJ22
+        <br/><br/>
+        North to South<br/><br/>
+        Walk E on the sidewalk along 48th Ave to Sheridan<br/>
+        Walk E at the traffic light across Sheridan<br/>
+        Walk S at the traffic alight across the I-70 offramp<br/>
+        Ride S on the sidewalk along Sheridan<br/>
+        Walk S at the crosswalk (no traffic light) across the I-70 onramp<br/>
+        Ride S on the sidewalk along Sheridan to Berkeley Lake Park
+        <br/><br/>
+
+        South to North<br/><br/>
+        Ride N on the sidewalk along Sheridan<br/>
+        Walk N at the crosswalk (no traffic light) across the I-70 onramp<br/>
+        Ride N on the sidewalk along Sheridan<br/>
+        Walk N at the traffic light across the I-70 offramp<br/>
+        Walk W at the traffic light across Sheridan<br/>
+        Walk W on the sidewalk along 48th Ave<br/>
+        Ride N on Ames
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.05435809493065,39.78390317673514 -105.05344547331333,39.78390060026101 -105.05341999232769,39.78391193674647 -105.05339987576008,39.783928426176494 -105.05339585244654,39.78394388501358 -105.05339249968529,39.78395934384717 -105.05339182913303,39.78397480267731 -105.05327180027962,39.78397995561989 -105.0532054156065,39.78400468973903 -105.05308873951435,39.784064979117154 -105.05307599902153,39.78392894147114 -105.05308538675308,39.783887202594 -105.0530880689621,39.783109618142454 -105.05306392908095,39.783095189719695 -105.05302235484122,39.783070455273624 -105.05294859409332,39.783024078163294
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Weir Gulch Trail at Alameda</name>
       <description>Street View: https://goo.gl/maps/StGaeEBGED62 > https://goo.gl/maps/8VUX3JihczJ2
         <br/><br/>
