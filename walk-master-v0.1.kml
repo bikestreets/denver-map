@@ -1966,37 +1966,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Union at 38th</name>
-      <description>Street View: https://goo.gl/maps/Dy3LvZ1Uqu12
-        <br/><br/>
-        North to South<br/><br/>
-        Walk W on the sidewalk along 38th to Perry<br/>
-        Walk S at the traffic light across 38th<br/>
-        Walk E on the sidewalk along 38th<br/>
-        Ride S on Osceola<br/><br/>
-
-        South to North<br/><br/>
-        Walk W on the sidewalk along 38th<br/>
-        Walk N at the traffic light across 38th<br/>
-        Walk E on the sidewalk along 38th<br/>
-        Ride N on Osceola<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -105.038156,39.769576,0
-          -105.038261,39.769558,0
-          -105.038749,39.769546,0
-          -105.039256,39.769537,0
-          -105.039251,39.769358,0
-          -105.038288,39.769381,0
-          -105.038162,39.769391,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Union at Colfax</name>
       <description>Street View: https://goo.gl/maps/ouiB5m8Kjz62
         <br/><br/>
