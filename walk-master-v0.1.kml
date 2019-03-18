@@ -218,54 +218,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Chapter at Lowell</name>
-      <description>Street View: https://goo.gl/maps/MyJDoBTsGbn
-        <br/><br/>
-        West to East<br/><br/>
-        Walk S on the sidewalk along Lowell<br/>
-        Walk E across Lowell (no traffic light)<br/>
-        Ride E on 37th<br/><br/>
-
-        East to West<br/><br/>
-        Walk W across Lowell (no traffic light)<br/>
-        Walk N on the sidewalk along Lowell<br/>
-        Ride W on 37th<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -105.0347739458084,39.76764061223209 -105.03474712371826,39.76760968723011 -105.03474980592728,39.767490110425086 -105.03456473350525,39.767494233766634 -105.03456473350525,39.767467432042075
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
-      <name>Chapter at Federal</name>
-      <description>Street View: https://goo.gl/maps/LHQXkC1KdSu
-        <br/><br/>
-        West to East<br/><br/>
-        Walk E across southbound Federal to the gap in the median (no traffic light, narrow median)<br/>
-        Walk E across northbound Federal (no traffic light)<br/>
-        Walk N on the sidewalk along Federal<br/>
-        Ride E on 37th<br/><br/>
-
-        East to West<br/><br/>
-        Walk S on the sidewalk along Federal until you're even with the gap in the median (no traffic light, narrow median)<br/>
-        Walk W across northbound Federal to the gap in the median (no traffic light)<br/>
-        Walk W across southbound Federal<br/>
-        Ride W on 37th<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -105.02540498971938,39.76752722049024 -105.02509117126465,39.76752722049024 -105.02510458230971,39.76798284799323
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Country at University</name>
       <description>Street View: https://goo.gl/maps/vYLwQnM8T3J2 > https://goo.gl/maps/DmP8g4DG5EL2
         <br/><br/>
