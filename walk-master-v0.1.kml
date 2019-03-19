@@ -2374,6 +2374,54 @@
     </Placemark>
 
     <Placemark>
+      <name>Wander at 29th Ave</name>
+      <description>Street View: https://goo.gl/maps/Hm7ENs6P4C52
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across 29th Ave (no traffic light)<br/>
+        Walk W on the sidewalk along 29th<br/>
+        Ride S Wolff
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk W on the sidewalk along 29th <br/>
+        Walk N across 29th Ave (no traffic light)<br/>
+        Ride N on Wolff<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.04869729280472,39.75853569173248 -105.0486946105957,39.75840578945545 -105.04849880933762,39.75840785139829
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Wander at 26th Ave</name>
+      <description>Street View: https://goo.gl/maps/BNG1Er819Zs
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along 26th Ave<br/>
+        Walk S across 26th Ave (no traffic light)<br/>
+        Ride S on the Wolff<br/>
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N across 26th Ave (no traffic light)<br/>
+        Walk E on the sidewalk along 26th Ave<br/>
+        Ride N on Wolff<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.04850149154663,39.75494988653628 -105.0487294793129,39.75495401062877 -105.04870265722275,39.754789046735986
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Weir Gulch Trail at Alameda</name>
       <description>Street View: https://goo.gl/maps/StGaeEBGED62 > https://goo.gl/maps/8VUX3JihczJ2
         <br/><br/>
