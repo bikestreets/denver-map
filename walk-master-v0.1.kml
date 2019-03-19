@@ -107,6 +107,26 @@
       </LineString>
     </Placemark>
 
+    <Placemark>
+      <name>Away at 20th Ave</name>
+      <description>Street View: https://goo.gl/maps/9SRmGASe27P2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk to Guidance<br/>
+        Continue on Guidance<br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk to the cul-de-sac on Eliot<br/>
+        Ride N on Eliot<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02350464463234,39.747732346332896 -105.02350732684135,39.74759829914833 -105.02346709370613,39.74757561421437 -105.02343088388442,39.747538493397215 -105.02341344952582,39.74751580844356
+        </coordinates>
+      </LineString>
+    </Placemark>
 
     <Placemark>
       <name>Basis at MLK</name>
