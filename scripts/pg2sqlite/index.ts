@@ -2,6 +2,8 @@ import { Client } from 'pg';
 import chalk from 'chalk';
 import sqlite from 'sqlite';
 
+const sqliteDBName = process.env.SQLITE_DB_NAME || Math.floor((Math.random() * 100000)).toString(16);
+
 const queryString = (table: string): string => {
     return `
         SELECT 
@@ -46,7 +48,6 @@ async function main() {
         await client.connect();
         console.log(chalk.green('✅ PG database connection'));
 
-        const sqliteDBName = Math.floor((Math.random() * 100000)).toString(16);
         const db = await sqlite.open(`./${sqliteDBName}.sqlite`);
         console.log(chalk.green('✅ SQLite db created -', sqliteDBName));
 

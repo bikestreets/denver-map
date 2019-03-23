@@ -10,5 +10,11 @@ ogr2ogr -f 'ESRI Shapefile' .temp/walk.shp walk-master-v0.1.kml
 ogr2ogr -f 'ESRI Shapefile' .temp/ride.shp ride-master-v0.1.kml
 
 # Import Shapefiles to PostGIS
-shp2pgsql .temp/walk.shp public.walk_path | psql -v ON_ERROR_STOP=1 -d bike_streets
-shp2pgsql .temp/walk.shp public.bike_path | psql -v ON_ERROR_STOP=1 -d bike_streets
+dropdb bike_streets
+createdb bike_streets
+psql -d bike_streets -c "create extension postgis"
+shp2pgsql .temp/walk.shp public.walk_path | psql -d bike_streets
+shp2pgsql .temp/walk.shp public.bike_path | psql -d bike_streets
+
+# Generate sqlite db
+(cd scripts/pg2sqlite && SQLITE_DB_NAME=db npm start && mv db.sqlite ../../sql)
