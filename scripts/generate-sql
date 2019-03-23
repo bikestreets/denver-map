@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+# Exit on first error
+set -e
+
+# Convert KML to temp shap file 
+rm -rf .temp
+mkdir .temp
+ogr2ogr -f 'ESRI Shapefile' .temp/walk.shp walk-master-v0.1.kml
+ogr2ogr -f 'ESRI Shapefile' .temp/ride.shp ride-master-v0.1.kml
