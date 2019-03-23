@@ -1784,6 +1784,56 @@
     </Placemark>
 
     <Placemark>
+      <name>Special at Colfax</name>
+      <description>Street View: https://goo.gl/maps/ZkyMCtNXb5T2 > https://goo.gl/maps/SitZnjr27c52 > https://goo.gl/maps/fEKLysc7KFy > https://goo.gl/maps/tgM3eAcJmnv
+        <br/><br/>
+        North to South<br/><br/>
+        Walk E on sidewalk along Colfax to Yosemite<br/>
+        Walk S at traffic light across Colfax<br/>
+        Walk E on sidewalk along Colfax<br/>
+        Ride S on Akron
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk W on sidewalk along Colfax to Yosemite<br/>
+        Walk N at the traffic light across Colfax<br/>
+        Walk W on the sidewalk along Colfax<br/>
+        Ride N on Xenia
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.88575309514998,39.74029748936951 -104.88475531339645,39.74029748936951 -104.88475531339645,39.740023178331704 -104.88455682992935,39.74004999073692 -104.88359123468399,39.74004999073692
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Special at 11th Ave</name>
+      <description>Street View: https://goo.gl/maps/rTcgX6qzA3x > https://goo.gl/maps/LZfK4NA2bAU2 > https://goo.gl/maps/mUStbWdVkR72
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along 11th Ave to Yosemite<br/>
+        Walk S at the traffic light across 11th Ave<br/>
+        Ride S on the sidewalk along Yosemite
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N at the traffic light across 11th Ave<br/>
+        Walk E on the sidewalk along 11th Ave<br/>
+        Ride N on Akron
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.88363415002823,39.73292371140217 -104.88463193178177,39.73292164869659 -104.8846051096916,39.73277725915128 -104.88450050354004,39.732709189689295
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Story at York</name>
       <description>Street View: https://goo.gl/maps/hRRykxEPh9w
         <br/><br/>
