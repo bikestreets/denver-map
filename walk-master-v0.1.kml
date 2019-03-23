@@ -788,6 +788,29 @@
     </Placemark>
 
     <Placemark>
+      <name>Future at Monaco</name>
+      <description>Street View: https://goo.gl/maps/gpSo3xGGgan > https://goo.gl/maps/Y6tJFZy2As52 > https://goo.gl/maps/fv37R2Y5PvA2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk S on the sidewalk along Monaco to Alameda<br/>
+        Walk E at the traffic light across Monaco<br/>
+        Ride E on sidewalk along Alameda<br/><br/>
+
+        East to West<br/><br/>
+        Walk W at the traffic light across Monaco<br/>
+        Walk N on the sidewalk along Monaco<br/>
+        Ride W on Cedar<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.91302043199539,39.71303636187768 -104.91303652524948,39.712400862382694 -104.91310894489287,39.71208517376876 -104.91311699151993,39.71160647978101 -104.91312503814697,39.71156933959138 -104.91315990686417,39.71153426272726 -104.91304725408553,39.71148061572411 -104.9126985669136,39.71149505915214 -104.91262078285217,39.71156314955785
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Garland at Cherry Creek South Drive</name>
       <description>Street View: https://goo.gl/maps/kTFBDNi9SuE2
         <br/><br/>
