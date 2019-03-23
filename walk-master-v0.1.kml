@@ -1936,6 +1936,31 @@
     </Placemark>
 
     <Placemark>
+      <name>Sunrise at Quebec</name>
+      <description>Street View: https://goo.gl/maps/qZEK7oXp5MP2 > https://goo.gl/maps/1axEvBH3CyT2 > https://goo.gl/maps/GUgXVuV9Tz62
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E at the traffic light across Quebec<br/>
+        Walk N at the traffic light across 2nd Ave<br/>
+        Walk N on the sidewalk along Quebec<br/>
+        Ride E on 3rd Ave<br/>
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk S on the sidwalk along Quebec to 2nd Ave<br/>
+        Walk W at the traffic light across Quebec<br/>
+        Ride W on 2nd Ave
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.90373194217682,39.720139939850846 -104.9033510684967,39.720139939850846 -104.90336179733276,39.72138603377684
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Topic at 38th</name>
       <description>Street View: https://goo.gl/maps/fopRGsfFUdU2
         <br/><br/>
