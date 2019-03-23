@@ -3,8 +3,12 @@
 # Exit on first error
 set -e
 
-# Convert KML to temp shap file 
+# Convert KML to temp shape file 
 rm -rf .temp
 mkdir .temp
 ogr2ogr -f 'ESRI Shapefile' .temp/walk.shp walk-master-v0.1.kml
 ogr2ogr -f 'ESRI Shapefile' .temp/ride.shp ride-master-v0.1.kml
+
+# Import Shapefiles to PostGIS
+shp2pgsql .temp/walk.shp public.walk_path | psql -v ON_ERROR_STOP=1 -d bike_streets
+shp2pgsql .temp/walk.shp public.bike_path | psql -v ON_ERROR_STOP=1 -d bike_streets
