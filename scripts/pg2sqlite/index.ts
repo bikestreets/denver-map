@@ -12,7 +12,7 @@ const queryString = (table: string): string => {
             st_xmax(t.geom::box3d) AS maxx,
             st_ymin(t.geom::box3d) AS miny,
             st_ymax(t.geom::box3d) AS maxy,
-            st_astwkb(t.geom, 5) AS geom
+            st_astwkb(st_force2d(t.geom), 5) AS geom
         FROM ${table} as t
     `;
 }
