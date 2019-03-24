@@ -12,7 +12,7 @@ const queryString = (table: string): string => {
             st_xmax(t.geom::box3d) AS maxx,
             st_ymin(t.geom::box3d) AS miny,
             st_ymax(t.geom::box3d) AS maxy,
-            st_astwkb(t.geom, 5) AS boundary
+            st_astwkb(t.geom, 5) AS geom
         FROM ${table} as t
     `;
 }
@@ -21,17 +21,17 @@ const insert = async (client: Client, db: any, table: string) => {
     const { rows } = await client.query(queryString(table));
     console.log(chalk.green(`✅ ${table} query: ${rows.length} results`));
     for (let row of rows) {
-        const { boundary } = row;
-        const _boundary = Buffer.from(boundary);
+        const { geom } = row;
+        const _geom = Buffer.from(geom);
         await db.run(`INSERT INTO ${table}_idx
-        (id, minx, maxx, miny, maxy, boundary) 
-        values ($id, $minx, $maxx, $miny, $maxy, CAST($boundary AS BLOB))`, {
+        (id, minx, maxx, miny, maxy, geom) 
+        values ($id, $minx, $maxx, $miny, $maxy, CAST($geom AS BLOB))`, {
             $id: row.id,
             $minx: row.minx,
             $maxx: row.maxx,
             $miny: row.miny,
             $maxy: row.maxy,
-            $boundary: _boundary
+            $geom: _geom
         });
     }
 }
@@ -55,8 +55,6 @@ async function main() {
         await db.run('create virtual table bike_path_idx using rtree(id, minX, maxX, minY, maxY, +boundary BLOB)');
         await db.run('create virtual table walk_path_idx using rtree(id, minX, maxX, minY, maxY, +boundary BLOB)');
         console.log(chalk.green('✅ SQLite schema created'));
-        
-        console.log(chalk.green(`✅ SQLite tract values populated`));
 
         await insert(client, db, 'bike_path');
         console.log(chalk.green(`✅ SQLite bike_path values populated`));
