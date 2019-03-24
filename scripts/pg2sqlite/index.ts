@@ -52,8 +52,8 @@ async function main() {
         console.log(chalk.green('✅ SQLite db created -', sqliteDBName));
 
         // As of sqlite v3.24+ rtree indexes can have additional columns, denoted with a +
-        await db.run('create virtual table bike_path_idx using rtree(id, minX, maxX, minY, maxY, +boundary BLOB)');
-        await db.run('create virtual table walk_path_idx using rtree(id, minX, maxX, minY, maxY, +boundary BLOB)');
+        await db.run('create virtual table bike_path_idx using rtree(id, minX, maxX, minY, maxY, +geom BLOB)');
+        await db.run('create virtual table walk_path_idx using rtree(id, minX, maxX, minY, maxY, +geom BLOB)');
         console.log(chalk.green('✅ SQLite schema created'));
 
         await insert(client, db, 'bike_path');
