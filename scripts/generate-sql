@@ -14,7 +14,7 @@ dropdb bike_streets
 createdb bike_streets
 psql -d bike_streets -c "create extension postgis"
 shp2pgsql .temp/walk.shp public.walk_path | psql -d bike_streets
-shp2pgsql .temp/walk.shp public.bike_path | psql -d bike_streets
+shp2pgsql .temp/bike.shp public.bike_path | psql -d bike_streets
 
 # Generate sqlite db
 (cd scripts/pg2sqlite && SQLITE_DB_NAME=db npm start && mv db.sqlite ../../sql)
