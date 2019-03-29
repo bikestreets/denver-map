@@ -1927,29 +1927,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Sunrise at Josephine</name>
-      <description>Street View: https://goo.gl/maps/Zqibuk5X1EE2
-        <br/><br/>
-        West to East<br/><br/>
-        Walk E at the traffic light across Josephine<br/>
-        Walk E through the Park<br/>
-        Ride E on 4th<br/><br/>
-
-        East to West<br/><br/>
-        Walk W through the Park to Josephine<br/>
-        Walk W at the traffic light across Josephine<br/>
-        Ride W on 4th<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.95837658643723,39.722516576334215 -104.95837658643723,39.72247118994633 -104.95780393481253,39.72247118994633 -104.95777040719986,39.72245984334469
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Sunrise at Colorado Blvd</name>
       <description>Street View: https://goo.gl/maps/gFoz6bxvYbq
         <br/><br/>
@@ -2017,29 +1994,6 @@
         <tessellate>1</tessellate>
         <coordinates>
           -105.0189220905304,39.769386821473034 -105.01805573701859,39.76938269824482 -105.01801550388336,39.769201275959034 -105.01890063285826,39.7692033375786
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
-      <name>Traction at Holly</name>
-      <description>Street View: https://goo.gl/maps/fkoaCjJFj2N2
-        <br/><br/>
-        North to South<br/><br/>
-        Walk W at the traffic light across Holly<br/>
-        Walk W through City of Potenza Park<br/>
-        Ride W on Missouri<br/><br/>
-
-        South to North<br/><br/>
-        Walk E through City of Potenza Park<br/>
-        Walk E at the traffic light across Holly<br/>
-        Ride E to Cherry Creek Trail<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.92223918437958,39.69582422527164 -104.92236793041229,39.695857246308314 -104.92236793041229,39.69571690679342 -104.92253959178925,39.695712779156295 -104.92253959178925,39.69560133286098 -104.92260932922363,39.69552290758237 -104.92272198200226,39.69545686517336 -104.9229097366333,39.69544448221463 -104.92314577102661,39.69546099282578 -104.9234676361084,39.69554767346945 -104.92369830608368,39.69563022636223 -104.92386460304259,39.695700396243495 -104.92392897605896,39.695729289703245 -104.92404699325562,39.69573341733938 -104.92417573928833,39.69576231078534 -104.92428302764893,39.69583248053228 -104.92436885833739,39.69589852258191 -104.92449223995209,39.69607601027717 -104.92457270622253,39.69617920058784 -104.92463171482086,39.696228731882165 -104.92478728294373,39.6961007759658
         </coordinates>
       </LineString>
     </Placemark>
