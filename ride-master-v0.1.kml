@@ -2837,11 +2837,30 @@
 
     <Placemark>
       <name>Instant</name>
-      <description>0.2 miles</description>
+      <description>1.1 miles</description>
       <styleUrl>#line-01579B-5000</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
+          -104.97573,39.752,0
+          -104.97532,39.752,0
+          -104.97516,39.752,0
+          -104.97455,39.752,0
+          -104.97397,39.752,0
+          -104.97336,39.75199,0
+          -104.97212,39.75198,0
+          -104.97088,39.75198,0
+          -104.96965,39.75198,0
+          -104.96842,39.75199,0
+          -104.96719,39.75199,0
+          -104.96595,39.75198,0
+          -104.9647,39.75198,0
+          -104.96345,39.75197,0
+          -104.96345,39.75072,0
+          -104.96346,39.74947,0
+          -104.96346,39.74884,0
+          -104.96346,39.74838,0
+
           -104.96347,39.74823,0
           -104.96285,39.74823,0
           -104.96224,39.74823,0
@@ -5203,7 +5222,7 @@
 
     <Placemark>
       <name>Silver</name>
-      <description>0.9 miles</description>
+      <description>1.0 miles</description>
       <styleUrl>#line-01579B-5000</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
