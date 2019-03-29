@@ -60,6 +60,29 @@
     </StyleMap>
 
     <Placemark>
+      <name>Above at Downing</name>
+      <description>Street View: https://goo.gl/maps/mpJqHn3Qv4t > https://goo.gl/maps/WSFR8vjvUKp
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W at the crosswalk across Downing<br/>
+        Walk N on the sidewalk along Downing<br/>
+        Ride SW on Curtis<br/><br/>
+
+        South to North<br/><br/>
+        Walk S on the sidewalk along Downing<br/>
+        Walk E at the crosswalk across Downing<br/>
+        Ride E on 33rd Ave<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.97322529554367,39.76321097961928 -104.97322529554367,39.763171805427575 -104.97347339987755,39.76317489812773 -104.97347205877304,39.76355014471566 -104.97353106737137,39.76357694796513
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Apex at Evans</name>
       <description>Street View: https://goo.gl/maps/ZyHE9LbbN8D2
         <br/><br/>
@@ -217,27 +240,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Canvas at Madame CJ Walker Park</name>
-      <description>Street View: https://goo.gl/maps/D9EECVg8KNq
-        <br/><br/>
-        North to South<br/><br/>
-        Walk S through Madame CJ Walker Park<br/>
-        Ride S on High<br/><br/>
-
-        South to North<br/><br/>
-        Walk N through Madame CJ Walker Park<br/>
-        Ride N on High<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.96472805738449,39.759541910594244 -104.96472537517548,39.7591831375226
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Country at University</name>
       <description>Street View: https://goo.gl/maps/vYLwQnM8T3J2 > https://goo.gl/maps/DmP8g4DG5EL2
         <br/><br/>
@@ -258,27 +260,6 @@
         <tessellate>1</tessellate>
         <coordinates>
           -104.96050827205181,39.701980311712056 -104.9602997303009,39.70197824808083 -104.95944947004318,39.701980311712056 -104.95935425162315,39.701983407158814 -104.95919197797775,39.701991661682754 -104.95919600129126,39.70151908859659 -104.95919466018675,39.70093094726629 -104.95919600129126,39.700315973076094
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
-      <name>Country at Bonnie Brae Park</name>
-      <description>Street View: https://goo.gl/maps/Z7Hr3BQcq632
-        <br/><br/>
-        West to East<br/><br/>
-        Walk E on the sidewalk through Bonnie Brae Park<br/>
-        Ride E on Kentucky<br/><br/>
-
-        East to West<br/><br/>
-        Walk W on the sidewalk through Bonnie Brae Park<br/>
-        Ride W on Kentucky<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.95507478713989,39.700193183948876 -104.95499700307846,39.700139528127224 -104.95492458343504,39.70012920969522 -104.95459198951721,39.700137464440964 -104.9544095993042,39.700139528127224 -104.95430767536163,39.70016222867227
         </coordinates>
       </LineString>
     </Placemark>
@@ -498,11 +479,11 @@
         Walk SW at the traffic light across north-westbound Speer<br/>
         Walk S on the sidewalk along Clarkson over Cherry Creek<br/>
         Walk S at the traffic light across south-eastbound Speer<br/>
-        Walk S on the sidewalk through Hungarian Freedom Park<br/>
+        Ride S on the sidewalk through Hungarian Freedom Park<br/>
         Ride E on 1st<br/><br/>
 
         South to North<br/><br/>
-        Walk N on the sidewalk through Hungarian Freedom Park<br/>
+        Ride N on the sidewalk through Hungarian Freedom Park<br/>
         Walk N at the traffic light across south-eastbound Speer<br/>
         Walk N on the sidewalk along Clarkson over Cherry Creek<br/>
         Walk N at the traffic light across north-westbound Speer<br/>
@@ -830,6 +811,61 @@
         <tessellate>1</tessellate>
         <coordinates>
           -104.94998395442963,39.71286510771992 -104.94969695806503,39.71258656089249 -104.94962453842163,39.71252466144477 -104.9492758512497,39.712235796620995 -104.94909077882767,39.71208311043974 -104.94892448186874,39.711938677254565 -104.94832366704941,39.7114393487702 -104.94736075401306,39.710603687642454 -104.9461966753006,39.70963802217658 -104.94640052318573,39.70949358387216 -104.94632005691528,39.70942342801519
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>General at Blake</name>
+      <description>Street View: https://goo.gl/maps/9wJ3Pgrdvay > https://goo.gl/maps/TG8zaXv3pkP2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk SE at the traffic light across Blake<br/>
+        Walk NE at the traffic light across 20th St<br/>
+        Walk NE on the sidewalk along Blake<br/>
+        Ride SE on 21st St
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk SW on the sidewalk along Blake<br/>
+        Walk SW at the traffic light across 20th St<br/>
+        Walk NW at the traffic light across Blake<br/>
+        Ride NW on the sidewalk along 20th St<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.99450862407684,39.75428178029037 -104.9943396449089,39.754184863105365 -104.99406069517136,39.754401380032796 -104.99318361282349,39.75508804350074 -104.99314606189728,39.75510660187784
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+
+    <Placemark>
+      <name>General at 20th Ave</name>
+      <description>Street View: https://goo.gl/maps/SaLCcjQTsKH2 > https://goo.gl/maps/4hCG331cYSJ2 > https://goo.gl/maps/Cerz7G9JAYK2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the Benedict Fountain Park sidewalk along Grant<br/>
+        Walk S at the crosswalk across 20th Ave<br/>
+        Walk W at the crosswalk across Grant<br/>
+        Walk W on the sidewalk along 20th Ave<br/>
+        Ride S on Sherman
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk E on the sidewalk along 20th Ave<br/>
+        Walk E at the crosswalk across Grant<br/>
+        Walk N at the crosswalk across 20th Ave<br/>
+        Walk N on the Benedict Fountain Park sidewalk along Grant<br/>
+        Ride NW on 21st St<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.98347401618958,39.74780864999841 -104.98351693153381,39.747691101073116 -104.98348206281662,39.74764366899384 -104.98349010944366,39.74748074986414 -104.98370200395584,39.747458064891454 -104.98372413218021,39.74747971872918 -104.98419754207134,39.747481265431595 -104.98472660779953,39.74748074986414
         </coordinates>
       </LineString>
     </Placemark>
@@ -1765,12 +1801,12 @@
         <br/><br/>
         North to South<br/><br/>
         Walk S across Walnut and Marion at the traffic light<br/>
-        Ride S through Saint Charles Place Park on the bike-friendly sidewalk<br/>
+        Ride S through Saint Charles Place Park on the sidewalk<br/>
         Ride S on Lafayette
         <br/><br/>
 
         South to North<br/><br/>
-        Ride N through Saint Charles Place Park on the bike-friendly sidewalk<br/>
+        Ride N through Saint Charles Place Park on the sidewalk<br/>
         Walk N at the traffic light across Marion and Walnut<br/>
         Ride NW on the sidewalk along 38th<br/>
       </description>
@@ -2188,7 +2224,7 @@
         East to West<br/><br/>
         Walk S across 8th (no traffic light)<br/>
         Walk W on the sidewalk along 8th to Mariposa<br/>
-        Ride W on the bike-friendly sidewalk along 8th<br/>
+        Ride W on the sidewalk along 8th<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
