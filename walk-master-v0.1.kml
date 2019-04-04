@@ -744,26 +744,26 @@
     </Placemark>
 
     <Placemark>
-      <name>Fortune at Syracuse</name>
-      <description>Street View: https://goo.gl/maps/mko4vVVt1H42
+      <name>Fortune at Quebec</name>
+      <description>Street View: https://goo.gl/maps/7r8s2WbbNvz > https://goo.gl/maps/nU9jNXHnzmy
         <br/><br/>
         West to East<br/><br/>
-        Walk S on the sidewalk along Syracuse to Montview<br/>
-        Walk E at the traffic light across Syracuse<br/>
-        Walk E on the sidewalk along Montview<br/>
-        Connect to Present<br/><br/>
+        Walk E on the sidewalk along 23rd to Quebec<br/>
+        Walk E at the traffic light across Quebec<br/>
+        Walk N at the traffic light across 23rd Ave<br/>
+        Ride NE into Fred Thomas Park<br/><br/>
 
         East to West<br/><br/>
-        Walk W on the sidewalk along Montview to Syracuse<br/>
-        Walk W at the traffic light across Syracuse<br/>
-        Walk N on the sidewalk along Syracuse<br/>
-        Ride W on 22nd<br/>
+        Walk S at the traffic light across 23rd Ave<br/>
+        Walk W at the traffic light across Quebec<br/>
+        Walk W on the sidewalk along 23rd Ave<br/>
+        Ride S on Poplar<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.89889860153198,39.749768800327246 -104.89887848496437,39.74973992950139 -104.89889055490494,39.74754674246943 -104.89864513278006,39.74753746226312 -104.89850699901581,39.74764985578865 -104.89845469594002,39.74761170387852 -104.89839971065521,39.747590050082295 -104.89832192659377,39.74757045854653 -104.89825889468193,39.74756427174459 -104.89818245172499,39.74755808494209 -104.89810198545455,39.74756220947716 -104.89802286028862,39.74756117834342 -104.89759370684624,39.74756530287828
+          -104.90457214415073,39.75096332013994 -104.90454465150833,39.75097156880207 -104.90420937538147,39.75097311542612 -104.90393579006195,39.75097311542612 -104.90356966853142,39.75097105326072 -104.90354150533676,39.7509401207724 -104.90334570407867,39.75094424510498 -104.90330815315247,39.750964866764164 -104.90332156419754,39.75108447226574
         </coordinates>
       </LineString>
     </Placemark>
