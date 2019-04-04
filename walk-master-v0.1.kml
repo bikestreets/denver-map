@@ -904,6 +904,32 @@
     </Placemark>
 
     <Placemark>
+      <name>Groundswell at MLK</name>
+      <description>Street View: https://goo.gl/maps/Pqh8jMk1KiQ2 > https://goo.gl/maps/GoxLnTtPAN82
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across westbound MLK to the median (no traffic light)<br/>
+        Walk S across eastbound MLK (no traffic light)<br/>
+        Walk E on the sidewalk along MLK<br/>
+        Ride S on Cherry<br/><br/>
+
+        South to North<br/><br/>
+        Walk N across eastbound MLK to the median (no traffic light)<br/>
+        Walk N across westbound MLK (no traffic light)<br/>
+        Walk W on the sidewalk along MLK<br/>
+        Ride N on Cherry<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.93446469306946,39.76206976442892 -104.93446335196495,39.76193471422534 -104.934471398592,39.7617841999459 -104.93402481079102,39.76178523086675
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+
+    <Placemark>
       <name>Groundswell at 6th</name>
       <description>Street View: https://goo.gl/maps/3EePGVpiWsN2
         <br/><br/>
