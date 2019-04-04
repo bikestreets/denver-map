@@ -83,6 +83,55 @@
     </Placemark>
 
     <Placemark>
+      <name>Advance at Dahlia</name>
+      <description>Street View: https://goo.gl/maps/Etp5rTt1CaD2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk S on the sidewalk along Dahlia to Thrill<br/>
+        Walk E across Dahlia (no traffic light)<br/>
+        Ride E on Thrill<br/><br/>
+
+        East to West<br/><br/>
+        Walk W across Dahlia (no traffic light)<br/>
+        Walk N on the sidewalk along Dahlia<br/>
+        Ride W on 33rd Ave<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.93199035525322,39.76318108352763 -104.93198901414871,39.762797587683544 -104.9317529797554,39.76279449496644 -104.93174895644188,39.76280892764506
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Advance at Monaco</name>
+      <description>Street View: https://goo.gl/maps/6DapCAmXSXy
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E across southbound Monaco (no traffic light)<br/>
+        Walk E across the parkway<br/>
+        Walk E across northbound Monaco (no traffic light)
+        Ride E on 33rd Ave<br/><br/>
+
+        East to West<br/><br/>
+        Walk W across northbound Monaco (no traffic light)<br/>
+        Walk W across the parkway<br/>
+        Walk W across southbound Monaco (no traffic light)<br/>
+        Ride W on 33rd Ave
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.91285681724548,39.76384291810586 -104.91237938404083,39.7638449798859
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+
+    <Placemark>
       <name>Apex at Evans</name>
       <description>Street View: https://goo.gl/maps/ZyHE9LbbN8D2
         <br/><br/>
