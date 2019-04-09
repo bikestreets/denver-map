@@ -130,6 +130,32 @@
       </LineString>
     </Placemark>
 
+    <Placemark>
+      <name>Annex at Colorado Blvd</name>
+      <description>Street View: https://goo.gl/maps/ZFFz9iajmCx > https://goo.gl/maps/soU6iBCam4z > https://goo.gl/maps/kJA4wxb53LN2 > https://goo.gl/maps/B6iaKySvrHq
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along Bayaud<br/>
+        Walk N at the traffic light across Bayaud<br/>
+        Walk E across Colorado Blvd at the traffic light to the island<br/>
+        Walk E across northbound Leetsdale (no traffic light)<br/>
+        Ride E on Bayaud<br/><br/>
+
+        East to West<br/><br/>
+        Walk W across northbound Leetsdale to the island (no traffic light)<br/>
+        Walk W at the traffic light across Colorado Blvd<br/>
+        Walk S at the traffic light across Bayaud<br/>
+        Walk W on the sidewalk along Bayaud<br/>
+        Ride S on Harrison
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.94127549231052,39.71457066668128 -104.94125202298164,39.714581240860554 -104.94108136743307,39.71458149876735 -104.94090333580971,39.7145786617926 -104.94089528918266,39.714739595448975 -104.94087919592857,39.71475610144379 -104.94055062532425,39.714744753572795 -104.94047954678535,39.71475300657007 -104.94026899337769,39.71476125956636
+        </coordinates>
+      </LineString>
+    </Placemark>
 
     <Placemark>
       <name>Apex at Evans</name>
