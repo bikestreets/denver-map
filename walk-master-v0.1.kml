@@ -841,30 +841,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Garland at Cherry Creek South Drive</name>
-      <description>Street View: https://goo.gl/maps/kTFBDNi9SuE2
-        <br/><br/>
-        North to South<br/><br/>
-        Walk SE on the sidewalk along Cherry Creek Dr to Garfield<br/>
-        Walk S across Cherry Creek Dr (no traffic light)<br/>
-        Ride S on Garfield
-        <br/><br/>
-
-        South to North<br/><br/>
-        Walk N across Cherry Creek Dr (no traffic light)<br/>
-        Walk NW on the sidewalk along Cherry Creek Dr<br/>
-        Ride N on the bridge across Cherry Creek<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.94998395442963,39.71286510771992 -104.94969695806503,39.71258656089249 -104.94962453842163,39.71252466144477 -104.9492758512497,39.712235796620995 -104.94909077882767,39.71208311043974 -104.94892448186874,39.711938677254565 -104.94832366704941,39.7114393487702 -104.94736075401306,39.710603687642454 -104.9461966753006,39.70963802217658 -104.94640052318573,39.70949358387216 -104.94632005691528,39.70942342801519
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>General at Blake</name>
       <description>Street View: https://goo.gl/maps/9wJ3Pgrdvay > https://goo.gl/maps/TG8zaXv3pkP2
         <br/><br/>
