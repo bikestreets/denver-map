@@ -2615,6 +2615,32 @@
     </Placemark>
 
     <Placemark>
+      <name>Wending at University</name>
+      <description>Street View: https://goo.gl/maps/tjiLiSFjge92
+        <br/><br/>
+        West to East<br/><br/>
+        Walk N on the sidewalk along University to the pedestrian traffic light<br/>
+        Walk E at the traffic light across University<br/>
+        Walk S on the sidewalk along University<br/>
+        Ride E on Arizona<br/>
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk N on the sidewalk along University to the pedestrian traffic light<br/>
+        Walk W at the traffic light across University<br/>
+        Walk S on the sidewalk along University<br/>
+        Ride W on Arizona
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.9594897031784,39.69483565067099 -104.95949372649193,39.69513490752453 -104.95919466018675,39.69516999272585 -104.95919600129126,39.69485525719422 -104.95919734239578,39.69483461874857
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Zenith at Federal</name>
       <description>Street View: https://goo.gl/maps/U43aF4f8Wko > https://goo.gl/maps/6DAGNwPXWxv > https://goo.gl/maps/sENiegEV5ZG2
         <br/><br/>
