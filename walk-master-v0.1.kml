@@ -250,45 +250,24 @@
     </Placemark>
 
     <Placemark>
-      <name>Bonus at Colfax</name>
-      <description>Street View: https://goo.gl/maps/iPBBgG4WF5n
+      <name>Bonus at 6th</name>
+      <description>Street View: https://goo.gl/maps/sERSK95tv4p
         <br/><br/>
         North to South<br/><br/>
-        Walk S at the traffic light across Colfax<br/>
-        Walk W on the sidewalk along Colfax to St. Paul<br/>
-        Ride S on St. Paul<br/><br/>
+        Walk S across 6th (no traffic light) to the sidewalk ramp<br/>
+        Walk W on the sidewalk along 6th Ave<br/>
+        Ride S on Steele<br/><br/>
 
         South to North<br/><br/>
-        Walk E on the sidewalk along Colfax to the traffic light<br/>
-        Walk N at the traffic light across Colfax<br/>
+        Walk E on the sidewalk along 6th Ave to the sidewalk ramp<br/>
+        Walk N across 6th (no traffic light)<br/>
         Ride N on Steele<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.95022535324097,39.74029542688458 -104.95021730661392,39.74006442818156 -104.95059013366699,39.74006649067341
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
-      <name>Bonus at 6th</name>
-      <description>Street View: https://goo.gl/maps/hVC9JhA1ntt
-        <br/><br/>
-        North to South<br/><br/>
-        Walk S across 6th (no traffic light)<br/>
-        Ride S on St Paul<br/><br/>
-
-        South to North<br/><br/>
-        Walk N across 6th (no traffic light)<br/>
-        Ride N on St Paul<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.95104342699051,39.725685297566116 -104.95110780000687,39.7255182006694
+          -104.94963258504868,39.725685297566116 -104.94964063167572,39.725524389450584 -104.94973719120026,39.7255182006694
         </coordinates>
       </LineString>
     </Placemark>
