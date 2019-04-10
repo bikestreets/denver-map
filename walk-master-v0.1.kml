@@ -5,7 +5,7 @@
     <Style id="line-20F46B-3000-nodesc-normal">
       <LineStyle>
         <color>ff6bf420</color>
-        <width>4</width>
+        <width>2</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
@@ -14,7 +14,7 @@
     <Style id="line-20F46B-3000-nodesc-highlight">
       <LineStyle>
         <color>ff6bf420</color>
-        <width>4</width>
+        <width>2</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
@@ -33,7 +33,7 @@
     <Style id="line-C2185B-4294-nodesc-normal">
       <LineStyle>
         <color>ff5b18c2</color>
-        <width>4</width>
+        <width>2</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
@@ -42,7 +42,7 @@
     <Style id="line-C2185B-4294-nodesc-highlight">
       <LineStyle>
         <color>ff5b18c2</color>
-        <width>4</width>
+        <width>2</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
@@ -1601,6 +1601,29 @@
           -104.91882,39.71138,0
           -104.91877,39.7112,0
           -104.91877,39.7111,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Present at Montview</name>
+      <description>Street View: https://goo.gl/maps/bbKkbyD4Yr72
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S at the traffic light across Montview<br/>
+        Walk E on the sidewalk along Montview<br/>
+        Ride S on Spruce<br/><br/>
+
+        South to North<br/><br/>
+        Walk W on the sidewalk along Montview<br/>
+        Walk N at the traffic light across Montview<br/>
+        Ride N in Greenway Park<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.89853650331497,39.74762717087164 -104.89864647388458,39.747538493397215 -104.89864647388458,39.747331235133935 -104.89763393998146,39.747337421956786
         </coordinates>
       </LineString>
     </Placemark>
