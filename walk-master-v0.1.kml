@@ -1698,6 +1698,27 @@
     </Placemark>
 
     <Placemark>
+      <name>Rebar at Colfax</name>
+      <description>Street View: https://goo.gl/maps/P1zSfiS1rcT2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S at the traffic light across Colfax<br/>
+        Ride S on Lipan<br/><br/>
+
+        South to North<br/><br/>
+        Walk N at the traffic light across Colfax<br/>
+        Walk N into Auraria Campus<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.00149846076965,39.74043567571936 -105.00147700309752,39.74025623965914 -105.0014877319336,39.739955116025435
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Repose at Broadway</name>
       <description>Street View: https://goo.gl/maps/35HFzBKCUCP2
         <br/><br/>
