@@ -112,7 +112,7 @@
         West to East<br/><br/>
         Walk E across southbound Monaco (no traffic light)<br/>
         Walk E across the parkway<br/>
-        Walk E across northbound Monaco (no traffic light)
+        Walk E across northbound Monaco (no traffic light)<br/>
         Ride E on 33rd Ave<br/><br/>
 
         East to West<br/><br/>
@@ -126,6 +126,54 @@
         <tessellate>1</tessellate>
         <coordinates>
           -104.91285681724548,39.76384291810586 -104.91237938404083,39.7638449798859
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Amber at Irving</name>
+      <description>Street View: https://goo.gl/maps/3F5oo5DhzD52
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E across Irving (no traffic light)<br/>
+        Walk N on the sidewalk along Irving<br/>
+        Ride E on Vassar<br/><br/>
+
+        East to West<br/><br/>
+        Walk S on the sidewalk along Irving to Vassar<br/>
+        Walk W across Irving (no traffic light)<br/>
+        Ride W on Vassar
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02996139228344,39.67037991834089 -105.029791072011,39.670414499978094 -105.02979174256325,39.67088676985829 -105.02978637814522,39.67109993542433
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Amber at Federal</name>
+      <description>Street View: https://goo.gl/maps/A839TiXYzr42 > https://goo.gl/maps/TL54CS7MdqK2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk N on the sidewalk along Federal<br/>
+        Walk E at the traffic light across Federal<br/>
+        Walk S on the sidewalk along Federal
+        Ride E on Harvard<br/><br/>
+
+        East to West<br/><br/>
+        Walk N on the sidewalk along Federal<br/>
+        Walk W at the traffic light across Federal<br/>
+        Walk S on the sidewalk along Federal<br/>
+        Ride W on Vassar
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02524942159653,39.67126458343796 -105.02525210380554,39.67197788158516 -105.02492755651474,39.67197684932108 -105.02493023872375,39.671860203382224 -105.02492487430573,39.671860203382224
         </coordinates>
       </LineString>
     </Placemark>
