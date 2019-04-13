@@ -1767,6 +1767,101 @@
     </Placemark>
 
     <Placemark>
+      <name>Rosebud at Sheridan</name>
+      <description>Street View: https://goo.gl/maps/xNYUwwJ6utS2 > https://goo.gl/maps/N4XepCw1hW82
+        <br/><br/>
+        West to East<br/><br/>
+        Walk N on the sidewalk along Sheridan<br/>
+        Walk E at the traffic light across Sheridan<br/>
+        Walk E on the sidewalk along Louisiana<br/>
+        Ride S on Zenobia<br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along Louisiana<br/>
+        Walk W at the traffic light across Sheridan<br/>
+        Walk S on the sidewalk along Sheridan<br/>
+        Ride W on Louisiana<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.0533777475357,39.692899737061445 -105.05334824323654,39.692941015103614 -105.05335628986359,39.69307310467265 -105.05307465791702,39.693112318714796 -105.05255430936813,39.69312470209191 -105.05248188972473,39.69313502157114 -105.05200982093811,39.69312882988379 -105.05198568105698,39.693114382611135
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Rosebud at Tennyson</name>
+      <description>Street View: https://goo.gl/maps/RzadhaokRkL2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk S on the sidewalk along Tennyson to Arkansas<br/>
+        Walk E across Tennyson (no traffic light)<br/>
+        Ride E on Arkansas<br/><br/>
+
+        East to West<br/><br/>
+        Walk W across Tennyson (no traffic light)<br/>
+        Walk N on the sidewalk Tennyson to Arkansas<br/>
+        Ride W on Arkansas<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.04435747861862,39.69166448022866 -105.04434272646904,39.691639712948344 -105.04434540867805,39.69131876947052
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Rosebud at Federal</name>
+      <description>Street View: https://goo.gl/maps/1NmfUivMonJ2 > https://goo.gl/maps/DbV2JByZ4cB2
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E at the traffic light across Federal<br/>
+        Walk S on the sidewalk along Federal<br/>
+        Ride E on Arkansas<br/><br/>
+
+        East to West<br/><br/>
+        Walk N on the sidewalk along Federal<br/>
+        Walk W at the traffic light across Federal<br/>
+        Ride W on Arkansas<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02524606883526,39.69123775938578 -105.02524673938751,39.691189772475454 -105.02491146326065,39.691199060267145 -105.02490743994713,39.69088172667616 -105.02490341663359,39.69087759874991
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Rosebud at Zuni</name>
+      <description>Street View: https://goo.gl/maps/ma1AnTArnqk > https://goo.gl/maps/7TDcbvYm2Dn
+        <br/><br/>
+        West to East<br/><br/>
+        Walk S on the sidewalk along Zuni to Arkansas<br/>
+        Walk E at the crosswalk across Zuni<br/>
+        Ride E on Arkansas<br/><br/>
+
+        East to West<br/><br/>
+        Walk W at crosswalk across Zuni<br/>
+        Walk N on the sidewalk along Zuni to Arkansas<br/>
+        Ride W on Arkansas<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.01581341028214,39.69172743035949 -105.01579731702803,39.691686151591675 -105.01580536365509,39.69130432181905 -105.01580536365509,39.6909575772769
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+
+    <Placemark>
       <name>Session at Peoria</name>
       <description>Street View: https://goo.gl/maps/j3JKUFHKfJT2
         <br/><br/>
