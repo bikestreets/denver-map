@@ -160,7 +160,7 @@
         West to East<br/><br/>
         Walk N on the sidewalk along Federal<br/>
         Walk E at the traffic light across Federal<br/>
-        Walk S on the sidewalk along Federal
+        Walk S on the sidewalk along Federal<br/>
         Ride E on Harvard<br/><br/>
 
         East to West<br/><br/>
@@ -892,6 +892,33 @@
         </coordinates>
       </LineString>
     </Placemark>
+
+    <Placemark>
+      <name>Garden at Sheridan</name>
+      <description>Street View: https://goo.gl/maps/JvwMNJUGWay > https://goo.gl/maps/E64GLLgKah92 > https://goo.gl/maps/C6MvUnEk1w72
+        <br/><br/>
+        West to East<br/><br/>
+        Walk N on the sidewalk along Sheridan<br/>
+        Walk E at the traffic light across Sheridan<br/>
+        Walk E on the sidewalk along 5th Ave<br/>
+        Ride S on Zenobia
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along 5th Ave<br/>
+        Walk W at the traffic light across Sheridan<br/>
+        Walk S on the sidewalk along Sheridan<br/>
+        Ride W on 4th Ave<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.05345821380615,39.72322006152672 -105.05345284938812,39.72398749173341 -105.05344480276106,39.724010184432075 -105.05311757326126,39.72396892497439 -105.05306661128998,39.723993680651965 -105.05219221115112,39.7239833657874 -105.05218416452408,39.72397305092127
+        </coordinates>
+      </LineString>
+    </Placemark>
+
 
     <Placemark>
       <name>General at Blake</name>
