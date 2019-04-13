@@ -1081,6 +1081,29 @@
     </Placemark>
 
     <Placemark>
+      <name>Judo at Mississippi</name>
+      <description>Street View: https://goo.gl/maps/nqaF6UoYwmP2
+        <br/><br/>
+        North to South<br/><br/>
+        Walk E on the sidewalk along Mississippi to Depew<br/>
+        Walk S across Mississippi (no traffic light)<br/>
+        Ride S on Depew<br/><br/>
+
+        South to North<br/><br/>
+        Walk N across Mississippi (no traffic light)<br/>
+        Walk W on the sidewalk along Mississippi<br/>
+        Ride N on Chase<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.05844712257385,39.69684993384689 -105.05812525749207,39.696854061416005 -105.05814135074615,39.696697213616375
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Message at Evans</name>
       <description>Street View: https://goo.gl/maps/EE3nJk2oZb42
         <br/><br/>
@@ -1802,7 +1825,7 @@
 
         East to West<br/><br/>
         Walk W across Tennyson (no traffic light)<br/>
-        Walk N on the sidewalk Tennyson to Arkansas<br/>
+        Walk N on the sidewalk along Tennyson to Arkansas<br/>
         Ride W on Arkansas<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
