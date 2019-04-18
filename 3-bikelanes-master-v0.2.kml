@@ -43,7 +43,7 @@
 
     <Placemark>
       <name>Ballpark</name>
-      <description>0.5 miles. Includes unprotected bike lanes and car traffic.</description>
+      <description>0.5 miles</description>
       <styleUrl>#line-000000-3713</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -111,8 +111,8 @@
     </Placemark>
 
     <Placemark>
-      <name>General along Sherman</name>
-      <description>0.5 miles. Shared lane with traffic.</description>
+      <name>General on Sherman</name>
+      <description></description>
       <styleUrl>#line-000000-3713</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -322,7 +322,7 @@
 
     <Placemark>
       <name>Wander on Harlan</name>
-      <description>0.2 miles. Unprotected bike lanes on steep hill.</description>
+      <description></description>
       <styleUrl>#line-000000-3713</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -347,7 +347,7 @@
 
     <Placemark>
       <name>Wander on 46th Ave</name>
-      <description>0.2 miles. Unprotected bike lanes on steep hill.</description>
+      <description></description>
       <styleUrl>#line-000000-3713</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
