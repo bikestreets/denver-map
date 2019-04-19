@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Bikes Allowed on Sidewalks</name>
+    <name>Ride Your Bike on the Sidewalk</name>
 
     <Style id="line-9C27B0-2000-normal">
       <LineStyle>
