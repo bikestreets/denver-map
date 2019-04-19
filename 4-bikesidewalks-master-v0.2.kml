@@ -357,6 +357,18 @@
     </Placemark>
 
     <Placemark>
+      <name>General along Speer</name>
+      <description></description>
+      <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.98518526554108,39.72556049066302 -104.98373687267303,39.72407619951305
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Guidance at Mile High Stadium</name>
       <description></description>
       <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
