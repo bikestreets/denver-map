@@ -342,6 +342,56 @@
     </Placemark>
 
     <Placemark>
+      <name>Coaster at Montview</name>
+      <description>Street View: https://goo.gl/maps/yVpHDDnMnGrtzKLM8
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along Montview to the ramp even with Albion<br/>
+        Walk S across Montview (no traffic light)<br/>
+        Ride S on Albion<br/><br/>
+
+        East to West<br/><br/>
+        Walk N across Montview (no traffic light) to the ramp<br/>
+        Walk W on the sidewalk along Montview<br/>
+        Connect to Fortune route<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.93945360183714,39.747542617933455 -104.93905395269394,39.74754468020147 -104.9390298128128,39.7472703980129
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Coaster at Monaco</name>
+      <description>Street View: https://goo.gl/maps/HmUFnYdTtcnwBjMq7 > https://goo.gl/maps/4MBMQote3Yb6Frfx6 > https://goo.gl/maps/iGf1UgUfVSwXuZJV9
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E across southbound Monaco (no traffic light) to the ramp into the parkway<br/>
+        Walk E across the parkway<br/>
+        Walk E across northbound Monaco (no traffic light)<br/>
+        Walk N on the sidewalk along Monaco<br/>
+        Ride E on Batavia<br/><br/>
+
+        East to West<br/><br/>
+        Walk S on the sidewalk along Monaco to the ramp<br/>
+        Walk W across northbound Monaco (no traffic light) to the ramp into the parkway<br/>
+        Walk W across the parkway<br/>
+        Walk W across southbound Monaco (no traffic light)<br/>
+        Ride W on York<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.912950694561,39.74195364484429 -104.9129493534565,39.74200108084066 -104.91251349449158,39.742006236925256 -104.9123364686966,39.742006236925256 -104.91233512759209,39.742558966956366
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Country at University</name>
       <description>Street View: https://goo.gl/maps/vYLwQnM8T3J2 > https://goo.gl/maps/DmP8g4DG5EL2
         <br/><br/>
