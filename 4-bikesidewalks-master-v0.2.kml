@@ -415,6 +415,18 @@
     </Placemark>
 
     <Placemark>
+      <name>Moment along Speer</name>
+      <description></description>
+      <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.99702721834183,39.73827416197989 -104.99696016311646,39.738265911797555 -104.99677509069443,39.73801015565603 -104.99669462442398,39.73798127990301 -104.99666780233383,39.73797715479445 -104.99593824148178,39.73697474609408
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Noonday along Mississippi</name>
       <description></description>
       <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
@@ -608,6 +620,18 @@
           -104.913,39.63833,0
           -104.91288,39.63819,0
           -104.91282,39.6381,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Solver along Speer</name>
+      <description></description>
+      <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.99668926000595,39.73799571778105 -104.99695748090744,39.73836903900547
         </coordinates>
       </LineString>
     </Placemark>

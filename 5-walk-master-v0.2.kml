@@ -1418,7 +1418,6 @@
       <description>Street View: https://goo.gl/maps/PbRHRsn8gUk > https://goo.gl/maps/9SQ4KK7Hzgn
         <br/><br/>
         North to South<br/><br/>
-        Walk S on the sidewalk along Speer<br/>
         Walk W on the sidewalk along 13th over Cherry Creek<br/>
         Walk S at the traffic light across 13th<br/>
         Walk W at the traffic light across southbound Speer<br/>
@@ -1431,14 +1430,13 @@
         Walk E at the traffic light across southbound Speer<br/>
         Walk N at the traffic light across 13th<br/>
         Walk E on the sidewalk along 13th over Cherry Creek<br/>
-        Walk N on the sidewalk along northbound Cherry Creek<br/>
-        Connect to Cherry Creek Trail<br/>
+        Ride N on sidewalk along Speer to Cherry Creek Trail<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.99667584896088,39.737983342457206 -104.99593287706375,39.73697062092526 -104.99594628810883,39.73694586990725 -104.99597311019897,39.73693349439489 -104.99643176794052,39.73693761956594 -104.99631643295288,39.73678705066342 -104.99654710292816,39.736793238433016 -104.99703526496887,39.73677880030308
+          -104.99593824148178,39.73697062092526 -104.99596506357193,39.736935556980455 -104.99641567468643,39.736935556980455 -104.99631911516188,39.7367911758432 -104.9965551495552,39.73678705066342 -104.99702721834183,39.73678705066342
         </coordinates>
       </LineString>
     </Placemark>
@@ -2157,10 +2155,9 @@
 
     <Placemark>
       <name>Solver at Cherry Creek Trail</name>
-      <description>Street View: https://goo.gl/maps/S3yF4de67Mx > https://goo.gl/maps/CgNhMkbJsT82
+      <description>Street View: https://goo.gl/maps/CgNhMkbJsT82
         <br/><br/>
         West to East<br/><br/>
-        Walk N on the sidewalk along Speer<br/>
         Walk E at the traffic light across Speer<br/>
         Walk E at the traffic light across Galapago<br/>
         Ride E in the bike lane on 14th Ave<br/><br/>
@@ -2169,7 +2166,7 @@
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.99668657779694,39.73799674905791 -104.99695748090744,39.73837832044663 -104.99671205878258,39.738381414260076 -104.99642036855221,39.73838244553117 -104.99639924615622,39.738413383657445
+          -104.99697089195251,39.73838760188652 -104.99641299247742,39.738383476802284
         </coordinates>
       </LineString>
     </Placemark>
