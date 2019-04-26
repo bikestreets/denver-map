@@ -1170,16 +1170,18 @@
 
     <Placemark>
       <name>Guidance at Federal</name>
-      <description>Street View: https://goo.gl/maps/caGoBJG8wkN2 > https://goo.gl/maps/DM5s7e2LBPK2 > https://goo.gl/maps/mNjJELvZKTr
+      <description>Street View: https://goo.gl/maps/caGoBJG8wkN2 > https://goo.gl/maps/DM5s7e2LBPK2 > https://goo.gl/maps/mNjJELvZKTr > https://goo.gl/maps/QD4R4qkm4jms4gcj8
         <br/><br/>
         West to East<br/><br/>
         Walk E on the sidewalk along 20th Ave<br/>
         Walk E at the traffic light across Federal<br/>
         Walk E on the sidewalk along 20th Ave<br/>
         Walk SE at the crosswalk across Mile High Stadium Cir<br/>
-        Ride SE on the sidewalk towards Mile High Stadium<br/><br/>
+        Walk E on the sidewalk along Mile High Stadidum Cir<br/>
+        Ride S on the sidewalk towards Mile High Stadium<br/><br/>
 
         East to West<br/><br/>
+        Walk W on the sidewalk along Mile High Stadium Cir<br/>
         Walk NW at the crosswalk across Mile High Stadium Cir<br/>
         Walk W on the sidewalk along 20th Ave<br/>
         Walk W at the traffic light across Federal<br/>
@@ -1191,27 +1193,8 @@
         <tessellate>1</tessellate>
         <coordinates>
           -105.02677828073502,39.74768491428202 -105.02605676651001,39.747686976545786 -105.02603530883789,39.74766016711207 -105.02543449401855,39.74767047843397 -105.02510458230971,39.74766429164103 -105.02505630254745,39.74768078975433 -105.02388149499893,39.74768491428202 -105.02376079559326,39.747691101073116 -105.02369105815887,39.74766016711207 -105.02359449863432,39.7476416067288 -105.0235167145729,39.74760448594719 -105.02343088388442,39.74754055566536 -105.02340137958527,39.747513746174675 -105.02332359552383,39.74743331764004
-        </coordinates>
-      </LineString>
-    </Placemark>
 
-    <Placemark>
-      <name>Guidance at Mile High Staircase</name>
-      <description>Carry your bike; Satellite View: https://goo.gl/maps/3TgQnhV5sNU2
-        <br/><br/>
-        West to East<br/><br/>
-        Carry your bike down the stairs<br/>
-        Ride SE on the sidewalk<br/><br/>
-
-        East to West<br/><br/>
-        Carry your bike up the stairs<br/>
-        Ride W on the sidewalk<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -105.02107858657837,39.7469486821747 -105.02089083194733,39.74679813514467
+          -105.0232645869255,39.74740238356324 -105.02316534519196,39.747468376243596 -105.02307146787643,39.74750962163673 -105.02298295497894,39.747530244324025 -105.0227040052414,39.74753436886075 -105.02067893743515,39.747530244324025
         </coordinates>
       </LineString>
     </Placemark>
