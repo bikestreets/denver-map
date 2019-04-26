@@ -625,6 +625,33 @@
     </Placemark>
 
     <Placemark>
+      <name>Sanderson Gulch Trail along Florida</name>
+      <description></description>
+      <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.00872,39.6894,0
+          -105.00857,39.68941,0
+          -105.00842,39.68941,0
+          -105.00828,39.68941,0
+          -105.00802,39.6894,0
+          -105.00783,39.6894,0
+          -105.00769,39.6894,0
+          -105.00734,39.6894,0
+          -105.00713,39.6894,0
+          -105.00688,39.6894,0
+          -105.00668,39.6894,0
+          -105.00656,39.6894,0
+          -105.00636,39.68939,0
+          -105.00632,39.68939,0
+          -105.00589,39.68939,0
+          -105.00588,39.68939,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Solver along Speer</name>
       <description></description>
       <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
