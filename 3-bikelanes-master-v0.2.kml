@@ -166,6 +166,62 @@
     </Placemark>
 
     <Placemark>
+      <name>Moment on Cherokee</name>
+      <description></description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.99238,39.71303,0
+          -104.99238,39.71258,0
+          -104.99238,39.71235,0
+          -104.99238,39.7122,0
+          -104.99239,39.71213,0
+          -104.99238,39.71207,0
+          -104.99238,39.71169,0
+          -104.99238,39.71135,0
+          -104.99238,39.71128,0
+          -104.99238,39.71123,0
+          -104.99238,39.71114,0
+          -104.99239,39.71103,0
+          -104.99239,39.71078,0
+          -104.99239,39.71062,0
+          -104.99239,39.7102,0
+          -104.9924,39.70976,0
+          -104.99241,39.70938,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Outlook at Cherokee/Dakota</name>
+      <description></description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.99239,39.71095,0
+          -104.99239,39.71078,0
+          -104.99239,39.71062,0
+          -104.99239,39.7102,0
+          -104.9924,39.70976,0
+          -104.99241,39.70938,0
+          -104.99174,39.70937,0
+          -104.99116,39.70937,0
+          -104.99026,39.70935,0
+          -104.99,39.70935,0
+          -104.98904,39.70934,0
+          -104.98834,39.70934,0
+          -104.98758,39.70933,0
+          -104.98719,39.70933,0
+          -104.98695,39.70933,0
+          -104.9864,39.70933,0
+          -104.98622,39.70933,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>System</name>
       <description>2.9 miles. 15th is one-way NW. Includes unprotected bike lanes on 16th, buffered and unprotected bike lanes on 15th, and car traffic.</description>
       <styleUrl>#line-000000-3713</styleUrl>
