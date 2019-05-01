@@ -2740,24 +2740,24 @@
     </Placemark>
 
     <Placemark>
-      <name>Volume at Arkins/South Platte River Trail</name>
-      <description>Street View: https://goo.gl/maps/utt9tRaHQu62
+      <name>Volume at 31st St</name>
+      <description>Street View: https://goo.gl/maps/gYZBih7mQxK9Biek7
         <br/><br/>
         North to South<br/><br/>
-        Walk W across Arkins (no traffic light)<br/>
-        Hike W down the berm to South Platte River Trail<br/>
+        Walk SE along 31st St to Brighton<br/>
+        Ride SW or NE on Brighton sidewalk<br/>
         <br/><br/>
 
         South to North<br/><br/>
-        Hike! E up the berm to Arkins<br/>
-        Walk E across Arkins (no traffic light)<br/>
-        Ride E on 35th<br/>
+        Walk NW along 31st St<br/>
+        Walk NW across Arkins<br/>
+        Ride SW or N on S Platte River Trail<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.98103991150856,39.771502004986985 -104.98092725872993,39.771534989790275 -104.98085349798203,39.77154014366438 -104.98069122433662,39.77147520482266
+          -104.9842746555805,39.76719219834375 -104.98372077941895,39.76675718253931
         </coordinates>
       </LineString>
     </Placemark>
