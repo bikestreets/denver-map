@@ -384,6 +384,32 @@
     </Placemark>
 
     <Placemark>
+      <name>Tarmac on 47th Ave</name>
+      <description></description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+          <coordinates>
+            -104.95916,39.78197,0
+            -104.95885,39.78196,0
+            -104.9587,39.78196,0
+            -104.95815,39.78196,0
+            -104.9576,39.78195,0
+            -104.95702,39.78195,0
+            -104.95654,39.78195,0
+            -104.95608,39.78194,0
+            -104.95586,39.78195,0
+            -104.95561,39.78194,0
+            -104.95533,39.78194,0
+            -104.95513,39.78195,0
+            -104.95476,39.78194,0
+            -104.95468,39.78195,0
+            -104.95427,39.78194,0
+          </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Village on Bannock</name>
       <description></description>
       <styleUrl>#line-000000-3713</styleUrl>

@@ -2499,6 +2499,30 @@
     </Placemark>
 
     <Placemark>
+      <name>Tarmac at York</name>
+      <description>Street View: https://goo.gl/maps/eDg5VJ4BXDLZUq4P6 > https://goo.gl/maps/Dc2ywEe9zvB2qACC6 > https://goo.gl/maps/3qYyrzkJQ6qdgo2EA
+        <br/><br/>
+        West to East<br/><br/>
+        Walk S on the sidewalk along York<br/>
+        Walk S at the train crossing<br/>
+        Ride E on 47th Ave<br/><br/>
+
+        East to West<br/><br/>
+        Walk N on the sidewalk along York<br/>
+        Walk N at the train crossing<br/>
+        Walk N on the sidewalk along York<br/>
+        Ride W on 48th Ave<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.95937705039977,39.78369499731454 -104.95937705039977,39.78273035573873 -104.95935022830963,39.78255309107232 -104.95937705039977,39.78195533476121
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Topic at 38th</name>
       <description>Street View: https://goo.gl/maps/fopRGsfFUdU2
         <br/><br/>
