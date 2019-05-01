@@ -275,24 +275,49 @@
     </Placemark>
 
     <Placemark>
-      <name>Basis at MLK</name>
-      <description>Street View: https://goo.gl/maps/LQDifcyuFvG2
+      <name>Basis at Steele</name>
+      <description>Street View: https://goo.gl/maps/z8EdZ2guy3cEDRCWA
         <br/><br/>
         North to South<br/><br/>
-        Walk S across westbound MLK to the small parkway with one big tree (no traffic light)<br/>
-        Walk S across eastbound MLK (no traffic light)<br/>
-        Ride S on Madison<br/><br/>
+        Walk S on the sidewalk along Steele<br/>
+        Walk S at the train crossing<br/>
+        Ride E on 42nd Ave<br/><br/>
 
         South to North<br/><br/>
-        Walk N across eastbound MLK to the small parkway with one big tree (no traffic light)<br/>
-        Walk N across westbound MLK (no traffic light)<br/>
-        Ride N on Madison<br/>
+        Walk N on the sidewalk along Steele<br/>
+        Walk N at the train crossing<br/>
+        Ride W on 43rd Ave<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.94617253541946,39.762022342250205 -104.94616717100143,39.761820282166184 -104.9460357427597,39.76182234400676 -104.94600623846054,39.76168420055098
+          -104.9499088525772,39.77631555756332 -104.94991958141327,39.77520651191078
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Basis at MLK</name>
+      <description>Street View: https://goo.gl/maps/KPhACkBunz5CJEBu9 > https://goo.gl/maps/oyvDpbqA3rySRu4B6 > https://goo.gl/maps/H9btHCNMpQL2Fwcz8
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along MLK<br/>
+        Walk S at the traffic light across MLK<br/>
+        Walk E on the sidewalk along MLK<br/>
+        Ride S on Adams<br/><br/>
+
+        South to North<br/><br/>
+        Walk W on the sidewalk along MLK<br/>
+        Walk N at the traffic light across MLK<br/>
+        Walk E on the sidewalk along MLK<br/>
+        Ride N on Adams<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.94885742664337,39.76204502242672 -104.94915783405304,39.76203265142227 -104.94983375072479,39.76204502242672 -104.94983375072479,39.761746055863924 -104.94976937770842,39.76175636507737 -104.94958698749541,39.761746055863924 -104.94891375303268,39.761706880838844
         </coordinates>
       </LineString>
     </Placemark>
@@ -655,6 +680,37 @@
         <tessellate>1</tessellate>
         <coordinates>
           -104.97778773307799,39.78056604658675 -104.97788429260254,39.78061139471477 -104.97794866561888,39.78068147812659 -104.97801303863525,39.78077629674665 -104.97803717851639,39.78085874761439 -104.97803717851639,39.781627597200476 -104.97806936502455,39.78172035327225 -104.97812032699585,39.7817904355547 -104.97819811105728,39.78183784411703 -104.97828662395477,39.78186051776575 -104.9783644080162,39.78188319140698 -104.97842341661453,39.781907926279814 -104.97845023870468,39.78192235495152 -104.97881233692169,39.78195121228587 -104.97889548540114,39.78192235495152 -104.98003542423248,39.78193059990543
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Entrance at I-70</name>
+      <description>Street View: https://goo.gl/maps/EVK2xo2poZFEk1WE9 > https://goo.gl/maps/VMUEf9NJT2tjjg2aA > https://goo.gl/maps/FCnD8Nq6NmXMTKe87 > https://goo.gl/maps/yTi9XHqfpmAyPXJD8 > https://goo.gl/maps/sqLVbnHHdkb11ETJ8 > https://goo.gl/maps/fN9oRT6jyoGS6LBp8
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along 47th Ave<br/>
+        Walk S on the sidewalk along Brighton<br/>
+        Walk S at the traffic light across 46th Ave<br/>
+        Walk S on the sidewalk under I-70<br/>
+        Walk S at the traffic light/crosswalk across the I-70 onramp<br/>
+        Walk S on the sidewalk along Brighton to 44th St<br/>
+        Ride S on sidewalk along Brighton
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk along Brighton<br/>
+        Walk N at the crosswalk/traffic light across the I-70 onramp<br/>
+        Walk N on the sidewalk under I-70<br/>
+        Walk N at the traffic light across 46th Ave<br/>
+        Walk E on the sidewalk along 47th Ave<br/>
+        Ride N on Williams
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.96569499373436,39.781884222026854 -104.96661901473999,39.781877007687385 -104.96661901473999,39.78135345074635 -104.96664583683014,39.781011281459314 -104.96661901473999,39.780961811060145 -104.96651440858841,39.78072476490414 -104.96668338775635,39.78059078193302 -104.96674239635468,39.78047947280478 -104.96690869331358,39.7797126716958 -104.96691673994064,39.779588993297395 -104.96684566140175,39.779493142385775 -104.9670159816742,39.77936224898971 -104.9683678150177,39.77830066343075
         </coordinates>
       </LineString>
     </Placemark>
