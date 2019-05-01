@@ -3908,6 +3908,18 @@
     </Placemark>
 
     <Placemark>
+      <name>Empire at Globeville-Argo Park</name>
+      <description></description>
+      <styleUrl>#line-0F9D58-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.9812464416027,39.78376919995255 -104.98134166002274,39.783754771668086 -104.98144492506981,39.78372282331317 -104.98158439993858,39.78374240456473 -104.98180031776428,39.78375167989243 -104.98188212513924,39.783746526932745 -104.98196929693222,39.78376610817756 -104.9820551276207,39.78379702592116 -104.98212486505508,39.78378465882538 -104.98217314481735,39.78376095521894 -104.98223081231117,39.783745496340764
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Entrance at Hungarian Freedom Park</name>
       <description></description>
       <styleUrl>#line-0F9D58-5000</styleUrl>

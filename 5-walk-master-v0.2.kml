@@ -565,6 +565,101 @@
   </Placemark>
 
     <Placemark>
+      <name>Empire at 41st Ave</name>
+      <description>Street View: https://goo.gl/maps/KcREC7zDBZZTeG8f6
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the bridge over the train tracks<br/>
+        Ride E on 41st Ave<br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the bridge over the train tracks<br/>
+        Ride N on the sidewalk along Inca on 43rd<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.99818861484528,39.772856430472316 -104.99845147132874,39.772881168589514 -104.99845147132874,39.772839938389225 -104.9967509508133,39.772839938389225 -104.99674022197723,39.77278015455495 -104.996697306633,39.77279458514038 -104.99668121337889,39.77289766066271
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Empire at 44th Ave</name>
+      <description>Street View: https://goo.gl/maps/RU1LXqazmKdaPobY6 > https://goo.gl/maps/CBsUB8YZaHmHeDLJA > https://goo.gl/maps/Fy8MoMWTeNfbn4A2A
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E then N on the sidewalk/bridge along 44th Ave over I-25<br/>
+        Walk E across Broadway<br/>
+        Ride S on Leaf<br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along 44th Ave<br/>
+        Walk W across Broadway<br/>
+        Walk S then W on the sidewalk/bridge along 44th Ave over I-25<br/>
+        Ride S on Cherokee<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.99120146036147,39.77648046988875 -104.98956799507141,39.77647222428187 -104.98860508203505,39.77646707077705 -104.98843342065811,39.776476347085435 -104.98831406235695,39.77650211460213 -104.98817190527916,39.776560864504155 -104.98799219727516,39.776697947413794 -104.9879278242588,39.776789679433925 -104.98787552118301,39.776915424251655 -104.98785942792891,39.77696283617245 -104.98787015676498,39.77801207423437 -104.98785674571991,39.77808628300045 -104.98782455921173,39.778144000874306 -104.98777091503143,39.77819141194877 -104.98771995306015,39.77820996409944 -104.98750269412994,39.77825943647681 -104.9870815873146,39.77825531378003
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Empire at 45th Ave</name>
+      <description>Street View: https://goo.gl/maps/N3gvYUmRTMm3NDpy9 > https://goo.gl/maps/cYjQktorKik8GRMd6
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along 45th Ave<br/>
+        Walk E at the traffic light across Washington<br/>
+        Walk E through the parking lot<br/>
+        Ride E to the S Platte River Trail<br/><br/>
+
+        East to West<br/><br/>
+        Walk W through the parking lot<br/>
+        Walk W at the traffic light across Washington<br/>
+        Walk W on the sidewalk along 45rd Ave<br/>
+        Ride S on Pearl<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.9800743162632,39.778264589847375 -104.9795338511467,39.778261497825085 -104.97947350144386,39.778239853665 -104.9794627726078,39.77822439354649 -104.97908189892769,39.778253252431576 -104.97905842959881,39.778254540774384 -104.97902724891901,39.77822903158241 -104.97880429029465,39.778234184955295 -104.97865006327629,39.77822439354649
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Empire at 47th Ave</name>
+      <description>Street View: https://goo.gl/maps/ipYzfmrdnfZdMZV78 > https://goo.gl/maps/iEnCYmC17MpsqqQe6 > https://goo.gl/maps/vLPQV6TJTjzEHKEP7 > https://goo.gl/maps/xeYoUwNUQsCTUrin9
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along 47th Ave<br/>
+        Walk E at the traffic light across Washington<br/>
+        Walk E on the sidewalk along 47th Ave<br/>
+        Ride N on S Platte River Trail<br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along 47th Ave<br/>
+        Walk W at the traffic light across Washington<br/>
+        Walk W on the sidewalk along 47th Ave<br/>
+        Ride N on Pearl<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.97778773307799,39.78056604658675 -104.97788429260254,39.78061139471477 -104.97794866561888,39.78068147812659 -104.97801303863525,39.78077629674665 -104.97803717851639,39.78085874761439 -104.97803717851639,39.781627597200476 -104.97806936502455,39.78172035327225 -104.97812032699585,39.7817904355547 -104.97819811105728,39.78183784411703 -104.97828662395477,39.78186051776575 -104.9783644080162,39.78188319140698 -104.97842341661453,39.781907926279814 -104.97845023870468,39.78192235495152 -104.97881233692169,39.78195121228587 -104.97889548540114,39.78192235495152 -104.98003542423248,39.78193059990543
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Entrance at Park/19th/Emerson</name>
       <description>Street View: https://goo.gl/maps/2aKCo21hSqL2 > https://goo.gl/maps/FCDHyQTvQjn
         <br/><br/>
@@ -2758,30 +2853,6 @@
         <tessellate>1</tessellate>
         <coordinates>
           -104.9842746555805,39.76719219834375 -104.98372077941895,39.76675718253931
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
-      <name>Volume at 38th</name>
-      <description>Street View: https://goo.gl/maps/NSDx38qwqpR2
-        <br/><br/>
-        North to South<br/><br/>
-        Walk SW across 38th at the traffic light<br/>
-        Walk NW on the sidewalk along 38th<br/>
-        Ride SW on Delgany<br/>
-        <br/><br/>
-
-        South to North<br/><br/>
-        Walk SE on the sidewalk along 38th to Brighton<br/>
-        Walk NE at the traffic light across 38th<br/>
-        Ride on Story on sidewalk<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.97632592916489,39.773526418006426 -104.97626423835754,39.77350168012111 -104.97560441493988,39.772990428500826 -104.97545152902602,39.77311205725473
         </coordinates>
       </LineString>
     </Placemark>
