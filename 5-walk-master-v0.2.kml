@@ -1010,6 +1010,28 @@
     </Placemark>
 
     <Placemark>
+      <name>Fractal at I-70 Underpass</name>
+      <description>Street View: https://goo.gl/maps/CrzQiWBekX58yfEY9
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk along Lincoln<br/>
+        Ride E on 46th Ave<br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk along Lincoln<br/>
+        Ride E on 46th Ave<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.9857485294342,39.78011771689458 -104.98578742146492,39.77944676286445
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+
+    <Placemark>
       <name>Future at Monaco</name>
       <description>Street View: https://goo.gl/maps/gpSo3xGGgan > https://goo.gl/maps/Y6tJFZy2As52 > https://goo.gl/maps/fv37R2Y5PvA2
         <br/><br/>
