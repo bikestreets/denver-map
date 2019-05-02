@@ -1674,6 +1674,29 @@
     </Placemark>
 
     <Placemark>
+      <name>Motto at Tennyson</name>
+      <description>Street View: https://goo.gl/maps/DpsbuUjCpNGwxHyD6
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E at the crosswalk across Tennyson (no traffic light)<br/>
+        Walk S on the sidewalk along Tennyson<br/>
+        Ride E on 41st Ave<br/><br/>
+
+        East to West<br/><br/>
+        Walk N on the sidewalk along Tennyson<br/>
+        Walk W at the crosswalk across Tennyson (no traffic light)<br/>
+        Ride W on 41st Avi<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.04410803318024,39.77284199989981 -105.04393368959427,39.7728296308353 -105.04394441843033,39.77256987996674 -105.04393100738525,39.77255751085329
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Nexus at 17th Ave</name>
       <description>Street View: https://goo.gl/maps/suRJQT8WnZ22
         <br/><br/>
