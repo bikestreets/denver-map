@@ -194,7 +194,7 @@
     </Placemark>
 
     <Placemark>
-      <name>Outlook at Cherokee/Dakota</name>
+      <name>Outlook on Cherokee/Dakota</name>
       <description></description>
       <styleUrl>#line-000000-3713</styleUrl>
       <LineString>
@@ -217,6 +217,35 @@
           -104.98695,39.70933,0
           -104.9864,39.70933,0
           -104.98622,39.70933,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Robust on Buchtel</name>
+      <description></description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.94513,39.68059,0
+          -104.94507,39.68059,0
+          -104.94489,39.68056,0
+          -104.94455,39.68052,0
+          -104.94395,39.68043,0
+          -104.94372,39.6804,0
+          -104.94333,39.68034,0
+          -104.94306,39.6803,0
+          -104.94279,39.68026,0
+          -104.94263,39.68024,0
+          -104.94246,39.68022,0
+          -104.94231,39.68017,0
+          -104.94222,39.68016,0
+          -104.942,39.68012,0
+          -104.9417,39.68009,0
+          -104.94149,39.68007,0
+          -104.94117,39.68006,0
+          -104.941,39.68006,0
         </coordinates>
       </LineString>
     </Placemark>

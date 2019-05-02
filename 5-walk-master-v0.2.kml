@@ -2149,6 +2149,29 @@
     </Placemark>
 
     <Placemark>
+      <name>Robust at Colorado Blvd</name>
+      <description>Street View: https://goo.gl/maps/45w6L9it9rgPhYs69 > https://goo.gl/maps/CUQa2TCrGdfRBeJo8 > https://goo.gl/maps/FYXuJic3auyf7Y6DA
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E at the traffic light across Colorado Blvd<br/>
+        Walk E on the sidewalk along Colorado Center Dr<br/>
+        Ride N or S on Apex<br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along Colorado Center Dr<br/>
+        Walk W at the traffic light across Colorado Blvd<br/>
+        Ride W on Buchtel bike lane<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.94103074073792,39.679960950495044 -104.94060695171356,39.679899021781644 -104.94059890508652,39.67997436837563 -104.94055733084679,39.6800104934258 -104.94051307439804,39.68003216844683 -104.94039371609688,39.68003526487785 -104.94017377495766,39.68003113630312 -104.93933290243147,39.68001978272135 -104.9390324950218,39.67997849695377 -104.93871867656708,39.67989798963595 -104.938525557518,39.67984844662449 -104.93820905685425,39.679817482224266 -104.93698999285698,39.67963169553148 -104.93690550327301,39.67959040953189 -104.93680223822594,39.67963272768116 -104.93658900260925,39.6796007310341
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Rosebud at Sheridan</name>
       <description>Street View: https://goo.gl/maps/xNYUwwJ6utS2 > https://goo.gl/maps/N4XepCw1hW82
         <br/><br/>
