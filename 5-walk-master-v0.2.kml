@@ -2312,6 +2312,29 @@
     </Placemark>
 
     <Placemark>
+      <name>Series at Dartmouth</name>
+      <description>Street View: https://goo.gl/maps/68uCwsLKE5fVhUHC7
+        <br/><br/>
+        North to South<br/><br/>
+        Walk E on the sidewalk along Dartmouth<br/>
+        Walk S across Dartmouth (no traffic light)<br/>
+        Ride S on Williams<br/><br/>
+
+        South to North<br/><br/>
+        Walk N across Dartmouth (no traffic light)<br/>
+        Walk W on the sidewalk along Dartmouth<br/>
+        Ride N on Williams<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.96692210435867,39.66048060019875 -104.96658112853765,39.66047750289117 -104.9665754288435,39.66034922261352
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Solver at Cherry Creek Trail</name>
       <description>Street View: https://goo.gl/maps/CgNhMkbJsT82
         <br/><br/>
