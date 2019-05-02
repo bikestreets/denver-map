@@ -1296,32 +1296,6 @@
       </LineString>
     </Placemark>
 
-
-    <Placemark>
-      <name>Groundswell at 6th</name>
-      <description>Street View: https://goo.gl/maps/3EePGVpiWsN2
-        <br/><br/>
-        North to South<br/><br/>
-        Walk S across westbound 6th to the median (no traffic light)<br/>
-        Walk S on the median<br/>
-        Walk S across eastbound 6th (no traffic light)<br/>
-        Ride S on Dahlia<br/><br/>
-
-        South to North<br/><br/>
-        Walk N across eastbound 6th to the median (no traffic light)<br/>
-        Walk N on the median<br/>
-        Walk N across westbound 6th (no traffic light)<br/>
-        Ride N on Dahlia<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.93163764476775,39.725689423410294 -104.93163496255875,39.72525001961834
-        </coordinates>
-      </LineString>
-    </Placemark>
-
     <Placemark>
       <name>Groundswell at Alameda</name>
       <description>Street View: https://goo.gl/maps/R9ip9qib78p
