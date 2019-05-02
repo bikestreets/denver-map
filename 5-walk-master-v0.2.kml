@@ -2595,6 +2595,32 @@
     </Placemark>
 
     <Placemark>
+      <name>Theory at Federal</name>
+      <description>Street View: https://goo.gl/maps/FPiCETM4ti2t67a56 > https://goo.gl/maps/GBymRqG3SL3A9cND6 > https://goo.gl/maps/RrKNMxTzzXV6Y3qX9
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along 17th Ave<br/>
+        Walk E at the traffic light across Federal<br/>
+        Walk E on the sidewalk along 17th Ave<br/>
+        Walk E across Mile High Stadium Cir (no traffic light)<br/>
+        Ride E on the sidewalk towards Mile High Stadium<br/><br/>
+
+        East to West<br/><br/>
+        Walk W across Mile High Stadium Cir (no traffic light)<br/>
+        Walk W at the traffic light across Federal<br/>
+        Walk W on the sidewalk along 17th Ave<br/>
+        Ride S on Grove<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02671658992766,39.74386549587749 -105.02540230751038,39.743853121607685 -105.0250107049942,39.74388611965554 -105.02376616001129,39.74386549587749 -105.02353549003601,39.74386549587749
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Topic at 38th</name>
       <description>Street View: https://goo.gl/maps/fopRGsfFUdU2
         <br/><br/>
