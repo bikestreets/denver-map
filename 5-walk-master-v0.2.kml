@@ -2814,29 +2814,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Village at Lipan</name>
-      <description>Street View: https://goo.gl/maps/jt86PKVr4Zn
-        <br/><br/>
-        West to East<br/><br/>
-        Walk E on the sidewalk along 8th to Lipan<br/>
-        Walk N across 8th (no traffic light)<br/>
-        Ride N on Lipan<br/><br/>
-
-        East to West<br/><br/>
-        Walk S across 8th (no traffic light)<br/>
-        Walk W on the sidewalk along 8th to Mariposa<br/>
-        Ride W on the sidewalk along 8th<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -105.00286906957626,39.72881880510697 -105.00171035528183,39.72882499359188 -105.0017049908638,39.729020961993434
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Village at Speer</name>
       <description>Street View: https://goo.gl/maps/R29jzGHEUbo
         <br/><br/>
