@@ -2266,6 +2266,39 @@
       </LineString>
     </Placemark>
 
+    <Placemark>
+      <name>Sanderson Gulch Trail at Federal</name>
+      <description>Street View: https://goo.gl/maps/BNkrrRz16FQxqGNJ9
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E at the traffic light across Federal<br/>
+        Walk S on the sidewalk along Federal<br/>
+        Ride E on Sanderson Gulch Trail
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk N on the sidewalk along Federal<br/>
+        Walk W at the traffic light across Federal<br/>
+        Ride W on Sanderson Gulch Trail<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02513,39.68692,0
+          -105.02507,39.68693,0
+          -105.02502,39.68693,0
+          -105.02498,39.68692,0
+          -105.02497,39.6869,0
+          -105.02495,39.68686,0
+          -105.02495,39.68681,0
+          -105.02495,39.68675,0
+          -105.02495,39.68669,0
+          -105.02494,39.68662,0
+          -105.02494,39.68661,0
+        </coordinates>
+      </LineString>
+    </Placemark>
 
     <Placemark>
       <name>Session at Peoria</name>
