@@ -2292,23 +2292,23 @@
 
     <Placemark>
       <name>Series at Louisiana</name>
-      <description>Street View: https://goo.gl/maps/d5koHWF9f942
+      <description>Street View: https://goo.gl/maps/Ze1At7Vok4ebPqwBA
         <br/><br/>
         North to South<br/><br/>
-        Walk S at the traffic light across Louisiana<br/>
-        Walk W on the sidewalk along Louisiana<br/>
+        Walk S across the park to the curb ramp<br/>
+        Walk S across Louisiana (no traffic light)<br/>
         Ride S on Humboldt<br/><br/>
 
         South to North<br/><br/>
-        Walk E on the sidewalk along Louisiana to Franklin<br/>
-        Walk N at the traffic light across Louisiana<br/>
-        Ride N to Washington Park Loop<br/>
+        Walk N across Louisiana to the curb ramp (no traffic light)<br/>
+        Walk N across the park to the paved trail<br/>
+        Ride E then N on Washington Park Loop<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.96881306171417,39.692990548721625 -104.9688184261322,39.69292656779167 -104.96883988380432,39.69288735364398 -104.9698296189308,39.69288735364398
+          -104.97003145515919,39.69316185220991 -104.97002139687538,39.69303337463355 -104.97002273797989,39.69289251340153
         </coordinates>
       </LineString>
     </Placemark>
