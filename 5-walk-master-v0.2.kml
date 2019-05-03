@@ -3144,7 +3144,6 @@
       <description>Street View: https://goo.gl/maps/1VC2jyt9W4D2 > https://goo.gl/maps/uQZmFzHqiku > https://goo.gl/maps/b7UpGGQ6JTB2
         <br/><br/>
         West to East<br/><br/>
-        Walk E on the sidewalk along 8th to Federal<br/>
         Walk N at the traffic light across 8th<br/>
         Walk E at the traffic light across Federal<br/>
         Walk E on the sidewalk along 8th<br/>
@@ -3155,14 +3154,13 @@
         Walk W on the sidewalk along 8th to Federal<br/>
         Walk W at the traffic light across Federal<br/>
         Walk S at the traffic light across 8th<br/>
-        Walk W on the sidewalk along 8th<br/>
-        Ride SW on Weir Gulch Trail<br/>
+        Ride W on Weir Gulch Trail<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -105.02675414085387,39.72865584147105 -105.0264725089073,39.72894463752432 -105.0263249874115,39.72905809278567 -105.02621501684189,39.72910347483795 -105.02609968185425,39.72914885686035 -105.0260004401207,39.72917361067814 -105.02582877874373,39.72918186194878 -105.02563297748566,39.72917361067814 -105.02535402774811,39.72917361067814 -105.02535670995712,39.72944177646803 -105.0252842903137,39.729454153325435 -105.02502411603926,39.72940670869325 -105.02354085445404,39.7294046458824
+          -105.02563297748566,39.72917361067814 -105.02535402774811,39.72917361067814 -105.02535670995712,39.72944177646803 -105.0252842903137,39.729454153325435 -105.02502411603926,39.72940670869325 -105.02354085445404,39.7294046458824
         </coordinates>
       </LineString>
     </Placemark>
