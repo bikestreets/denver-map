@@ -371,6 +371,38 @@
     </Placemark>
 
     <Placemark>
+      <name>Brigade at Denver Art Museum</name>
+      <description>
+        <br/><br/>Street View: https://goo.gl/maps/w2ic6q653YNnXnkU8
+        North to South<br/><br/>
+        Walk S on the sidewalk past the Denver Art Museum<br/>
+        Ride S on Acoma<br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk past the Denver Art Museum<br/>
+        Ride N past the Denver Public Library<br/>
+        Connect to Fortune route<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.98881,39.7368,0
+          -104.98881,39.73675,0
+          -104.98882,39.73671,0
+          -104.98885,39.73648,0
+          -104.98884,39.7363,0
+          -104.98883,39.73608,0
+          -104.98883,39.73589,0
+          -104.98883,39.73571,0
+          -104.98884,39.73553,0
+          -104.98884,39.73535,0
+          -104.98884,39.73532,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Coaster at Montview</name>
       <description>Street View: https://goo.gl/maps/yVpHDDnMnGrtzKLM8
         <br/><br/>
