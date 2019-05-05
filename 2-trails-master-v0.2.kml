@@ -7068,6 +7068,18 @@
     </Placemark>
 
     <Placemark>
+      <name>Phoenix at Bates Hobart Park</name>
+      <description></description>
+      <styleUrl>#line-0F9D58-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.06178647279738,39.661385008074745 -105.06138145923613,39.66139326745286 -105.06111323833466,39.6614552127573 -105.0609228014946,39.66154400093017 -105.06078064441681,39.6616286593143 -105.06057411432266,39.66170712308994 -105.06037026643753,39.661719512099005 -105.06024688482285,39.66169679891403 -105.06000280380249,39.66166582637703 -105.05990624427795,39.66165963186797 -105.05973190069197,39.66163278898892 -105.05964070558548,39.66163278898892
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Platform at Garland Park</name>
       <description></description>
       <styleUrl>#line-0F9D58-5000</styleUrl>
