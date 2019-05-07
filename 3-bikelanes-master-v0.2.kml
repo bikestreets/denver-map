@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Unprotected Bike Lanes / Sharrows</name>
+    <name>Unprotected Bike Lanes / Sharrows / Busier Streets</name>
 
     <Style id="line-000000-3713-nodesc-normal">
       <LineStyle>
@@ -111,6 +111,51 @@
     </Placemark>
 
     <Placemark>
+      <name>Diamond on Amherst</name>
+      <description></description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.94279,39.6655,0
+          -104.94206,39.6655,0
+          -104.94177,39.66549,0
+          -104.94137,39.6655,0
+          -104.94117,39.6655,0
+          -104.94075,39.6655,0
+          -104.94063,39.6655,0
+          -104.93992,39.66544,0
+          -104.93953,39.66542,0
+          -104.93935,39.66542,0
+          -104.93891,39.66542,0
+          -104.93792,39.66542,0
+          -104.93732,39.66541,0
+          -104.93684,39.66541,0
+          -104.93682,39.66541,0
+          -104.9368,39.66541,0
+          -104.93674,39.66539,0
+          -104.93669,39.66536,0
+          -104.93664,39.66534,0
+          -104.93659,39.66531,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Entrance on 1st Ave</name>
+      <description></description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.97684,39.71833,0
+          -104.97633,39.71832,0
+          -104.97578,39.71833,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>General on 21st St</name>
       <description></description>
       <styleUrl>#line-000000-3713</styleUrl>
@@ -207,6 +252,43 @@
           -105.04146,39.65373,0
           -105.0417,39.65362,0
           -105.04192,39.65358,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Mixture on St Paul</name>
+      <description></description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.95005,39.68569,0
+          -104.95018,39.6854,0
+          -104.95031,39.68512,0
+          -104.95038,39.68498,0
+          -104.95045,39.68484,0
+          -104.95048,39.68478,0
+          -104.9505,39.68473,0
+          -104.95056,39.68459,0
+          -104.95062,39.68444,0
+          -104.95073,39.68418,0
+          -104.9508,39.684,0
+          -104.95082,39.68387,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Mixture on Iliff</name>
+      <description></description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.94942,39.67483,0
+          -104.94923,39.67483,0
+          -104.94887,39.67483,0
         </coordinates>
       </LineString>
     </Placemark>

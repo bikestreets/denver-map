@@ -2162,23 +2162,23 @@
 
     <Placemark>
       <name>Repose at Broadway</name>
-      <description>Street View: https://goo.gl/maps/35HFzBKCUCP2
+      <description>Street View: https://goo.gl/maps/yhQDPKd59CGTYQLCA
         <br/><br/>
         North to South<br/><br/>
-        Walk S on the sidewalk along Broadway to Iliff<br/>
+        Walk W on the sidewalk along Iliff<br/>
         Walk W at the traffic light across Broadway<br/>
         Ride W on Iliff<br/><br/>
 
         South to North<br/><br/>
         Walk E at the traffic light across Broadway<br/>
-        Walk N on the sidewalk along Broadway<br/>
-        Ride E on Warren<br/>
+        Walk E on the sidewalk along Iliff<br/>
+        Ride N on Lincoln<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.98743295669556,39.67666936241658 -104.98744904994965,39.67498480134446 -104.98774945735931,39.67498480134446
+          -104.98642712831497,39.67497654359095 -104.98721837997437,39.67497035027516 -104.98743027448654,39.674972414713814 -104.98745441436768,39.67498893022083 -104.9877655506134,39.674972414713814
         </coordinates>
       </LineString>
     </Placemark>
