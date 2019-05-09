@@ -29,6 +29,29 @@
 <!-- Green Trails -->
 
     <Placemark>
+      <name>Above at Curtis Park</name>
+      <description></description>
+      <styleUrl>#line-0F9D58-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.97565,39.76218,0
+          -104.97566,39.76217,0
+          -104.97567,39.76215,0
+          -104.97558,39.76208,0
+          -104.97551,39.76203,0
+          -104.97551,39.76201,0
+          -104.97585,39.76174,0
+          -104.97657,39.76117,0
+          -104.97664,39.76111,0
+          -104.97668,39.76108,0
+          -104.9767,39.7611,0
+          -104.97671,39.76111,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Bear Creek Trail</name>
       <description>11.8 miles</description>
       <styleUrl>#line-0F9D58-5000</styleUrl>

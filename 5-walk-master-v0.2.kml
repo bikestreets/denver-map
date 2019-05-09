@@ -3020,23 +3020,23 @@
         North to South<br/><br/>
         Walk N on the sidewalk along Federal to the traffic light<br/>
         Walk E across Federal at the traffic light<br/>
-        Walk E on the sidewalk along 2nd<br/>
-        Walk S across 2nd at Decatur (no traffic light)<br/>
+        Walk S across 2nd Ave at the traffic light<br/>
+        Walk E on the sidewalk along 2nd Ave<br/>
         Ride S on Decatur
         <br/><br/>
 
         South to North<br/><br/>
-        Walk N across 2nd (no traffic light)<br/>
-        Walk W on the sidewalk along 2nd<br/>
+        Walk W on the sidewalk along 2nd Ave<br/>
+        Walk N at the traffic light across 2nd Ave<br/>
         Walk W across Federal at the traffic light<br/>
-        Ride S on the sidewalk along Federal to 2nd<br/>
-        Ride W on 2nd
+        Ride S on the sidewalk along Federal to 2nd Ave<br/>
+        Ride W on 2nd Ave
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -105.02535670995712,39.719838728337294 -105.02532988786697,39.71987792717039 -105.02533257007599,39.720385446892124 -105.024973154068,39.720389573053424 -105.02493292093277,39.720360689919175 -105.02484440803528,39.720340059101595 -105.02367496490477,39.72034418526562 -105.02292662858963,39.720346248347525
+          -105.02532854676247,39.71985729620838 -105.02533122897148,39.72038338381139 -105.02498522400856,39.72039060459371 -105.02495303750038,39.720360689919175 -105.02494364976882,39.7202038955508 -105.02384394407272,39.72021008480895 -105.02295076847076,39.72021214789487
         </coordinates>
       </LineString>
     </Placemark>

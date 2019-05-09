@@ -77,6 +77,28 @@
     </Placemark>
 
     <Placemark>
+      <name>Canvas on Williams</name>
+      <description></description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.96587,39.72923,0
+          -104.96588,39.7292,0
+          -104.96588,39.7291,0
+          -104.96588,39.72874,0
+          -104.96587,39.72784,0
+          -104.96587,39.7273,0
+          -104.96587,39.72723,0
+          -104.96587,39.72709,0
+          -104.96586,39.72619,0
+          -104.96586,39.7256,0
+          -104.96586,39.72545,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Devise W on 7th Ave</name>
       <description></description>
       <styleUrl>#line-000000-3713</styleUrl>
@@ -317,6 +339,37 @@
           -104.99239,39.7102,0
           -104.9924,39.70976,0
           -104.99241,39.70938,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Mosaic on Mexico</name>
+      <description></description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.93614,39.6857,0
+          -104.93491,39.68571,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Pamphlet on Crown Blvd</name>
+      <description></description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.83689,39.78093,0
+          -104.83645,39.78102,0
+          -104.83597,39.78112,0
+          -104.83587,39.78114,0
+          -104.83577,39.78117,0
+          -104.83564,39.78121,0
+          -104.83452,39.78169,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -704,6 +757,20 @@
             -105.05038,39.78022,0
             -105.05028,39.78022,0
             -105.05015,39.78022,0
+          </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Wander on Byron</name>
+      <description></description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+          <coordinates>
+            -105.04876,39.75306,0
+            -105.04817,39.75306,0
+            -105.04806,39.75306,0
           </coordinates>
       </LineString>
     </Placemark>
