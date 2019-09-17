@@ -2740,8 +2740,6 @@
           -104.9082,39.67878,0
           -104.9082,39.67863,0
 
-          -104.90833193063735,39.67857012142535 -104.90835271775723,39.678328078180556
-
           -104.9082,39.67828,0
           -104.9082,39.67817,0
           -104.90821,39.67764,0
@@ -6144,7 +6142,7 @@
 
     <Placemark>
       <name>Pamphlet</name>
-      <description>6.0 miles</description>
+      <description>2.4 miles</description>
       <styleUrl>#line-01579B-5000</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -8290,7 +8288,7 @@
 
     <Placemark>
       <name>Story</name>
-      <description>2.4 miles. Ride bike on the sidewalk along 38th.</description>
+      <description>3.0 miles. Ride bike on the sidewalk along 38th.</description>
       <styleUrl>#line-01579B-5000</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
