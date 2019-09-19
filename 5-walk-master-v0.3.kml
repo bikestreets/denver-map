@@ -2118,22 +2118,50 @@
     </Placemark>
 
     <Placemark>
-      <name>Rebar at Colfax</name>
-      <description>Street View: https://goo.gl/maps/P1zSfiS1rcT2
-        <br/><br/>
-        North to South<br/><br/>
-        Walk S at the traffic light across Colfax<br/>
-        Ride S on Lipan<br/><br/>
-
-        South to North<br/><br/>
-        Walk N at the traffic light across Colfax<br/>
-        Walk N into Auraria Campus<br/>
+      <name>Rebar at Lawrence Plaza</name>
+      <description>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -105.00149846076965,39.74043567571936 -105.00147700309752,39.74025623965914 -105.0014877319336,39.739955116025435
+          -105.00299245119095,39.74451720427934 -105.00271752476692,39.74406863982219
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Rebar at 9th St Park</name>
+      <description>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.00408679246902,39.742106264890054 -105.00426113605499,39.7420196427434 -105.00351816415787,39.74103379254579 -105.00350743532181,39.74099254327614
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Rebar at Colfax</name>
+      <description>Street View: https://goo.gl/maps/P1zSfiS1rcT2 >> https://goo.gl/maps/yMYUMNNvFGEMLMCt6 >> https://goo.gl/maps/7Q6KPj1XFqaJqEKSA
+        <br/><br/>
+        North to South<br/><br/>
+        Walk E on the sidewalk along Colfax
+        Walk S at the traffic light across Colfax<br/>
+        Ride S on Lipan<br/><br/>
+
+        South to North<br/><br/>
+        Walk N at the traffic light across Colfax<br/>
+        Walk W on the sidewalk along Colfax
+        Ride N on 9th St<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.00281542539597,39.740330489120026 -105.0027322769165,39.74022736484718 -105.00245600938797,39.74023561479469 -105.00202149152756,39.740258302145236 -105.0014743208885,39.74026036463129 -105.00148504972458,39.739955116025435
         </coordinates>
       </LineString>
     </Placemark>
