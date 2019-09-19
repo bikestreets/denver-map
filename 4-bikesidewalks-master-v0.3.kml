@@ -56,6 +56,21 @@
 
 <!-- Bike Sidewalks -->
 
+  <Placemark>
+    <name>Above at Auraria</name>
+    <description></description>
+    <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -105.00073,39.74398,0
+        -105.00105,39.74372,0
+        -105.00146,39.74339,0
+        -105.00201,39.74312,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+
     <Placemark>
       <name>Apex at I-25</name>
       <description></description>
