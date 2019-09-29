@@ -403,6 +403,29 @@
     </Placemark>
 
     <Placemark>
+      <name>Coaster at Colorado Blvd</name>
+      <description>Street View: https://goo.gl/maps/CmikhodHSHUgNCvB8
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E at the traffic light across Colorado Blvd<br/>
+        Walk E on the sidewalk along 17th Ave<br/>
+        Ride N or S on Albion<br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along 17th Ave<br/>
+        Walk W at the traffic light across Colorado Blvd<br/>
+        Ride W on City Park Trail<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.94093149900436,39.74390261867354 -104.94053721427917,39.74383249781977 -104.93898957967758,39.74383662257785
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Coaster at Montview</name>
       <description>Street View: https://goo.gl/maps/yVpHDDnMnGrtzKLM8
         <br/><br/>

@@ -30,7 +30,7 @@
 
     <Placemark>
       <name>Above</name>
-      <description>2.6 miles</description>
+      <description>2.8 miles</description>
       <styleUrl>#line-01579B-5000</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
