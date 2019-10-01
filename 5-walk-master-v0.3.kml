@@ -2538,6 +2538,57 @@
     </Placemark>
 
     <Placemark>
+      <name>Sonnet at 38th Ave</name>
+      <description>Street View: https://goo.gl/maps/1j1uRJKZXn765h889 > https://goo.gl/maps/42hY2iq2M4yv4P3X7 > https://goo.gl/maps/nez2KyDA8yAAf9zdA
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk along Lowell<br/>
+        Walk S at the traffic light across 38th Ave<br/>
+        Walk S on the sidewalk along Lowell<br/>
+        Ride E on Clyde
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk along Lowell<br/>
+        Walk N at the traffic light across 38th Ave<br/>
+        Walk N on the sidewalk along Lowell<br/>
+        Ride E on 39th Ave<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.03452181816101,39.77072067283743 -105.03454327583313,39.769644522746205 -105.03458619117737,39.769450731478756 -105.03458350896835,39.769178598139696 -105.03457009792326,39.76838693140053
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Sonnet at Colfax</name>
+      <description>Street View: https://goo.gl/maps/2asdjTQo3wR29hAs8 > https://goo.gl/maps/bBEVSmaxS86aPLWS6 > https://goo.gl/maps/r5MzVAFnBFmMaBsz5
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along Colfax to the traffic light at Knox<br/>
+        Walk S at the traffic light across Colfax<br/>
+        Ride S on Knox
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N at the traffic light across Colfax<br/>
+        Walk W on the sidewalk along Colfax<br/>
+        Ride N on Julian<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.03160089254379,39.74044805060284 -105.03215879201889,39.740443925641934 -105.03218561410904,39.740239739768086
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+
+    <Placemark>
       <name>Story at Walnut/Marion</name>
       <description>Street View: https://goo.gl/maps/mejkAEm3bNK2 > https://goo.gl/maps/b2e84be8VRw > https://goo.gl/maps/NZGuVKpHJ792
         <br/><br/>
