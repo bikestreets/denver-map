@@ -2564,6 +2564,30 @@
     </Placemark>
 
     <Placemark>
+      <name>Sonnet at 26th</name>
+      <description>Street View: https://goo.gl/maps/SFKWKWuSWFaf25QF9 > https://goo.gl/maps/QSTfYESmaJB6FBVc6
+        <br/><br/>
+        North to South<br/><br/>
+        Walk E on the sidewalk along 26th to the driveway<br/>
+        Walk S at across 26th Ave (no traffic light)<br/>
+        Ride S Julian
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N across 26th Ave (no traffic light)<br/>
+        Walk W on the sidewalk along 26th Ave<br/>
+        Ride N on Julian<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.03222584724426,39.75494782448994 -105.03155797719955,39.75494988653628 -105.03156334161758,39.75477873647958
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Sonnet at Colfax</name>
       <description>Street View: https://goo.gl/maps/2asdjTQo3wR29hAs8 > https://goo.gl/maps/bBEVSmaxS86aPLWS6 > https://goo.gl/maps/r5MzVAFnBFmMaBsz5
         <br/><br/>
