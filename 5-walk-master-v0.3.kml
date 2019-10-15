@@ -2816,6 +2816,29 @@
     </Placemark>
 
     <Placemark>
+      <name>Topic at Speer</name>
+      <description>Street View: https://goo.gl/maps/KDtNS3dspPLXpCEHA
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk along Zuni<br/>
+        Walk S at the traffic light across Speer<br/>
+        Ride S on on the sidewalk trail along Zuni<br/><br/>
+
+        South to North<br/><br/>
+        Walk N at the traffic light across Speer<br/>
+        Walk N on the sidewalk along Zuni<br/>
+        Ride E on 27th Ave<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.01572221517563,39.75652114790519 -105.01571148633957,39.75611080882738
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Traction at Evans</name>
       <description>Street View: https://goo.gl/maps/4j1aNgukvZS2
         <br/><br/>
