@@ -1899,6 +1899,29 @@
       </LineString>
     </Placemark>
 
+    <Placemark>
+      <name>Outlook at Sheridan</name>
+      <description>Street View: https://goo.gl/maps/mArke8xBA3WL2v9R8 >> https://goo.gl/maps/RSUvLBVdeSUVdATS9
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E at the traffic light across Sheridan<br/>
+        Walk E on the sidewalk along Alameda<br/>
+        Ride N or S at Weir Gulch Trail
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along Alameda<br/>
+        Walk W at the traffic light across Sheridan<br/>
+        Ride W on the sidewalk along Sheridan<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.05309343338013,39.7112041266616 -105.05259990692137,39.7112123800825 -105.05246043205261,39.71122888692133 -105.05219489336014,39.71122476021201 -105.05178719758987,39.71122476021201 -105.05058556795119,39.71121857014754 -105.05025029182434,39.71121650679258 -105.05014300346373,39.7112123800825
+        </coordinates>
+      </LineString>
+    </Placemark>
 
     <Placemark>
       <name>Outlook at Federal</name>
