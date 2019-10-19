@@ -410,6 +410,18 @@
     </Placemark>
 
     <Placemark>
+      <name>Marvel along Inca / Dartmouth</name>
+      <description></description>
+      <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.99717205762863,39.65958444008135 -104.99663561582565,39.65985907102965 -104.99657660722733,39.659921017709244 -104.99652832746506,39.66004904067114 -104.996520280838,39.66022868539522 -104.99652832746506,39.660329864402044 -104.99652564525604,39.66057971396809 -104.99616622924805,39.66056732475469 -104.99604284763336,39.66059003831089
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Message along Clarkson</name>
       <description></description>
       <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
