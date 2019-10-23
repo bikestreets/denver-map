@@ -1198,6 +1198,27 @@
       </LineString>
     </Placemark>
 
+    <Placemark>
+      <name>General at Pecos</name>
+      <description>Street View: https://goo.gl/maps/jBVoAiP1JcZsWeTs6 > https://goo.gl/maps/V9ptqS7sZBe8RSWLA
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S on the sidewalk along Pecos<br/>
+        Ride SE into Highland Gateway Park
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N on the sidewalk along Pecos<br/>
+        Ride W on 33rd Ave<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.00636935234068,39.763172836327634 -105.00635862350464,39.762121310238314
+        </coordinates>
+      </LineString>
+    </Placemark>
 
     <Placemark>
       <name>General at Blake</name>
