@@ -3762,6 +3762,18 @@
     </Placemark>
 
     <Placemark>
+      <name>Country at Bonnie Brae Park</name>
+      <description></description>
+      <styleUrl>#line-0F9D58-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.95506674051283,39.70016429235779 -104.95492190122604,39.70012714600862 -104.95488166809082,39.700015706841135 -104.95479851961136,39.69986918469895 -104.95470464229582,39.6998114012334 -104.95463490486145,39.6998175923213 -104.95456516742706,39.699896012720075 -104.95451420545578,39.70000126100996 -104.95447665452957,39.70007968120004 -104.95444715023041,39.70013540075462 -104.95431572198868,39.70015810130101
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Diamond along Little Dry Creek</name>
       <description></description>
       <styleUrl>#line-0F9D58-5000</styleUrl>

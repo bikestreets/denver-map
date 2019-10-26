@@ -476,31 +476,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Country at University</name>
-      <description>Street View: https://goo.gl/maps/vYLwQnM8T3J2 > https://goo.gl/maps/DmP8g4DG5EL2
-        <br/><br/>
-        West to East<br/><br/>
-        Walk E on the sidewalk along Ohio to the traffic light<br/>
-        Walk E at the traffic light across University<br/>
-        Walk S on the sidewalk along University<br/>
-        Ride E on Kentucky<br/><br/>
-
-        East to West<br/><br/>
-        Walk N on the sidewalk along University to the traffic light<br/>
-        Walk W at the traffic light across University<br/>
-        Walk W on the sidewalk along Ohio<br/>
-        Ride S on York<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.96050827205181,39.701980311712056 -104.9602997303009,39.70197824808083 -104.95944947004318,39.701980311712056 -104.95935425162315,39.701983407158814 -104.95919197797775,39.701991661682754 -104.95919600129126,39.70151908859659 -104.95919466018675,39.70093094726629 -104.95919600129126,39.700315973076094
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Diamond at Broadway</name>
       <description>Street View: https://goo.gl/maps/E9oMPVxTW3p
         <br/><br/>
