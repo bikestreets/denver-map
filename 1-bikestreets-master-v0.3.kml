@@ -11976,7 +11976,7 @@
       </LineString>
     </Placemark>
 
-<!-- Circles -->
+<!-- Circles and Extensions -->
 
     <Placemark>
       <name>Canvas at Gilpin</name>
@@ -12105,6 +12105,36 @@
           -104.98474,39.73984,0
           -104.98479,39.73985,0
           -104.98486,39.73985,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Sanderson Gulch Trail at Colorado Ave</name>
+      <description></description>
+      <styleUrl>#line-01579B-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.05004,39.6839,0
+          -105.04983,39.6839,0
+          -105.04969,39.6839,0
+          -105.04955,39.68391,0
+          -105.04944,39.68393,0
+          -105.04934,39.68394,0
+          -105.04905,39.684,0
+          -105.04891,39.68405,0
+          -105.04884,39.68407,0
+          -105.04877,39.68409,0
+          -105.04871,39.6841,0
+          -105.04864,39.68411,0
+          -105.04856,39.68411,0
+          -105.04847,39.68411,0
+          -105.0484,39.68411,0
+          -105.04833,39.68411,0
+          -105.04816,39.6841,0
+          -105.04809,39.68409,0
+          -105.04806,39.68413,0
         </coordinates>
       </LineString>
     </Placemark>
