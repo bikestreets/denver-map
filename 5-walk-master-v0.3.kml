@@ -234,25 +234,25 @@
 
     <Placemark>
       <name>Apex at Yale</name>
-      <description>Street View: https://goo.gl/maps/BZFUJStJ52S2
+      <description>Street View: https://goo.gl/maps/ypg27BK7QhKN97V8A > https://goo.gl/maps/GjdEBJz1ytgJ6Mkq5
         <br/><br/>
         North to South<br/><br/>
-        Walk W on the sidewalk along Yale to the traffic light at Clermont<br/>
+        Walk S through the parking lot to the sidewalk along Yale<br/>
+        Walk E on the sidewalk along Yale to the traffic light<br/>
         Walk S at the traffic light across Yale<br/>
-        Walk E on the sidewalk along Yale<br/>
-        Ride S on Brook<br/><br/>
+        Ride S on Clermont<br/><br/>
 
         South to North<br/><br/>
-        Walk W on the sidewalk along Yale to the traffic light at Clermont<br/>
         Walk N at the traffic light across Yale<br/>
-        Walk E on the sidewalk along Yale<br/>
-        Ride N on Cherry
+        Walk W on the sidewalk along Yale<br/>
+        Walk N through the parking lot to Birch<br/>
+        Ride N on Birch
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.93450492620468,39.66757513508559 -104.93453107774256,39.667557585476004 -104.93456661701202,39.667554488485614 -104.93609212338924,39.66755293999038 -104.93607804179192,39.6673748628055 -104.93493609130383,39.66737641130476 -104.93491865694523,39.66736144247734
+          -104.9369752407074,39.668250275505244 -104.93696719408035,39.668163560591246 -104.93701815605162,39.668083039502235 -104.93684649467468,39.668006647613076 -104.9369403719902,39.66787657474259 -104.93712276220322,39.66794057888408 -104.93716567754745,39.66785592823271 -104.93705302476883,39.66780431193096 -104.93695646524428,39.667738243008486 -104.93682503700256,39.66765978608097 -104.93669092655182,39.66762055758381 -104.93643879890442,39.66756894110626 -104.93636101484299,39.667558617806094 -104.9363824725151,39.66732531081157
         </coordinates>
       </LineString>
     </Placemark>
