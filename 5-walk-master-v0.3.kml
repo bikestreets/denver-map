@@ -2517,23 +2517,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Solver at Colfax</name>
-      <description>Street View: https://goo.gl/maps/BhZPP159SUF2
-        <br/><br/>
-        South to North<br/><br/>
-        Walk E at the traffic light across Colfax<br/>
-        Ride NE on the sidewalk along Colfax on Sortie<br/><br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.99016612768173,39.739950991035016 -104.9903056025505,39.740184052606566
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Sonnet at 38th Ave</name>
       <description>Street View: https://goo.gl/maps/1j1uRJKZXn765h889 > https://goo.gl/maps/42hY2iq2M4yv4P3X7 > https://goo.gl/maps/nez2KyDA8yAAf9zdA
         <br/><br/>

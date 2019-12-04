@@ -882,18 +882,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Solver along Bannock</name>
-      <description></description>
-      <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.9901419878006,39.73854435490478 -104.99015808105469,39.73992830358328
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Sortie along Colfax</name>
       <description></description>
       <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
