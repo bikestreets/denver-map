@@ -1255,20 +1255,20 @@
       <description>Street View: https://goo.gl/maps/3unirk8pkrcTcr1b9
         <br/><br/>
         North to South<br/><br/>
-        Walk SW at the traffic light across 6th Ave<br/>
         Walk W at the traffic light across north-westbound Speer<br/>
+        Walk SE at the traffic light across 6th Ave<br/>
         Ride SE on the sidewalk along Speer<br/><br/>
 
         South to North<br/><br/>
+        Walk NW at the traffic light across 6th Ave<br/>
         Walk E at the traffic light across north-westbound Speer<br/>
-        Walk NW at the traffic light across 6th<br/>
         Ride N on Sherman<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.98496934771538,39.72576678294292 -104.98500287532806,39.725733776219606 -104.98505786061286,39.72571727285203 -104.9849398434162,39.725565647977554 -104.98519599437714,39.725567710903256
+          -104.98497605323792,39.72576575148306 -104.9850457906723,39.725714178470156 -104.98511552810669,39.72573687060059 -104.98537838459015,39.72576575148306 -104.98517520725727,39.72555997493155
         </coordinates>
       </LineString>
     </Placemark>
