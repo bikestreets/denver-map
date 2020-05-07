@@ -1969,6 +1969,29 @@
     </Placemark>
 
     <Placemark>
+      <name>Phoenix at Federal</name>
+      <description>Street View: https://goo.gl/maps/K5U5DYpbikzgmdZW9
+        <br/><br/>
+        West to East<br/><br/>
+        Walk N on the sidewalk along Federal to the traffic light<br/>
+        Walk E at the traffic light across Federal<br/>
+        Ride E on Amherst<br/><br/>
+
+        East to West<br/><br/>
+        Walk at the traffic light across Federal<br/>
+        Walk S on the sidewalk along Federal<br/>
+        Ride W on Amherst<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02529300749302,39.665110919805066 -105.0252742320299,39.665156343923286 -105.0252715498209,39.6654144349371 -105.02500399947165,39.66541030548846
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Platform at MLK</name>
       <description>Street View: https://goo.gl/maps/HGysW36yEDk
         <br/><br/>
