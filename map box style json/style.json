@@ -2864,7 +2864,7 @@
                             "secondary",
                             "tertiary"
                         ],
-                        10,
+                        14,
                         [
                             "motorway_link",
                             "trunk_link",
@@ -2874,8 +2874,8 @@
                             "street",
                             "street_limited"
                         ],
-                        9,
-                        6.5
+                        12,
+                        10
                     ],
                     18,
                     [
@@ -2899,7 +2899,7 @@
                             "street_limited"
                         ],
                         14,
-                        13
+                        14
                     ]
                 ],
                 "text-max-angle": 30,
@@ -2909,20 +2909,7 @@
                 "text-rotation-alignment": "map",
                 "text-pitch-alignment": "viewport",
                 "text-field": ["coalesce", ["get", "name_en"], ["get", "name"]],
-                "text-letter-spacing": 0.01,
-                "text-offset": [
-                    "interpolate",
-                    ["linear"],
-                    ["zoom"],
-                    11,
-                    ["literal", [0, -0.5]],
-                    13,
-                    ["literal", [0, -1]],
-                    17,
-                    ["literal", [0, -1.5]],
-                    22,
-                    ["literal", [0, -1.7]]
-                ]
+                "text-letter-spacing": 0.01
             },
             "paint": {
                 "text-color": "hsl(185, 3%, 47%)",
