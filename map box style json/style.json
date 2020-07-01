@@ -2864,7 +2864,7 @@
                             "secondary",
                             "tertiary"
                         ],
-                        14,
+                        18,
                         [
                             "motorway_link",
                             "trunk_link",
@@ -2874,8 +2874,8 @@
                             "street",
                             "street_limited"
                         ],
-                        12,
-                        10
+                        16,
+                        14
                     ],
                     18,
                     [
@@ -2888,7 +2888,7 @@
                             "secondary",
                             "tertiary"
                         ],
-                        16,
+                        26,
                         [
                             "motorway_link",
                             "trunk_link",
@@ -2898,8 +2898,8 @@
                             "street",
                             "street_limited"
                         ],
-                        14,
-                        14
+                        22,
+                        18
                     ]
                 ],
                 "text-max-angle": 30,
