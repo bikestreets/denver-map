@@ -2915,7 +2915,7 @@
                 "text-color": "hsl(185, 3%, 47%)",
                 "text-halo-color": "hsl(185, 1%, 100%)",
                 "text-halo-width": 1,
-                "text-halo-blur": 1
+                "text-halo-blur": 0
             }
         },
         {
