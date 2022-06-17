@@ -1,0 +1,24 @@
+{
+  "name": "denver-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convert": "node convert.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikestreets/denver-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikestreets/denver-map/issues"
+  },
+  "homepage": "https://github.com/bikestreets/denver-map#readme",
+  "devDependencies": {
+    "@mapbox/togeojson": "v0.16.0"
+  }
+}
+
