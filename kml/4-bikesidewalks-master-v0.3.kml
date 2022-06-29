@@ -1449,6 +1449,18 @@
     </Placemark>
 
     <Placemark>
+      <name>Theory around NW side of Mile High Stadium</name>
+      <description></description>
+      <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02195835113525,39.743869620633596 -105.02195835113525,39.744211974529414 -105.02186715602875,39.74445120877228 -105.02171695232391,39.74472343983142 -105.02147018909454,39.744979171058716 -105.0212287902832,39.74517303119533 -105.02102494239807,39.74529677142287 -105.02078890800476,39.74536689078649 -105.02048313617706,39.74543701007879 -105.02030611038208,39.745453508725426
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Traction along Holly</name>
       <description></description>
       <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
