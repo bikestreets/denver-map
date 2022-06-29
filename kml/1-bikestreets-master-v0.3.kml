@@ -12358,6 +12358,19 @@
     </Placemark>
 
     <Placemark>
+      <name>Diamond at Message</name>
+      <description></description>
+      <styleUrl>#line-01579B-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.98640298843384,39.66040419990453 -104.98639225959778,39.662287339297336 -104.98523354530334,39.66229972820238
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+
+    <Placemark>
       <name>Entrance at Brighton / Broadway</name>
       <description></description>
       <styleUrl>#line-01579B-5000</styleUrl>
