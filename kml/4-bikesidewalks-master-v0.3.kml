@@ -1449,6 +1449,18 @@
     </Placemark>
 
     <Placemark>
+      <name>Traction along Holly</name>
+      <description></description>
+      <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.92215335369109,39.69580152329978 -104.92183417081833,39.6964536860633 -104.92174565792084,39.69666625677172
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Village along 8th Ave</name>
       <description></description>
       <styleUrl>#line-9C27B0-2000-nodesc</styleUrl>
