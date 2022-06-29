@@ -12638,6 +12638,19 @@
     </Placemark>
 
     <Placemark>
+      <name>Vista at West Harvard Gulch Trail</name>
+      <description></description>
+      <styleUrl>#line-01579B-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.0194263458252,39.67010016774374 -105.01942902803421,39.670985868702054
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+
+    <Placemark>
       <name>Wander at Berkeley Lake Park</name>
       <description></description>
       <styleUrl>#line-01579B-5000</styleUrl>
