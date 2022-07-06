@@ -1751,29 +1751,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Nexus at 17th Ave</name>
-      <description>Street View: https://goo.gl/maps/suRJQT8WnZ22
-        <br/><br/>
-        North to South<br/><br/>
-        Walk S at the traffic light across 17th Ave<br/>
-        Walk W on the sidewalk along 17th Ave<br/>
-        Ride S on Harrison<br/><br/>
-
-        South to North<br/><br/>
-        Walk E on the sidewalk along 17th Ave<br/>
-        Walk N at the traffic light across 17th Ave<br/>
-        Ride N into City Park<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.94095832109451,39.74387374538944 -104.94092345237732,39.7436138852883 -104.94096636772154,39.74363450914166 -104.94103074073792,39.74363863391157 -104.94133651256561,39.74364069629646 -104.94180589914322,39.74364069629646
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Nexus at Colfax</name>
       <description>Street View: https://goo.gl/maps/tivXgRaZUkP2
         <br/><br/>

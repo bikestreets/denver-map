@@ -3764,6 +3764,18 @@
     </Placemark>
 
     <Placemark>
+      <name>Coaster at City Park</name>
+      <description></description>
+      <styleUrl>#line-0F9D58-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.94248449802399,39.744364589573394 -104.94191586971283,39.743914992934414 -104.94107365608215,39.74391086818104 -104.94096636772154,39.74389436916502
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Country at Bonnie Brae Park</name>
       <description></description>
       <styleUrl>#line-0F9D58-5000</styleUrl>
@@ -8200,18 +8212,6 @@
           -104.91206,39.69026,0
           -104.91203,39.69026,0
           -104.912,39.69027,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
-      <name>Nexus at City Park</name>
-      <description></description>
-      <styleUrl>#line-0F9D58-5000</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.94248449802399,39.744364589573394 -104.94191586971283,39.743914992934414 -104.94107365608215,39.74391086818104 -104.94096636772154,39.74389436916502
         </coordinates>
       </LineString>
     </Placemark>
