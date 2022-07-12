@@ -1301,6 +1301,24 @@
     </Placemark>
 
     <Placemark>
+      <name>Giant at Sherman</name>
+      <description>Street View: https://goo.gl/maps/9Ex6hrh2tVYyVBod6 > https://goo.gl/maps/M7qRZQnDnrsrE6YM7
+        <br/><br/>
+        East to West<br/><br/>
+        Walk W on the sidewalk along 13th<br/>
+        Walk W at the traffic light across Lincoln<br/>
+        Ride W in the protected bike lane along 13th<br/><br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.98489022254944,39.73696649575622 -104.98619377613068,39.736972683509705
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Groundswell at MLK</name>
       <description>Street View: https://goo.gl/maps/Pqh8jMk1KiQ2 > https://goo.gl/maps/GoxLnTtPAN82
         <br/><br/>
@@ -2494,24 +2512,6 @@
         <tessellate>1</tessellate>
         <coordinates>
           -104.96692210435867,39.66048060019875 -104.96658112853765,39.66047750289117 -104.9665754288435,39.66034922261352
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
-      <name>Solver at Cherry Creek Trail</name>
-      <description>Street View: https://goo.gl/maps/CgNhMkbJsT82
-        <br/><br/>
-        West to East<br/><br/>
-        Walk E at the traffic light across Speer<br/>
-        Walk E at the traffic light across Galapago<br/>
-        Ride E in the bike lane on 14th Ave<br/><br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.99697089195251,39.73838760188652 -104.99641299247742,39.738383476802284
         </coordinates>
       </LineString>
     </Placemark>
