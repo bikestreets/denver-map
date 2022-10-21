@@ -1275,18 +1275,16 @@
 
     <Placemark>
       <name>General at Grant/Speer</name>
-      <description>Street View: https://goo.gl/maps/zUR5HW6Ygw2PwweMA > https://goo.gl/maps/pywD9dEwP7NH5XQa7
+      <description>Street View: https://goo.gl/maps/zUR5HW6Ygw2PwweMA > https://goo.gl/maps/wzahMFQ5JTBXZAFP9
         <br/><br/>
         North to South<br/><br/>
         Walk S on the sidewalk along Grant over Cherry Creek to the traffic light<br/>
         Walk S at the traffic light across south-eastbound Speer<br/>
-        Walk NW on the sidewalk along Speer<br/>
-        Walk W on the sidewalk along 5th<br/>
-        Ride S on Sherman<br/><br/>
+        Walk S along Grant<br/>
+        Ride W through the alley to Sherman<br/><br/>
 
         South to North<br/><br/>
-        Walk E on the sidewalk along 5th<br/>
-        Walk SE on the sidewalk along Speer to Grant<br/>
+        Walk N on the sidewalk along Grant<br/>
         Walk N at the traffic light across south-eastbound Speer<br/>
         Walk N on the sidewalk along Grant over Cherry Creek<br/>
         Ride NW on the sidewalk along Speer<br/>
@@ -1295,7 +1293,7 @@
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.98373687267303,39.72405763277793 -104.98385488986969,39.723680108079236 -104.98390719294548,39.72339335296511 -104.98473197221756,39.724100955152124 -104.98493045568466,39.72409889218255
+          -104.98373454596336,39.72406168136661 -104.98385256315999,39.7236573379183 -104.9838740208322,39.723572755570785 -104.98389547850442,39.72339121262061 -104.98390352513128,39.723040503294925
         </coordinates>
       </LineString>
     </Placemark>
