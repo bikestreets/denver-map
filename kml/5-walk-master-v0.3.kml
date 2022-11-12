@@ -258,27 +258,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Away at 20th Ave</name>
-      <description>Street View: https://goo.gl/maps/9SRmGASe27P2
-        <br/><br/>
-        North to South<br/><br/>
-        Walk S on the sidewalk to Guidance<br/>
-        Continue on Guidance<br/><br/>
-
-        South to North<br/><br/>
-        Walk N on the sidewalk to the cul-de-sac on Eliot<br/>
-        Ride N on Eliot<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -105.02350464463234,39.747732346332896 -105.02350732684135,39.74759829914833 -105.02346709370613,39.74757561421437 -105.02343088388442,39.747538493397215 -105.02341344952582,39.74751580844356
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Basis at Steele</name>
       <description>Street View: https://goo.gl/maps/z8EdZ2guy3cEDRCWA
         <br/><br/>
@@ -1391,18 +1370,16 @@
 
     <Placemark>
       <name>Guidance at Federal</name>
-      <description>Street View: https://goo.gl/maps/caGoBJG8wkN2 > https://goo.gl/maps/DM5s7e2LBPK2 > https://goo.gl/maps/mNjJELvZKTr > https://goo.gl/maps/QD4R4qkm4jms4gcj8
+      <description>Street View: https://goo.gl/maps/caGoBJG8wkN2 > https://goo.gl/maps/DM5s7e2LBPK2 > https://goo.gl/maps/mNjJELvZKTr
         <br/><br/>
         West to East<br/><br/>
         Walk E on the sidewalk along 20th Ave<br/>
         Walk E at the traffic light across Federal<br/>
         Walk E on the sidewalk along 20th Ave<br/>
         Walk SE at the crosswalk across Mile High Stadium Cir<br/>
-        Walk E on the sidewalk along Mile High Stadidum Cir<br/>
-        Ride S on the sidewalk towards Mile High Stadium<br/><br/>
+        Ride SE on the sidewalk towards Mile High Stadium<br/><br/>
 
         East to West<br/><br/>
-        Walk W on the sidewalk along Mile High Stadium Cir<br/>
         Walk NW at the crosswalk across Mile High Stadium Cir<br/>
         Walk W on the sidewalk along 20th Ave<br/>
         Walk W at the traffic light across Federal<br/>
@@ -1413,9 +1390,13 @@
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -105.02677828073502,39.74768491428202 -105.02605676651001,39.747686976545786 -105.02603530883789,39.74766016711207 -105.02543449401855,39.74767047843397 -105.02510458230971,39.74766429164103 -105.02505630254745,39.74768078975433 -105.02388149499893,39.74768491428202 -105.02376079559326,39.747691101073116 -105.02369105815887,39.74766016711207 -105.02359449863432,39.7476416067288 -105.0235167145729,39.74760448594719 -105.02343088388442,39.74754055566536 -105.02340137958527,39.747513746174675 -105.02332359552383,39.74743331764004
-
-          -105.0232645869255,39.74740238356324 -105.02316534519196,39.747468376243596 -105.02307146787643,39.74750962163673 -105.02298295497894,39.747530244324025 -105.0227040052414,39.74753436886075 -105.02067893743515,39.747530244324025
+          -105.02671836991883,39.74768193477874
+        -105.02489464107549,39.747671817850204
+        -105.02376369343887,39.74768049042257
+        -105.02369325045694,39.7476595867507
+        -105.02358416354933,39.74763535664502
+        -105.02348962156309,39.74758689640856
+        -105.02339507957646,39.747506750558216
         </coordinates>
       </LineString>
     </Placemark>
@@ -1785,29 +1766,6 @@
         <tessellate>1</tessellate>
         <coordinates>
           -104.94431242346764,39.740253145929856 -104.9443097412586,39.74004380325973 -104.94406297802925,39.74003864702827
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
-      <name>Nexus at 6th Ave</name>
-      <description>Street View: https://goo.gl/maps/dq5s3GUAMDJ2
-        <br/><br/>
-        North to South<br/><br/>
-        Walk E on the sidewalk along 6th until you're even with Garfield<br/>
-        Walk S across 6th to the sidewalk on Garfield (no traffic light)<br/>
-        Ride S on Garfield<br/><br/>
-
-        South to North<br/><br/>
-        Walk N across 6th (no traffic light)<br/>
-        Walk W on the sidewalk along 6th<br/>
-        Ride N on Garfield<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.94394630193709,39.72569251779327 -104.9439288675785,39.72569148633229 -104.94391277432442,39.72552026359653 -104.94384840130806,39.725519232132974
         </coordinates>
       </LineString>
     </Placemark>
@@ -3035,32 +2993,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Village at Josephine</name>
-      <description>Street View: https://goo.gl/maps/NCDkxDiV7aM2 > https://goo.gl/maps/FUhwT6eUUv52
-        <br/><br/>
-        West to East<br/><br/>
-        Walk N on the sidewalk along Josephine to 12th<br/>
-        Walk E at the traffic light across Josephine<br/>
-        Walk S on the sidewalk along Josephine<br/>
-        Ride E on 11th
-        <br/><br/>
-
-        East to West<br/><br/>
-        Walk N on the sidewalk along Josephine to 12th<br/>
-        Walk W at the traffic light across Josephine<br/>
-        Walk S on the sidewalk along Josephine<br/>
-        Ride W on 11th<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.9587145447731,39.73354458298208 -104.95870918035507,39.734305710278946 -104.9587145447731,39.73496782231136 -104.95852142572403,39.73506476652996 -104.95849192142487,39.73386223604655 -104.95850801467896,39.73372816187968
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Village at Colorado Blvd</name>
       <description>Street View: https://goo.gl/maps/1CchNVVBCXTpNGRLA > https://goo.gl/maps/e8ykPMygfQ72 > https://goo.gl/maps/DjASj248irJ2 > https://goo.gl/maps/NJ8WbiE7YmD2
         <br/><br/>
@@ -3087,32 +3019,6 @@
           -104.9417522549629,39.73501320047321 -104.9409019947052,39.73501320047321
 
           -104.9409019947052,39.73501320047321 -104.94085907936096,39.73494719586427 -104.94085907936096,39.73475330695997 -104.94052648544312,39.73478218406539 -104.94042992591858,39.73475330695997 -104.93960916996002,39.734761557562756 -104.93943214416504,39.73473680575144 -104.93851415812969,39.734750728646404
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
-      <name>Village at Monaco</name>
-      <description>Street View: https://goo.gl/maps/ZpEyaPsfDW72 > https://goo.gl/maps/EZELjYeLz9y
-        <br/><br/>
-        West to East<br/><br/>
-        Walk E across southbound Monaco to the median (no traffic light)<br/>
-        Walk N on the sidewalk on the median to 12th<br/>
-        Walk E across northbound Monaco (no traffic light)<br/>
-        Ride E on 12th
-        <br/><br/>
-
-        East to West<br/><br/>
-        Walk W across northbound Monaco to the median (no traffic light)<br/>
-        Walk S on the sidewalk on the median to 12th<br/>
-        Walk W across southbound Monaco (no traffic light)<br/>
-        Ride W on 12th<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.91284608840941,39.7351122072681 -104.91264492273329,39.735114269908166 -104.91264760494232,39.735349410469055 -104.91264224052429,39.73539066311633 -104.912588596344,39.73547110570749 -104.91254299879073,39.735485544111334 -104.91248935461044,39.73549791988366 -104.91237133741379,39.735506170397315 -104.91232037544249,39.73562374010957
         </coordinates>
       </LineString>
     </Placemark>
@@ -3329,32 +3235,6 @@
         <tessellate>1</tessellate>
         <coordinates>
           -105.04947245121002,39.711185556461 -105.05015909671783,39.7112123800825 -105.05014836788177,39.711327927871366 -105.05014300346373,39.71144760216296
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
-      <name>Weir Gulch Trail at 8th/Federal</name>
-      <description>Street View: https://goo.gl/maps/1VC2jyt9W4D2 > https://goo.gl/maps/uQZmFzHqiku > https://goo.gl/maps/b7UpGGQ6JTB2
-        <br/><br/>
-        West to East<br/><br/>
-        Walk N at the traffic light across 8th<br/>
-        Walk E at the traffic light across Federal<br/>
-        Walk E on the sidewalk along 8th<br/>
-        Ride N on Weir Gulch Trail
-        <br/><br/>
-
-        East to West<br/><br/>
-        Walk W on the sidewalk along 8th to Federal<br/>
-        Walk W at the traffic light across Federal<br/>
-        Walk S at the traffic light across 8th<br/>
-        Ride W on Weir Gulch Trail<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -105.02563297748566,39.72917361067814 -105.02535402774811,39.72917361067814 -105.02535670995712,39.72944177646803 -105.0252842903137,39.729454153325435 -105.02502411603926,39.72940670869325 -105.02354085445404,39.7294046458824
         </coordinates>
       </LineString>
     </Placemark>
