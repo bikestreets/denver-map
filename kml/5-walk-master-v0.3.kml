@@ -2430,25 +2430,28 @@
 
     <Placemark>
       <name>Series at Evans</name>
-      <description>Street View: https://goo.gl/maps/6Z7BLvD6pw52
+      <description>Street View: https://maps.app.goo.gl/nrCDvn7BftEEULnz9
         <br/><br/>
         North to South<br/><br/>
-        Walk E on the sidewalk along Evans to High<br/>
+        Walk W on the sidewalk along Evans to the traffic light<br/>
         Walk S at the traffic light across Evans<br/>
-        Walk W on the sidewalk along Evans<br/>
+        Walk E on the sidewalk along Evans<br/>
         Ride S on Williams<br/><br/>
 
         South to North<br/><br/>
-        Walk E on the sidewalk along Evans to High<br/>
+        Walk W on the sidewalk along Evans to the traffic light<br/>
         Walk N at the traffic light across Evans<br/>
-        Walk W on the sidewalk along Evans<br/>
+        Walk E on the sidewalk along Evans<br/>
         Ride N on Williams<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.96632128953934,39.67862224576581 -104.96626764535904,39.67863463174189 -104.965361058712,39.67862224576581 -104.96537446975708,39.678376590114205 -104.9653771519661,39.678355946742336 -104.96568292379378,39.678362139754555 -104.96578216552733,39.67837865445106 -104.96585190296173,39.67836626842907 -104.96595114469528,39.678355946742336 -104.96614962816238,39.678370397103315 -104.96625691652298,39.67838071878786 -104.96633738279343,39.6783745257773
+          -104.96651400401288,39.67862930277175
+        -104.96706062431208,39.678626254223786
+        -104.96706062431208,39.67837779710581
+        -104.9665179650295,39.67836103002915
         </coordinates>
       </LineString>
     </Placemark>
