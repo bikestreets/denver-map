@@ -2076,12 +2076,16 @@
         Walk W on the sidewalk along Iliff to University<br/>
         Walk W at the traffic light across University<br/>
         Walk W on the sidewalk along Iliff<br/>
-        Ride S on York<br/>
+        Walk S on York<br/>
+        Ride W on Wesley<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
+          -104.96049008712505,39.67311896673499
+        -104.96049008712505,39.67476473123142
+
           -104.96047139167786,39.67478248609944 -104.95955944061278,39.67478248609944 -104.95953261852264,39.67475358387319 -104.95925903320312,39.674778357210705 -104.95811641216278,39.67477422832174 -104.95802521705627,39.674770099432514
         </coordinates>
       </LineString>
