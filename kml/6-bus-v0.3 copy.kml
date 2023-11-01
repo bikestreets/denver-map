@@ -5,26 +5,26 @@
 
     <Style id="line-000000-3713-nodesc-normal">
       <LineStyle>
-        <color>ff00d6ff</color>
+        <color>ff0051e6</color>
         <width>2</width>
       </LineStyle>
     </Style>
     <Style id="line-000000-3713-nodesc-highlight">
       <LineStyle>
-        <color>ff00d6ff</color>
+        <color>ff0051e6</color>
         <width>2</width>
       </LineStyle>
     </Style>
 
     <Style id="line-000000-3713-normal">
       <LineStyle>
-        <color>ff00d6ff</color>
+        <color>ff0051e6</color>
         <width>2</width>
       </LineStyle>
     </Style>
     <Style id="line-000000-3713-highlight">
       <LineStyle>
-        <color>ff00d6ff</color>
+        <color>ff0051e6</color>
         <width>2</width>
       </LineStyle>
     </Style>
