@@ -851,6 +851,31 @@
     </Placemark>
 
     <Placemark>
+      <name>Tribute on Zuni</name>
+      <description></description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+          <coordinates>
+            -105.01585,39.78558,0
+            -105.01585,39.78523,0
+            -105.01584,39.78433,0
+            -105.01584,39.784,0
+            -105.01584,39.78384,0
+            -105.01584,39.78371,0
+            -105.01584,39.7837,0
+            -105.01584,39.78365,0
+            -105.01584,39.78358,0
+            -105.01584,39.78357,0
+            -105.01583,39.78329,0
+            -105.01583,39.78274,0
+            -105.01583,39.78256,0
+            -105.01579,39.78256,0
+          </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Village on Bannock</name>
       <description></description>
       <styleUrl>#line-000000-3713</styleUrl>

@@ -2384,6 +2384,35 @@
     </Placemark>
 
     <Placemark>
+      <name>Saunter at Federal</name>
+      <description>Street View: https://maps.app.goo.gl/9xpmdvcWAkw599vE6
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along 50th Ave to the alley E of Federal<br/>
+        Ride S in the alley to 49th Ave<br/>
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along 50th to Green Ct<br/>
+        Ride S on Green Ct<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02629484251504,39.78736671397175
+        -105.02586985074437,39.78736671397175
+        -105.02579213796311,39.78734618645018
+        -105.02540843110715,39.787342454173
+        -105.02500043900756,39.78737231238543
+        -105.0249591540923,39.78738537534889
+        -105.02454,39.78736,0
+
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Session at Peoria</name>
       <description>Street View: https://goo.gl/maps/j3JKUFHKfJT2
         <br/><br/>
@@ -2875,6 +2904,39 @@
         <tessellate>1</tessellate>
         <coordinates>
           -105.00968590378761,39.76212337206988 -105.00973150134087,39.76209966100308 -105.0097207725048,39.76198935288923 -105.00970736145973,39.76189038471146
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Union at I-70</name>
+      <description>Street View: https://maps.app.goo.gl/WyjZVkni4eAVj67X9
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along 48th Ave to Tennyson<br/>
+        Walk S on the sidewalk along Tennyson<br/>
+        Walk E on the sidewalk along 48th Ave S<br/>
+        Ride S on Stuart<br/><br/>
+
+        South to North<br/><br/>
+        Walk W on the sidewalk along 48th Ave S to Tennyson<br/>
+        Walk N on the sidewalk along Tennyson<br/>
+        Walk E on the sidewalk along 48th Ave<br/>
+        Ride N on Stuart<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.04284527852909,39.78393905147294
+        -105.04314073373197,39.78394465755582
+        -105.04340700817382,39.78394465755582
+        -105.04350184564626,39.7839250362631
+        -105.043844719585,39.783927839305164
+        -105.04385930996513,39.783311167289526
+        -105.04385201477506,39.78326351513053
+        -105.04388484313075,39.78312896768159
+        -105.04284527852909,39.78314578612688
         </coordinates>
       </LineString>
     </Placemark>
