@@ -42,6 +42,31 @@
     <!-- Black Diamonds -->
 
     <Placemark>
+      <name>Balance</name>
+      <description>0.2 miles</description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.0325,39.72597,0
+          -105.0325,39.72584,0
+          -105.0325,39.72566,0
+          -105.0325,39.72548,0
+          -105.0325,39.72547,0
+          -105.0325,39.72528,0
+          -105.0325,39.72509,0
+          -105.0325,39.72502,0
+          -105.03249,39.72479,0
+          -105.03249,39.72453,0
+          -105.03249,39.72448,0
+          -105.03249,39.72421,0
+          -105.03248,39.72366,0
+          -105.03248,39.72294,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Ballpark</name>
       <description>0.5 miles</description>
       <styleUrl>#line-000000-3713</styleUrl>
