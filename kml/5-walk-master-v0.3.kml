@@ -329,27 +329,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Bonus at 1st</name>
-      <description>Street View: https://goo.gl/maps/ASiEZiTeh292
-        <br/><br/>
-        North to South<br/><br/>
-        Walk S at the traffic light across 1st<br/>
-        Ride E on the sidewalk to the Cherry Creek Trail<br/><br/>
-
-        South to North<br/><br/>
-        Walk N at the traffic light across 1st<br/>
-        Ride N on St Paul<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.95101124048233,39.71814490484769 -104.95098173618317,39.718095389284294 -104.95106756687164,39.71795303184152 -104.95115339756012,39.7178127372626
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Brigade at Denver Art Museum</name>
       <description>
         <br/><br/>Street View: https://goo.gl/maps/w2ic6q653YNnXnkU8
