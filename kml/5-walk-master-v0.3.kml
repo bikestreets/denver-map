@@ -1854,6 +1854,31 @@
     </Placemark>
 
     <Placemark>
+      <name>Outlook at Lipan</name>
+      <description>Street View: https://maps.app.goo.gl/dzuVykoNgRiwyXBF9
+        <br/><br/>
+        West to East<br/><br/>
+        Walk E on the sidewalk along Alameda to the bridge over I-25<br/>
+        Ride E on the sidewalk along Alameda
+        <br/><br/>
+
+        East to West<br/><br/>
+        Walk W on the sidewalk along Alameda<br/>
+        Ride N on Lipan<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.00155594300082,39.71131740275408
+        -105.00139689026726,39.711316191318105
+        -105.0013716937943,39.71130649982976
+        -105.00065831866162,39.711346477211066
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Outlook at University/Alameda</name>
       <description>Street View: https://goo.gl/maps/C2mVJvycUys
         <br/><br/>
