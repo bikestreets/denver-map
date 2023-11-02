@@ -1200,35 +1200,6 @@
       </LineString>
     </Placemark>
 
-
-    <Placemark>
-      <name>General at 20th Ave</name>
-      <description>Street View: https://goo.gl/maps/SaLCcjQTsKH2 > https://goo.gl/maps/4hCG331cYSJ2 > https://goo.gl/maps/Cerz7G9JAYK2
-        <br/><br/>
-        North to South<br/><br/>
-        Walk S on the Benedict Fountain Park sidewalk along Grant<br/>
-        Walk S at the crosswalk across 20th Ave<br/>
-        Walk W at the crosswalk across Grant<br/>
-        Walk W on the sidewalk along 20th Ave<br/>
-        Ride S on Sherman
-        <br/><br/>
-
-        South to North<br/><br/>
-        Walk E on the sidewalk along 20th Ave<br/>
-        Walk E at the crosswalk across Grant<br/>
-        Walk N at the crosswalk across 20th Ave<br/>
-        Walk N on the Benedict Fountain Park sidewalk along Grant<br/>
-        Ride NW on 21st St<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.98347401618958,39.74780864999841 -104.98351693153381,39.747691101073116 -104.98348206281662,39.74764366899384 -104.98349010944366,39.74748074986414 -104.98370200395584,39.747458064891454 -104.98372413218021,39.74747971872918 -104.98419754207134,39.747481265431595 -104.98472660779953,39.74748074986414
-        </coordinates>
-      </LineString>
-    </Placemark>
-
     <Placemark>
       <name>General at 6th/Speer</name>
       <description>Street View: https://goo.gl/maps/3unirk8pkrcTcr1b9

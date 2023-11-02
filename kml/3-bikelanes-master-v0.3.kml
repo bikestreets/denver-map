@@ -42,7 +42,7 @@
     <!-- Black Diamonds -->
 
     <Placemark>
-      <name>Balance</name>
+      <name>Balance on Knox</name>
       <description>0.2 miles</description>
       <styleUrl>#line-000000-3713</styleUrl>
       <LineString>
@@ -67,7 +67,7 @@
     </Placemark>
 
     <Placemark>
-      <name>Ballpark</name>
+      <name>Ballpark on Wynkoop</name>
       <description>0.5 miles</description>
       <styleUrl>#line-000000-3713</styleUrl>
       <LineString>
@@ -338,15 +338,34 @@
     </Placemark>
 
     <Placemark>
+      <name>General on Grant</name>
+      <description></description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.98356,39.74781,0
+          -104.98359,39.74778,0
+          -104.9836,39.74755,0
+          -104.98359,39.74742,0
+          -104.98359,39.74726,0
+          -104.98359,39.74704,0
+          -104.98359,39.74678,0
+          -104.98361,39.74647,0
+          -104.98359,39.74622,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>General on Sherman</name>
       <description></description>
       <styleUrl>#line-000000-3713</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.98485,39.74752,0
-          -104.98485,39.74686,0
-          -104.98485,39.7462,0
+          -104.98485,39.74614,0
+          -104.98485,39.74569,0
           -104.98485,39.74534,0
           -104.98485,39.74506,0
           -104.98485,39.74488,0
@@ -357,9 +376,12 @@
           -104.98486,39.74328,0
           -104.98486,39.74282,0
           -104.98486,39.74168,0
+          -104.98486,39.74086,0
+          -104.98486,39.74061,0
           -104.98486,39.74041,0
           -104.98487,39.74011,0
           -104.98487,39.74001,0
+          -104.98486,39.73985,0
         </coordinates>
       </LineString>
     </Placemark>
