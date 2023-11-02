@@ -2895,34 +2895,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Union at Colfax</name>
-      <description>Street View: https://goo.gl/maps/ouiB5m8Kjz62
-        <br/><br/>
-        North to South<br/><br/>
-        Walk E on the sidewalk along Colfax to Meade<br/>
-        Walk S at the traffic light across Colax<br/>
-        Walk W on the sidewalk along Colfax<br/>
-        Ride S on Newton<br/><br/>
-
-        South to North<br/><br/>
-        Walk E on the sidewalk along Colfax to Meade<br/>
-        Walk N at the traffic light across Colfax<br/>
-        Walk W on the sidewalk along Colfax<br/>
-        Ride N on Newton<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -105.03693580627441,39.74044805060284,0
-          -105.03592193126677,39.74044598812241,0
-          -105.03591924905777,39.7402479897141,0
-          -105.0369331240654,39.74025623965914,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Union at 6th</name>
       <description>Street View: https://goo.gl/maps/ziGEBm9HmfH2
         <br/><br/>
