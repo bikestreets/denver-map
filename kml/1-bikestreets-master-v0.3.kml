@@ -13755,7 +13755,26 @@
     </Placemark>
 
     <Placemark>
-      <name>Vista at Grove</name>
+      <name>Vista at Grove between 20th and 17th</name>
+      <description></description>
+      <styleUrl>#line-01579B-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02682,39.74769,0
+          -105.02682,39.74758,0
+          -105.02682,39.74636,0
+          -105.02681,39.74553,0
+          -105.02682,39.74516,0
+          -105.02682,39.74487,0
+          -105.02679,39.74394,0
+          -105.02679,39.74383,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
+      <name>Vista at Grove between 2nd and Cedar</name>
       <description></description>
       <styleUrl>#line-01579B-5000</styleUrl>
       <LineString>
