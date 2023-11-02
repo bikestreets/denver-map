@@ -775,6 +775,37 @@
     </Placemark>
 
     <Placemark>
+      <name>Story on Jackson</name>
+      <description>0.2 miles</description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.94284,39.7728,0
+          -104.94284,39.7729,0
+          -104.94294,39.7729,0
+          -104.94294,39.77331,0
+          -104.94293,39.77343,0
+          -104.94293,39.7736,0
+          -104.94292,39.77384,0
+          -104.94292,39.7742,0
+          -104.94289,39.77437,0
+          -104.94285,39.77448,0
+          -104.94279,39.77466,0
+          -104.94276,39.7747,0
+          -104.94268,39.77484,0
+          -104.94253,39.77507,0
+          -104.94239,39.77526,0
+          -104.94229,39.7754,0
+          -104.94216,39.77556,0
+          -104.94209,39.77565,0
+          -104.94204,39.7757,0
+          -104.94202,39.77572,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>System</name>
       <description>2.9 miles. 15th is one-way NW. Includes unprotected bike lanes on 16th, buffered and unprotected bike lanes on 15th, and car traffic.</description>
       <styleUrl>#line-000000-3713</styleUrl>
