@@ -13876,6 +13876,25 @@
       </LineString>
     </Placemark>
 
+    <Placemark>
+      <name>Village on 10th Ave</name>
+      <description></description>
+      <styleUrl>#line-01579B-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.00156,39.7321,0
+          -105.00089,39.7321,0
+          -105.00018,39.7321,0
+          -104.99943,39.7321,0
+          -104.99865,39.7321,0
+          -104.99813,39.7321,0
+          -104.99804,39.7321,0
+          -104.9977,39.7321,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
 
     <Placemark>
       <name>Wander at Berkeley Lake Park</name>
