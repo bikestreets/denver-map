@@ -1946,31 +1946,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Platform at 6th</name>
-      <description>Street View: https://goo.gl/maps/Sx3Qzv9REfz
-        <br/><br/>
-        North to South<br/><br/>
-        Walk S across westbound 6th to the median (no traffic light)<br/>
-        Walk S on sidewalk on the median<br/>
-        Walk S across eastbound 6th (no traffic light)<br/>
-        Ride S on Crestmoor<br/><br/>
-
-        South to North<br/><br/>
-        Walk N across eastbound 6th to the median (no traffic light)<br/>
-        Walk N on sidewalk on the median<br/>
-        Walk N across westbound 6th (no traffic light)<br/>
-        Ride N on Jasmine<br/><br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.91830974817276,39.725747185202856 -104.91826951503754,39.7257409964417 -104.91824269294737,39.725714178470156 -104.91824269294737,39.72556977382889 -104.9182265996933,39.7255182006694 -104.91821587085724,39.72548725675523 -104.91819441318512,39.725419180095095 -104.91818636655807,39.72539648786013 -104.918172955513,39.725280963638994 -104.91815686225891,39.72526239722827 -104.91810590028763,39.72526446016303
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Platform at Alameda</name>
       <description>Street View: https://goo.gl/maps/thfmxEUkEPz
         <br/><br/>

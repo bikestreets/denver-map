@@ -2633,7 +2633,7 @@
 
     <Placemark>
       <name>Entrance</name>
-      <description>11.7 miles. Ride on sidewalk along Brighton / Broadway.</description>
+      <description>11.6 miles</description>
       <styleUrl>#line-01579B-5000</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
