@@ -13755,6 +13755,33 @@
     </Placemark>
 
     <Placemark>
+      <name>Vista at Grove</name>
+      <description></description>
+      <styleUrl>#line-01579B-5000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.02635,39.71969,0
+          -105.02633,39.71815,0
+          -105.02633,39.71797,0
+          -105.02633,39.71779,0
+          -105.02633,39.71762,0
+          -105.02633,39.71658,0
+          -105.02633,39.71622,0
+          -105.02633,39.71532,0
+          -105.02634,39.71498,0
+          -105.02634,39.7148,0
+          -105.02634,39.71462,0
+          -105.02634,39.71444,0
+          -105.02634,39.71373,0
+          -105.02634,39.71355,0
+          -105.02634,39.71341,0
+          -105.0263,39.71341,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Vista at West Harvard Gulch Trail</name>
       <description></description>
       <styleUrl>#line-01579B-5000</styleUrl>
