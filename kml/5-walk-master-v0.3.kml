@@ -1006,6 +1006,29 @@
     </Placemark>
 
     <Placemark>
+      <name>First Creek Trail at Green Valley Ranch Blvd</name>
+      <description>Street View: https://maps.app.goo.gl/d6sb25FMSLRFeX5v9
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across GVR Blvd<br/>
+        Ride S on First Creek Trail
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N across GVR Blvd<br/>
+        Ride N on First Creek Trail<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.740041,39.781909,0
+          -104.739983,39.781616,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Fortune at Colorado</name>
       <description>Street View: https://goo.gl/maps/Shw3duNmALE2
         <br/><br/>
