@@ -1410,19 +1410,22 @@
         Walk E on the sidewalk along Evans to Logan<br/>
         Walk S at the traffic light across Evans<br/>
         Walk W on the sidewalk along Evans<br/>
-        Ride S on Grant<br/><br/>
+        Ride S in the alley<br/><br/>
 
         South to North<br/><br/>
         Walk E on the sidewalk along Evans to Logan<br/>
         Walk N at the traffic light across Evans<br/>
         Walk W on the sidewalk along Evans<br/>
-        Ride N on Grant<br/>
+        Ride N in the alley<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.98396217823029,39.67867178965688 -104.98301267623901,39.678680046968594 -104.98296439647673,39.678485999882085 -104.98392462730408,39.678477742547166
+          -104.98349457708521,39.67866806703179
+        -104.98301367938429,39.67867858171317
+        -104.98296996141158,39.67848090543194
+        -104.98347545047241,39.67848090543194
         </coordinates>
       </LineString>
     </Placemark>
