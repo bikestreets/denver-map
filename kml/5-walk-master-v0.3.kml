@@ -2611,6 +2611,31 @@
     </Placemark>
 
     <Placemark>
+      <name>Summit at 10th Ave</name>
+      <description>Street View: https://maps.app.goo.gl/7D6RhXS3k1M6SEcdA
+        <br/><br/>
+        North to South<br/><br/>
+        Walk W on the sidewalk along 10th<br/>
+        Walk S across 10th<br/>
+        Ride S on Wolff<br/>
+        <br/><br/>
+
+        South to North<br/><br/>
+        Walk N across 10th<br/>
+        Walk E on the sidewalk along 10th<br/>
+        Ride N on Wolff<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -105.04829244786576,39.7331273802522
+        -105.048684267977,39.7331273802522
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Sunrise at 2nd/Speer/3rd</name>
       <description>Street View: https://goo.gl/maps/3r1rbnrjnuq > https://goo.gl/maps/fdLKeUvSo9x > https://goo.gl/maps/KDZsy4q3vVk
         <br/><br/>
