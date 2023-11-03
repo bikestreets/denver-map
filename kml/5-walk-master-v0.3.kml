@@ -485,25 +485,30 @@
 
     <Placemark>
     <name>Diamond at University</name>
-    <description>Street View: https://goo.gl/maps/FDoDsYZSZZ22
+    <description>Street View: https://maps.app.goo.gl/JQP5qeYwAb6XDDBi8
       <br/><br/>
       West to East<br/><br/>
-      Walk S on the sidewalk along University<br/>
-      Walk E across University at the traffic light at Girard<br/>
       Walk N on the sidewalk along University<br/>
-      Ride E on Floyd<br/><br/>
+      Walk E across University at the traffic light at Dartmouth<br/>
+      Walk E on the sidewalk along Dartmouth<br/>
+      Ride S on Josephine<br/><br/>
 
       East to West<br/><br/>
+      Walk W on the sidewalk along Dartmouth<br/>
+      Walk W across University at the traffic light<br/>
       Walk S on the sidewalk along University<br/>
-      Walk W across University at the traffic light at Girard<br/>
-      Walk N on the sidewalk along University<br/>
-      Ride W on Floyd Ave (not Floyd Pl)<br/>
+      Ride W on Dartmouth Pl<br/>
     </description>
     <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
     <LineString>
       <tessellate>1</tessellate>
       <coordinates>
-        -104.95958089828491,39.65666254701142 -104.95955944061278,39.65660885736116 -104.95957016944885,39.65601000843527 -104.95957553386688,39.65587371795492 -104.95957553386688,39.65556396586389 -104.95960235595703,39.65542767450411 -104.9596184492111,39.65519639158161 -104.95963990688323,39.65487011614291 -104.95967745780943,39.65482468526348 -104.95966672897339,39.65463470126234 -104.95936095714569,39.65463470126234 -104.95937168598175,39.65648495800907 -104.95933413505554,39.656505607916515
+        -104.9595723552269,39.6596240071658
+      -104.95956549015212,39.65965175380131
+      -104.95956205761436,39.66027803203718
+      -104.95934924029287,39.660271425756406
+      -104.95894248460552,39.660267461987615
+      -104.9585316613943,39.66026097337331
       </coordinates>
     </LineString>
   </Placemark>
