@@ -1500,32 +1500,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Method at York</name>
-      <description>Street View: https://goo.gl/maps/4xHBmLNKY5q
-        <br/><br/>
-        West to East<br/><br/>
-        Walk S on the sidewalk along York to 26th<br/>
-        Walk E at the traffic light across York<br/>
-        Walk N on the sidewalk along York<br/>
-        Ride E on 27th
-        <br/><br/>
-
-        East to West<br/><br/>
-        Walk S on the sidewalk along York to 26th<br/>
-        Walk W at the traffic light across York<br/>
-        Walk N on the sidewalk along York<br/>
-        Ride W on 27th<br/>
-      </description>
-      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -104.95989203453064,39.755681909087805 -104.95989471673965,39.75457871719969 -104.95964527130127,39.75457459308471 -104.95965600013733,39.75567984706337
-        </coordinates>
-      </LineString>
-    </Placemark>
-
-    <Placemark>
       <name>Method at Colorado</name>
       <description>Street View: https://goo.gl/maps/xtVcjNT61m62
         <br/><br/>
@@ -2604,26 +2578,29 @@
 
     <Placemark>
       <name>Story at York</name>
-      <description>Street View: https://goo.gl/maps/hRRykxEPh9w
+      <description>Street View: https://maps.app.goo.gl/wh9qEzS2LRQMHxyX6
         <br/><br/>
         West to East<br/><br/>
-        Walk S on the sidewalk along York to Bruce Randolph<br/>
+        Walk E on the sidewalk along Bruce Randolph<br/>
         Walk E at the traffic light across York<br/>
-        Walk N on the sidewalk along York<br/>
-        Ride E on 35th<br/>
+        Ride N through the alley to 35th<br/>
         <br/><br/>
 
         East to West<br/><br/>
-        Walk S on the sidewalk along York to Bruce Randolph<br/>
-        Walk W on at the traffic light across York<br/>
-        Walk N on the sidewalk along York<br/>
-        Ride W on 35th<br/>
+        Walk W on the sidewalk along Bruce Randolph<br/>
+        Walk W at the traffic light across York<br/>
+        Ride N through the alley to 35th<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.95987594127655,39.765659322375534 -104.95988130569457,39.764587216682884 -104.95964795351028,39.76458515492508 -104.95963990688323,39.76569024825356
+          -104.96033,39.76453,0
+          -104.96011,39.76453,0
+          -104.95981,39.76453,0
+          -104.95969,39.76453,0
+          -104.95938,39.76453,0
+          -104.95923,39.76453,0
         </coordinates>
       </LineString>
     </Placemark>
