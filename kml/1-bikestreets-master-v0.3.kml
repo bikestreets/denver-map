@@ -1527,7 +1527,7 @@
 
     <Placemark>
       <name>Central</name>
-      <description>2.5 miles</description>
+      <description>2.6 miles</description>
       <styleUrl>#line-01579B-5000</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -1643,6 +1643,12 @@
         -104.88478,39.74769,0
         -104.88476,39.74762,0
         -104.88476,39.74761,0
+
+        -104.88482945923943,39.747562593963636
+      -104.88486011386055,39.74754373845036
+      -104.88486011386055,39.74736107539502
+      -104.88525404296215,39.747358559552964
+      -104.88525404296215,39.74565700913587
         </coordinates>
       </LineString>
     </Placemark>

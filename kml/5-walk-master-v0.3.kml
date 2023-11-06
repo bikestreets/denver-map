@@ -361,6 +361,32 @@
     </Placemark>
 
     <Placemark>
+      <name>Central at Montview</name>
+      <description>Street View: https://maps.app.goo.gl/Zz9DiNWue25RnujC7
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S at the traffic light across Montview<br/>
+        Walk W on the sidewalk along Montview<br/>
+        Ride S through the alley to 19th Ave<br/><br/>
+
+        South to North<br/><br/>
+        Walk E on the sidewalk along Montview<br/>
+        Walk N at the traffic light across Montview<br/>
+        Ride N on Central Park Blvd<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.88482945923943,39.747562593963636
+        -104.88486011386055,39.74754373845036
+        -104.88486011386055,39.74736107539502
+        -104.88525404296215,39.747358559552964
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Coaster at Colorado Blvd</name>
       <description>Street View: https://goo.gl/maps/CmikhodHSHUgNCvB8
         <br/><br/>
