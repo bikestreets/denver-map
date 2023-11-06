@@ -842,25 +842,28 @@
 
     <Placemark>
       <name>Entrance at Alameda</name>
-      <description>Street View: https://goo.gl/maps/xtX99Q1XkoA2
+      <description>Street View: https://maps.app.goo.gl/rd96P1mex2tUQXKt8
         <br/><br/>
         North to South<br/><br/>
         Walk W on the sidewalk along Alameda to Emerson<br/>
         Walk S at the traffic light across Alameda<br/>
         Walk E on the sidewalk along Alameda<br/>
-        Ride W on Ogden<br/><br/>
+        Ride S through the alley to Dakota<br/><br/>
 
         South to North<br/><br/>
         Walk W on the sidewalk along Alameda to Emerson<br/>
         Walk N at the traffic light across Alameda<br/>
         Walk E on the sidewalk along Alameda<br/>
-        Ride N on Ogden<br/>
+        Ride N through the alley to Dakota<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.97581094503403,39.711185556461 -104.97683554887772,39.71118761981684 -104.97681140899658,39.71103493131564 -104.97580826282501,39.71104524811691
+          -104.97632,39.71115,0
+          -104.97687,39.71115,0
+          -104.97687,39.71106,0
+          -104.97636,39.71106,0
         </coordinates>
       </LineString>
     </Placemark>
