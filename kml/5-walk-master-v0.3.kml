@@ -1592,25 +1592,31 @@
 
     <Placemark>
       <name>Mixture at Evans</name>
-      <description>Street View: https://goo.gl/maps/Sf7VZfDR8a9vHM4Q7 > https://goo.gl/maps/ekPQUz8Pz8P511d69 > https://goo.gl/maps/ZsdpxnRSxwvCYhBz7
+      <description>Street View:https://maps.app.goo.gl/uuCHxzMHevzTTiWF8
         <br/><br/>
         North to South<br/><br/>
         Walk W on the sidewalk along Evans<br/>
         Walk S at the traffic light across Evans<br/>
         Walk E on the sidewalk along Evans<br/>
-        Ride S on Adams<br/><br/>
+        Ride S through the alley to Warren<br/><br/>
 
         South to North<br/><br/>
         Walk W on the sidewalk along Evans<br/>
         Walk N at the traffic light across Evans<br/>
         Walk E on the sidewalk along Evans<br/>
-        Ride N on Adams<br/>
+        Ride N through the alley to Asbury<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.94950383901596,39.678549994194256 -104.94984984397887,39.67855825152055 -104.95009660720825,39.67853141520649 -104.95021462440491,39.67853347953874 -104.95054185390472,39.67856031585199 -104.95072156190872,39.67855825152055 -104.95072424411774,39.67830846696364 -104.94952529668807,39.67832291733452
+          -104.95013,39.67852,0
+          -104.95038,39.67852,0
+          -104.95078,39.67852,0
+          -104.95078,39.67843,0
+          -104.95078,39.67834,0
+          -104.95038,39.67834,0
+          -104.95018,39.67834,0
         </coordinates>
       </LineString>
     </Placemark>
