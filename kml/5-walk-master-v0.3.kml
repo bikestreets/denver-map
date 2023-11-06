@@ -790,25 +790,33 @@
 
     <Placemark>
       <name>Entrance at Colfax</name>
-      <description>Street View: https://goo.gl/maps/cj6XWtVnjt32
+      <description>Street View: https://maps.app.goo.gl/5iCjtJX6P2VcLS2q6
         <br/><br/>
         North to South<br/><br/>
         Walk W along Colfax to Clarkson<br/>
         Walk S at the traffic light across Colfax<br/>
-        Walk E along Colfax<br/>
-        Ride S on Emerson<br/><br/>
+        Walk S along Clarkson<br/>
+        Ride E through the alley to Ogden<br/><br/>
 
         South to North<br/><br/>
-        Walk W along Colfax to Clarkson<br/>
+        Walk N along Clarkson<br/>
         Walk N at the traffic light across Colfax<br/>
         Walk E on Colfax<br/>
-        Ride N on Emerson<br/>
+        Ride N through the alley to 16th Ave<br/>
       </description>
       <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          -104.97625350952148,39.74012217792992 -104.97747659683228,39.740126302910085 -104.97757315635681,39.73991799110277 -104.97657269239426,39.7399303660792
+          -104.97696,39.74005,0
+          -104.97714,39.74006,0
+          -104.97755,39.74006,0
+          -104.97757,39.73997,0
+          -104.97759,39.7399,0
+          -104.9776,39.73986,0
+          -104.9776,39.73979,0
+          -104.9776,39.73965,0
+          -104.97761,39.73959,0
         </coordinates>
       </LineString>
     </Placemark>
