@@ -595,6 +595,21 @@
     </Placemark>
 
     <Placemark>
+      <name>Power on Glenarm</name>
+      <description></description>
+      <styleUrl>#line-000000-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.98745,39.74619,0
+          -104.98767,39.74604,0
+          -104.9878,39.74594,0
+          -104.98804,39.74573,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Outlook on Cherokee/Dakota</name>
       <description></description>
       <styleUrl>#line-000000-3713</styleUrl>
