@@ -2073,6 +2073,31 @@
     </Placemark>
 
     <Placemark>
+      <name>Pearly at Speer</name>
+      <description>Street View: https://maps.app.goo.gl/Dc9rf1znddA5TKb88
+        <br/><br/>
+        North to South<br/><br/>
+        Walk S across Speer<br/>
+        Walk WE on the sidewalk along Speer<br/>
+        Ride S on Pearl<br/><br/>
+
+        South to North<br/><br/>
+        Walk NW on the sidewalk along Speer<br/>
+        Walk N across Speer<br/>
+        Ride N to the Cherry Creek Trail<br/>
+      </description>
+      <styleUrl>#line-C2185B-4294-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -104.98159,39.72204,0
+
+          -104.98166,39.72195,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <Placemark>
       <name>Quintet at I-25</name>
       <description>Street View: https://goo.gl/maps/nYsr2NwmGU62 > https://goo.gl/maps/aBbNNWLAY8Q2 > https://goo.gl/maps/ZdxWFLokcL72
         <br/><br/>
