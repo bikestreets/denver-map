@@ -1,6 +1,6 @@
 var tj = require('@mapbox/togeojson')
 var fs = require('fs')
-var DOMParser = require('xmldom').DOMParser;
+var DOMParser = require('@xmldom/xmldom').DOMParser;
 
 maps = ["1-bikestreets-master-v0.3","2-trails-master-v0.3","3-bikelanes-master-v0.3","4-bikesidewalks-master-v0.3","5-walk-master-v0.3"]
 
